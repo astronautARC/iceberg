@@ -75,9 +75,10 @@ def get(url, timeout=25, tries=2, headers=None):
 
 # ---------------------------------------------------------------- időzítés
 def slot_now(state):
-    """Melyik futás jön: 'morning' (5–7 óra) vagy 'evening' (17–19 óra); None, ha most nem kell futni."""
+    """Melyik futás jön: 'morning' (5:50-től) vagy 'evening' (17:50-től); None, ha most nem kell futni."""
+    m = LOCAL.hour * 60 + LOCAL.minute
+    slot = "morning" if 5 * 60 + 50 <= m <= 9 * 60 + 30 else "evening" if 17 * 60 + 50 <= m <= 21 * 60 + 30 else None
     h = LOCAL.hour
-    slot = "morning" if 4 <= h <= 7 else "evening" if 16 <= h <= 19 else None
     if FORCE:
         return slot or ("morning" if h < 12 else "evening")
     if slot and state.get("last_" + slot) == TODAY.isoformat():

@@ -2,11 +2,11 @@ name: IceBerg frissítés
 
 on:
   schedule:
-    # Óránként kétszer próbálkozik a reggeli és az esti ablakban (UTC-ben megadva, így a téli és a nyári
+    # 20 percenként próbálkozik a reggeli és az esti ablakban (UTC-ben megadva, így a téli és a nyári
     # időszámításnál is van futás 5:xx és 17:xx körül magyar idő szerint). A program maga dönti el,
     # hogy az adott napszakban kell-e még frissíteni, így naponta pontosan kétszer frissít.
-    - cron: "40 3,4 * * *"
-    - cron: "40 15,16 * * *"
+    - cron: "7,27,47 4-7 * * *"
+    - cron: "7,27,47 16-19 * * *"
   workflow_dispatch:
     inputs:
       force:
