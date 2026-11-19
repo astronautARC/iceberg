@@ -1,0 +1,564 @@
+{
+ "updated": "2026-11-19T11:00:00Z",
+ "last_morning": "",
+ "last_evening": "",
+ "items": [
+  {
+   "id": "yt-UitmCk9vOs8",
+   "cat": "comfy",
+   "title": "Better/Faster Video in ComfyUI - (Automatic Prompting)",
+   "date": "2026-11-10",
+   "src": "YouTube",
+   "url": "https://www.youtube.com/watch?v=UitmCk9vOs8",
+   "yt": "UitmCk9vOs8",
+   "tags": [
+    "comfyui",
+    "video",
+    "workflow"
+   ],
+   "lead": "Saját workflow gyorsabb és jobb helyi videógeneráláshoz, automatikus promptírással.",
+   "first_seen": "2026-11-19T11:00:00Z"
+  },
+  {
+   "id": "yt-zG_xUTqwqbQ",
+   "cat": "comfy",
+   "title": "RelayVSR: 4K Video Upscaling is HERE! (Native RelayVSR in ComfyUI)",
+   "date": "2026-11-07",
+   "src": "YouTube",
+   "url": "https://www.youtube.com/watch?v=zG_xUTqwqbQ",
+   "yt": "zG_xUTqwqbQ",
+   "tags": [
+    "comfyui",
+    "video"
+   ],
+   "lead": "A RelayVSR videófelskálázó modell natívan bekerült a ComfyUI-ba; a videó a 4K-s felskálázást mutatja be.",
+   "first_seen": "2026-11-19T11:00:00Z"
+  },
+  {
+   "id": "yt-OWr3IU82bJ8",
+   "cat": "claude",
+   "title": "The New Cinematic AI Film Workflow (What Actually Works)",
+   "date": "2026-11-06",
+   "src": "YouTube",
+   "url": "https://www.youtube.com/watch?v=OWr3IU82bJ8",
+   "yt": "OWr3IU82bJ8",
+   "tags": [
+    "ai-film",
+    "claude",
+    "mcp",
+    "workflow"
+   ],
+   "lead": "Egy AI rövidfilm teljes gyártási folyamata: a videógenerálást Claude Code vezérli MCP-n keresztül. Megmutatja, mi működik a gyakorlatban.",
+   "first_seen": "2026-11-19T11:00:00Z"
+  },
+  {
+   "id": "yt-3AIZ4FT61aw",
+   "cat": "claude",
+   "title": "How I Make Motion Graphics with Claude + After Effects (Full Setup)",
+   "date": "2026-11-05",
+   "src": "YouTube",
+   "url": "https://www.youtube.com/watch?v=3AIZ4FT61aw",
+   "yt": "3AIZ4FT61aw",
+   "tags": [
+    "claude",
+    "motion",
+    "workflow"
+   ],
+   "lead": "Motion grafika After Effectsben úgy, hogy a kompozíciókat Claude építi fel. Beállítás pár perc alatt, plusz öt egyre nehezebb példa.",
+   "first_seen": "2026-11-19T11:00:00Z"
+  },
+  {
+   "id": "yt-JMDPignEbP0",
+   "cat": "comfy",
+   "title": "Hy-Nomas Video World Model in ComfyUI - Running Long Video Easily!",
+   "date": "2026-11-04",
+   "src": "YouTube",
+   "url": "https://www.youtube.com/watch?v=JMDPignEbP0",
+   "yt": "JMDPignEbP0",
+   "tags": [
+    "comfyui",
+    "video"
+   ],
+   "lead": "Egyedi node-csomag, amely a Hy-Nomas nyílt súlyú videó-világmodellt natívan futtatja ComfyUI-ban, hosszú videókhoz.",
+   "first_seen": "2026-11-19T11:00:00Z"
+  },
+  {
+   "id": "yt-QZQqxNepbzs",
+   "cat": "claude",
+   "title": "How i make motion graphics just by typing to Claude",
+   "date": "2026-11-03",
+   "src": "YouTube",
+   "url": "https://www.youtube.com/watch?v=QZQqxNepbzs",
+   "yt": "QZQqxNepbzs",
+   "tags": [
+    "claude",
+    "motion"
+   ],
+   "lead": "Claude és Remotion együtt: az animációt gépelve írod le, a kódot Claude készíti. A projekt beállításától a kész animációig.",
+   "first_seen": "2026-11-19T11:00:00Z"
+  },
+  {
+   "id": "yt-YFDXCq4qor4",
+   "cat": "comfy",
+   "title": "MiniMax H3 in ComfyUI | Character Swap, Talk, Sing & Timeline (Ep41)",
+   "date": "2026-11-03",
+   "src": "YouTube",
+   "url": "https://www.youtube.com/watch?v=YFDXCq4qor4",
+   "yt": "YFDXCq4qor4",
+   "tags": [
+    "comfyui",
+    "h3",
+    "workflow"
+   ],
+   "lead": "A MiniMax H3 videómodell tesztje ComfyUI-ban 25 ingyenes workflow-val: hangos videó képből, karaktercsere, beszéd és ének.",
+   "first_seen": "2026-11-19T11:00:00Z"
+  },
+  {
+   "id": "yt-52PMIVASSdM",
+   "cat": "comfy",
+   "title": "Best H3 Video Model in ComfyUI? Pika H3 Flex vs Fast H3 vs MiniMax H3 vs LTX 2.5",
+   "date": "2026-11-02",
+   "src": "YouTube",
+   "url": "https://www.youtube.com/watch?v=52PMIVASSdM",
+   "yt": "52PMIVASSdM",
+   "tags": [
+    "comfyui",
+    "h3",
+    "video"
+   ],
+   "lead": "Négy videómodell összehasonlítása ComfyUI-ban: Pika H3 Flex, Fast H3, MiniMax H3 és LTX 2.5.",
+   "first_seen": "2026-11-19T11:00:00Z"
+  },
+  {
+   "id": "yt--k5g0mdmwTo",
+   "cat": "3d",
+   "title": "How to Connect Blender to ChatGPT & Claude to Create 3D Models",
+   "date": "2026-10-31",
+   "src": "YouTube",
+   "url": "https://www.youtube.com/watch?v=-k5g0mdmwTo",
+   "yt": "-k5g0mdmwTo",
+   "tags": [
+    "blender",
+    "mcp",
+    "claude"
+   ],
+   "lead": "Blender összekötése ChatGPT-vel vagy Claude-dal a Blender MCP segítségével, hogy az AI szövegből építsen jelenetet, formát és animációt.",
+   "first_seen": "2026-11-19T11:00:00Z"
+  },
+  {
+   "id": "yt-ddMxsp32Gu8",
+   "cat": "claude",
+   "title": "How to Make Motion Graphics with Claude (Free, No Editing Software)",
+   "date": "2026-10-24",
+   "src": "YouTube",
+   "url": "https://www.youtube.com/watch?v=ddMxsp32Gu8",
+   "yt": "ddMxsp32Gu8",
+   "tags": [
+    "claude",
+    "motion"
+   ],
+   "lead": "Lépésről lépésre: letisztult motion grafika egyetlen promptból, vágóprogram nélkül.",
+   "first_seen": "2026-11-19T11:00:00Z"
+  },
+  {
+   "id": "yt-D5qpBbEWTxo",
+   "cat": "claude",
+   "title": "I Turned Claude Into a $880/Day Motion Graphics Skill (No After Effects)",
+   "date": "2026-10-20",
+   "src": "YouTube",
+   "url": "https://www.youtube.com/watch?v=D5qpBbEWTxo",
+   "yt": "D5qpBbEWTxo",
+   "tags": [
+    "claude",
+    "skill",
+    "motion"
+   ],
+   "lead": "Egy bemutatóvideó kódból, egy nap alatt, After Effects nélkül. Utána ugyanazt a feladatot egy valódi motion designer is megkapja.",
+   "first_seen": "2026-11-19T11:00:00Z"
+  },
+  {
+   "id": "yt-ZKPCE7E56nk",
+   "cat": "3d",
+   "title": "Claude Is Now Built Into Cinema 4D (Official MCP, 2026.4)",
+   "date": "2026-10-14",
+   "src": "YouTube",
+   "url": "https://www.youtube.com/watch?v=ZKPCE7E56nk",
+   "yt": "ZKPCE7E56nk",
+   "tags": [
+    "cinema4d",
+    "mcp",
+    "claude"
+   ],
+   "lead": "A Cinema 4D 2026.4 hivatalos MCP-szervert kapott, így Claude közösségi plugin nélkül, beépítve vezérelheti a programot.",
+   "first_seen": "2026-11-19T11:00:00Z"
+  },
+  {
+   "id": "yt-av-xDOxS1rs",
+   "cat": "comfy",
+   "title": "50 Free ComfyUI Automation Workflows (Ep38)",
+   "date": "2026-10-14",
+   "src": "YouTube",
+   "url": "https://www.youtube.com/watch?v=av-xDOxS1rs",
+   "yt": "av-xDOxS1rs",
+   "tags": [
+    "comfyui",
+    "workflow"
+   ],
+   "lead": "50 ingyenes ComfyUI workflow, amelyek a képekkel végzett ismétlődő munkát automatizálják az egyenkénti szerkesztés helyett.",
+   "first_seen": "2026-11-19T11:00:00Z"
+  },
+  {
+   "id": "yt-5HYYXYYCrL4",
+   "cat": "claude",
+   "title": "Claude Opus 5.5 + Higgsfield Make Insane Motion Graphics! (Claude Motion)",
+   "date": "2026-10-14",
+   "src": "YouTube",
+   "url": "https://www.youtube.com/watch?v=5HYYXYYCrL4",
+   "yt": "5HYYXYYCrL4",
+   "tags": [
+    "claude",
+    "motion"
+   ],
+   "lead": "Három próba a Claude Motion és a Higgsfield párosával: szerkeszthető bemutatóvideó, 3D termékreklám és egy teljes animált rövidfilm.",
+   "first_seen": "2026-11-19T11:00:00Z"
+  },
+  {
+   "id": "yt-hbPvZvpu9KU",
+   "cat": "claude",
+   "title": "The New Claude Motion Is Awesome",
+   "date": "2026-10-12",
+   "src": "YouTube",
+   "url": "https://www.youtube.com/watch?v=hbPvZvpu9KU",
+   "yt": "hbPvZvpu9KU",
+   "tags": [
+    "claude",
+    "motion"
+   ],
+   "lead": "Mire jó a Claude Motion: animált diagramok adatokból, magyarázó videók és a videó üteméhez igazított grafikák.",
+   "first_seen": "2026-11-19T11:00:00Z"
+  },
+  {
+   "id": "yt-DbyeC34VoEQ",
+   "cat": "3d",
+   "title": "ChatGPT Can Now Control Cinema 4D",
+   "date": "2026-10-08",
+   "src": "YouTube",
+   "url": "https://www.youtube.com/watch?v=DbyeC34VoEQ",
+   "yt": "DbyeC34VoEQ",
+   "tags": [
+    "cinema4d",
+    "mcp"
+   ],
+   "lead": "A Maxon beépített MCP-szerverén át a ChatGPT, a Claude és más asszisztensek közvetlenül elérik a Cinema 4D 3D-eszközeit.",
+   "first_seen": "2026-11-19T11:00:00Z"
+  },
+  {
+   "id": "yt-bPDfwNTJOWc",
+   "cat": "3d",
+   "title": "How an AI Assistant can help you with Motion Tracking",
+   "date": "2026-10-01",
+   "src": "YouTube",
+   "url": "https://www.youtube.com/watch?v=bPDfwNTJOWc",
+   "yt": "bPDfwNTJOWc",
+   "tags": [
+    "cinema4d",
+    "vfx",
+    "mcp"
+   ],
+   "lead": "Motion tracking gyorsítása és automatizálása Cinema 4D-ben AI-asszisztenssel, az MCP-szerveren keresztül.",
+   "first_seen": "2026-11-19T11:00:00Z"
+  },
+  {
+   "id": "yt-mltTwfrRAVc",
+   "cat": "3d",
+   "title": "AI Rebuilt This Window in Cinema 4D | MCP Demo",
+   "date": "2026-09-27",
+   "src": "YouTube",
+   "url": "https://www.youtube.com/watch?v=mltTwfrRAVc",
+   "yt": "mltTwfrRAVc",
+   "tags": [
+    "cinema4d",
+    "mcp"
+   ],
+   "lead": "Referenciaképből szerkeszthető spline-ok Cinema 4D-ben: a modellezést AI végzi egy Cinema 4D MCP-n keresztül.",
+   "first_seen": "2026-11-19T11:00:00Z"
+  },
+  {
+   "id": "yt-2eLm5RU2yuM",
+   "cat": "comfy",
+   "title": "How To Create A Workflow In ComfyUI [2026 Guide]",
+   "date": "2026-09-24",
+   "src": "YouTube",
+   "url": "https://www.youtube.com/watch?v=2eLm5RU2yuM",
+   "yt": "2eLm5RU2yuM",
+   "tags": [
+    "comfyui",
+    "workflow"
+   ],
+   "lead": "Útmutató saját ComfyUI workflow felépítéséhez az alapoktól.",
+   "first_seen": "2026-11-19T11:00:00Z"
+  },
+  {
+   "id": "yt-WKO-YgMQhLI",
+   "cat": "claude",
+   "title": "This Cinematic AI Film Workflow Changes Everything",
+   "date": "2026-09-17",
+   "src": "YouTube",
+   "url": "https://www.youtube.com/watch?v=WKO-YgMQhLI",
+   "yt": "WKO-YgMQhLI",
+   "tags": [
+    "ai-film",
+    "workflow"
+   ],
+   "lead": "Egy korábbi AI rövidfilm újraforgatása másfél nap alatt: kódoló ügynök irányítja a videógenerálókat, a végén DaVinci Resolve.",
+   "first_seen": "2026-11-19T11:00:00Z"
+  },
+  {
+   "id": "yt-c3iEy35G-tM",
+   "cat": "3d",
+   "title": "How to Link Claude AI with Blender [2026 Full Guide]",
+   "date": "2026-09-03",
+   "src": "YouTube",
+   "url": "https://www.youtube.com/watch?v=c3iEy35G-tM",
+   "yt": "c3iEy35G-tM",
+   "tags": [
+    "blender",
+    "mcp",
+    "claude"
+   ],
+   "lead": "Claude és Blender összekötése az ingyenes Blender MCP kiegészítővel: jelenetépítés, szerkesztés és render egyszerű promptokkal.",
+   "first_seen": "2026-11-19T11:00:00Z"
+  },
+  {
+   "id": "yt-XlPMKBVeoNw",
+   "cat": "claude",
+   "title": "Make AI Films Like a Pro: 2026 Complete Masterclass",
+   "date": "2026-09-01",
+   "src": "YouTube",
+   "url": "https://www.youtube.com/watch?v=XlPMKBVeoNw",
+   "yt": "XlPMKBVeoNw",
+   "tags": [
+    "ai-film",
+    "workflow"
+   ],
+   "lead": "A teljes AI filmes folyamat az elejétől a végéig: történet, karakterlapok, promptok, zene és vágás.",
+   "first_seen": "2026-11-19T11:00:00Z"
+  },
+  {
+   "id": "yt-uafAN8zLKD8",
+   "cat": "comfy",
+   "title": "ComfyUI Tutorial for Beginners: Text-to-Image & Image-to-Image Workflows (2026)",
+   "date": "2026-08-14",
+   "src": "YouTube",
+   "url": "https://www.youtube.com/watch?v=uafAN8zLKD8",
+   "yt": "uafAN8zLKD8",
+   "tags": [
+    "comfyui",
+    "workflow"
+   ],
+   "lead": "Kezdő tananyag: szövegből kép és képből kép workflow felépítése üres vászonról, node-ról node-ra.",
+   "first_seen": "2026-11-19T11:00:00Z"
+  },
+  {
+   "id": "yt-6B9WSxi6j8E",
+   "cat": "comfy",
+   "title": "Master LTX 2.5 in ComfyUI: Multi-Shot, First-Last Frame & 2K Workflows",
+   "date": "2026-08-13",
+   "src": "YouTube",
+   "url": "https://www.youtube.com/watch?v=6B9WSxi6j8E",
+   "yt": "6B9WSxi6j8E",
+   "tags": [
+    "comfyui",
+    "video",
+    "workflow"
+   ],
+   "lead": "Az LTX 2.5 nyílt forrású videómodell ComfyUI-ban: több snitt, első és utolsó képkocka, 2K-s workflow-k.",
+   "first_seen": "2026-11-19T11:00:00Z"
+  },
+  {
+   "id": "yt-d_wEd-fZcdg",
+   "cat": "comfy",
+   "title": "How To Use MiniMax H3 in ComfyUI: Best FREE AI Video Model of 2026!",
+   "date": "2026-08-09",
+   "src": "YouTube",
+   "url": "https://www.youtube.com/watch?v=d_wEd-fZcdg",
+   "yt": "d_wEd-fZcdg",
+   "tags": [
+    "comfyui",
+    "h3"
+   ],
+   "lead": "A MiniMax H3 nyílt forrású videómodell helyben, előfizetés nélkül futtatva ComfyUI-ban.",
+   "first_seen": "2026-11-19T11:00:00Z"
+  },
+  {
+   "id": "yt-97Y5cz7H8SM",
+   "cat": "claude",
+   "title": "Claude Design Just Unlocked AI Motion Graphics",
+   "date": "2026-08-05",
+   "src": "YouTube",
+   "url": "https://www.youtube.com/watch?v=97Y5cz7H8SM",
+   "yt": "97Y5cz7H8SM",
+   "tags": [
+    "claude",
+    "motion"
+   ],
+   "lead": "Motion grafika a Claude Designnal: adatvizualizáció, magyarázó videó, és átiratból a kimondott szavakhoz szinkronizált animáció.",
+   "first_seen": "2026-11-19T11:00:00Z"
+  },
+  {
+   "id": "yt-Ci9Xc-VPc04",
+   "cat": "3d",
+   "title": "Claude Opus 5 + Blender MCP = Professional 3D Scenes",
+   "date": "2026-08-02",
+   "src": "YouTube",
+   "url": "https://www.youtube.com/watch?v=Ci9Xc-VPc04",
+   "yt": "Ci9Xc-VPc04",
+   "tags": [
+    "blender",
+    "mcp",
+    "claude"
+   ],
+   "lead": "Claude Code és Blender összekötése MCP-vel: profi kinézetű 3D jelenetek és tárgyak természetes nyelvű utasításokból.",
+   "first_seen": "2026-11-19T11:00:00Z"
+  },
+  {
+   "id": "yt-B2wF909Iyto",
+   "cat": "3d",
+   "title": "9 AI Tools That Are Changing VFX Right Now",
+   "date": "2026-06-18",
+   "src": "YouTube",
+   "url": "https://www.youtube.com/watch?v=B2wF909Iyto",
+   "yt": "B2wF909Iyto",
+   "tags": [
+    "vfx"
+   ],
+   "lead": "Kilenc AI-eszköz, amelyeket VFX-művészek valódi gyártási pipeline-ban is használnak.",
+   "first_seen": "2026-11-19T11:00:00Z"
+  },
+  {
+   "id": "yt-4XYO3s1pzik",
+   "cat": "3d",
+   "title": "How to Connect and Use Claude AI with Blender",
+   "date": "2026-05-18",
+   "src": "YouTube",
+   "url": "https://www.youtube.com/watch?v=4XYO3s1pzik",
+   "yt": "4XYO3s1pzik",
+   "tags": [
+    "blender",
+    "mcp",
+    "claude"
+   ],
+   "lead": "A Blender MCP beállítása és összekötése a Claude asztali alkalmazással, hogy szöveges promptokból készüljenek 3D modellek.",
+   "first_seen": "2026-11-19T11:00:00Z"
+  },
+  {
+   "id": "yt-016ttQgr5II",
+   "cat": "comfy",
+   "title": "How To Add Workflow in ComfyUI (Full 2026 Guide)",
+   "date": "2026-05-12",
+   "src": "YouTube",
+   "url": "https://www.youtube.com/watch?v=016ttQgr5II",
+   "yt": "016ttQgr5II",
+   "tags": [
+    "comfyui",
+    "workflow"
+   ],
+   "lead": "Lépésről lépésre: kész workflow importálása ComfyUI-ba.",
+   "first_seen": "2026-11-19T11:00:00Z"
+  },
+  {
+   "id": "yt-a89tqIS2kMI",
+   "cat": "claude",
+   "title": "Claude Skills + After Effects = the future of motion design",
+   "date": "2026-05-10",
+   "src": "YouTube",
+   "url": "https://www.youtube.com/watch?v=a89tqIS2kMI",
+   "yt": "a89tqIS2kMI",
+   "tags": [
+    "claude",
+    "skill",
+    "motion"
+   ],
+   "lead": "Claude Skillek használata After Effectsen belül, valódi motion grafika generálására.",
+   "first_seen": "2026-11-19T11:00:00Z"
+  },
+  {
+   "id": "yt-zoTlIOYALmY",
+   "cat": "3d",
+   "title": "Create Anything in Blender Using Claude AI (Full MCP Tutorial)",
+   "date": "2026-05-06",
+   "src": "YouTube",
+   "url": "https://www.youtube.com/watch?v=zoTlIOYALmY",
+   "yt": "zoTlIOYALmY",
+   "tags": [
+    "blender",
+    "mcp",
+    "claude"
+   ],
+   "lead": "Claude és Blender összekötése az MCP kiegészítővel, lépésenkénti telepítéssel és egy kézi hibajavítással.",
+   "first_seen": "2026-11-19T11:00:00Z"
+  },
+  {
+   "id": "yt-Gfvvtm-ybMo",
+   "cat": "3d",
+   "title": "Claude AI + Blender Tutorial: Make 3D Models With Just Prompts",
+   "date": "2026-05-05",
+   "src": "YouTube",
+   "url": "https://www.youtube.com/watch?v=Gfvvtm-ybMo",
+   "yt": "Gfvvtm-ybMo",
+   "tags": [
+    "blender",
+    "mcp",
+    "claude"
+   ],
+   "lead": "Claude közvetlenül Blenderhez kötve az MCP csatlakozóval: 3D modellek egyszerű szöveges promptokból.",
+   "first_seen": "2026-11-19T11:00:00Z"
+  },
+  {
+   "id": "yt-UyQHzWewAcA",
+   "cat": "comfy",
+   "title": "ComfyUI in 10 Minutes: The Easiest Way to Build a Workflow for Beginners",
+   "date": "2026-04-09",
+   "src": "YouTube",
+   "url": "https://www.youtube.com/watch?v=UyQHzWewAcA",
+   "yt": "UyQHzWewAcA",
+   "tags": [
+    "comfyui",
+    "workflow"
+   ],
+   "lead": "Az első teljes szövegből-kép workflow felépítése nulláról, sablonok nélkül, üres vászonról indulva.",
+   "first_seen": "2026-11-19T11:00:00Z"
+  },
+  {
+   "id": "yt-_n0ir5V5tX4",
+   "cat": "comfy",
+   "title": "I Built a FREE VFX Pipeline with Local AI [2026 Masterclass]",
+   "date": "2026-03-31",
+   "src": "YouTube",
+   "url": "https://www.youtube.com/watch?v=_n0ir5V5tX4",
+   "yt": "_n0ir5V5tX4",
+   "tags": [
+    "comfyui",
+    "vfx",
+    "workflow"
+   ],
+   "lead": "Irányítható VFX-snittek helyben, ingyenes és nyílt forrású AI-eszközökkel: teljes ComfyUI VFX pipeline a nyersanyag előkészítésétől.",
+   "first_seen": "2026-11-19T11:00:00Z"
+  },
+  {
+   "id": "yt-E35NI1SbDw8",
+   "cat": "comfy",
+   "title": "ComfyUI Tutorial: How to Save, Load & Share Workflows (2 Ways)",
+   "date": "2026-03-05",
+   "src": "YouTube",
+   "url": "https://www.youtube.com/watch?v=E35NI1SbDw8",
+   "yt": "E35NI1SbDw8",
+   "tags": [
+    "comfyui",
+    "workflow"
+   ],
+   "lead": "Workflow-k mentése, betöltése és megosztása kétféle módon, hogy az összetett node-felépítések ne vesszenek el.",
+   "first_seen": "2026-11-19T11:00:00Z"
+  }
+ ]
+}

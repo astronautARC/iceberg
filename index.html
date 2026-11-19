@@ -1,0 +1,204 @@
+<!doctype html>
+<html lang="hu" data-theme="dark">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>IceBerg</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;700&family=Space+Grotesk:wght@400;500;700&display=swap">
+<style>
+:root{--bg:#060A12;--panel:#0C1626;--text:#EEF2FA;--muted:#9FB0CC;--accent:#508DFF;--ascii:#508DFF;--link:#7FAEFF;--onaccent:#04101F;--line:#1E3352;--hi:#EFF35F;--onhi:#0A0F00;--blend:multiply;--dot:rgba(80,141,255,.16);--ld:#508DFF;--imgbg:var(--accent);
+--mono:'JetBrains Mono',ui-monospace,Menlo,Consolas,monospace;--sans:'Space Grotesk',system-ui,sans-serif}
+[data-theme=light]{--bg:#F5F7FB;--panel:#FFFFFF;--text:#0A1220;--muted:#4A5870;--link:#1F5FE0;--line:#C9D4E8;--blend:screen;--dot:rgba(15,42,71,.13);--ld:#1F5FE0}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth}
+body{margin:0;min-height:100vh;background-color:var(--bg);background-image:radial-gradient(var(--dot) 1px,transparent 1.5px);background-size:14px 14px;color:var(--text);font-family:var(--sans);transition:background-color .25s,color .25s}
+a{color:inherit;text-decoration:none}a:hover{text-decoration:underline}
+button{font:inherit;color:inherit;cursor:pointer}
+:focus-visible{outline:2px solid var(--hi);outline-offset:2px}
+.mono{font-family:var(--mono)}
+.ticker{overflow:hidden;white-space:pre;font:700 12px/36px var(--mono);height:36px;background:var(--hi);color:var(--onhi);padding:0 16px}
+.wrap{max-width:1360px;margin:0 auto;padding:0 clamp(16px,3.5vw,48px) 56px;display:flex;flex-direction:column;gap:48px}
+header{display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:16px;padding:20px 0;border-bottom:1px solid var(--line)}
+.logo{display:flex;align-items:center;gap:12px;font-weight:700;font-size:26px;letter-spacing:.06em}
+.logo:hover{text-decoration:none}
+nav{display:flex;flex-wrap:wrap;gap:6px}
+.tab{font:13px var(--mono);min-height:44px;padding:0 16px;border-radius:4px;background:var(--bg);border:1px solid var(--line)}
+.tab[aria-pressed=true]{background:var(--accent);color:var(--onaccent);border-color:var(--accent);font-weight:700}
+.tab.deep{border-style:dashed}
+.themes{display:flex;border:1px solid var(--line);border-radius:4px;overflow:hidden}
+.themes button{font:12px var(--mono);min-height:44px;padding:0 12px;border:0;background:var(--bg)}
+.themes button[aria-pressed=true]{background:var(--text);color:var(--bg);font-weight:700}
+.tags{display:flex;flex-wrap:wrap;align-items:center;gap:10px}
+.tags .lbl{font:12px var(--mono);color:var(--muted);margin-right:6px}
+.tag{font:700 12px var(--mono);min-height:32px;padding:0 10px;border-radius:4px;border:1px solid var(--c);background:var(--c);color:#0A0F00}
+.tag[aria-pressed=true]{box-shadow:0 0 0 2px var(--bg),0 0 0 4px var(--text)}
+.hero{position:relative;min-height:672px;overflow:hidden;border:1px solid var(--line);border-radius:8px;background:var(--bg)}
+pre.art{position:absolute;margin:0;font:14px/14px var(--mono);color:var(--ascii);white-space:pre;pointer-events:none;user-select:none}
+.hero pre.art{top:0;right:0}
+.hero .in{position:relative;padding:0 clamp(16px,3vw,40px)}
+.hero .above{min-height:266px;display:flex;flex-direction:column;justify-content:flex-end;gap:14px;padding:24px 0 22px}
+.hero h1{margin:0;font-weight:700;font-size:clamp(40px,5.6vw,76px);line-height:1;letter-spacing:-.03em;max-width:640px}
+.hero h1 span{color:var(--link)}
+.hero .below{display:flex;flex-direction:column;gap:24px;padding:30px 0 32px;max-width:440px}
+.hero p{margin:0;font-size:17px;line-height:1.5;background:var(--bg)}
+.small{font:12px var(--mono);color:var(--muted)}
+.btn{display:inline-flex;align-items:center;min-height:48px;padding:0 20px;border-radius:4px;font:700 13px var(--mono);background:var(--accent);color:var(--onaccent);border:1px solid var(--accent)}
+.btn.ghost{background:var(--bg);color:var(--text);border-color:var(--text);font-weight:400}
+.btn.hi{background:var(--hi);color:var(--onhi);border-color:var(--hi)}
+.depths{display:flex;flex-direction:column;gap:6px}
+.sech{display:flex;align-items:center;gap:12px;font:700 13px var(--mono);padding:8px 0 16px;background:var(--bg)}
+.sech h2,.sech h3{margin:0;font:inherit}
+.sech .d{color:var(--muted);font-weight:400}
+.sech .rule{flex:1;overflow:hidden;white-space:nowrap;color:var(--ascii);font-weight:400}
+.sech a{color:var(--link);font-weight:400}
+.feat{display:flex;flex-wrap:wrap;gap:24px}
+.card{overflow:hidden;border-radius:8px;border:1px solid var(--line);background:var(--card,var(--panel));color:var(--text);display:flex}
+.card:hover{text-decoration:none;border-color:var(--accent)}
+.card.lead{flex:2 1 600px;min-width:0;flex-direction:column}
+.side{flex:1 1 380px;min-width:0;display:flex;flex-direction:column;gap:24px}
+.side .card{flex:1 0 auto;min-height:132px}
+.card .body>*,.row .tx>*{flex-shrink:0}
+.img{position:relative;isolation:isolate;overflow:hidden;background:var(--imgbg);flex:none}
+.img img{display:block;width:100%;height:100%;object-fit:cover;image-rendering:pixelated;mix-blend-mode:var(--blend)}
+.img.photo{background:var(--panel)}
+.img.photo img{mix-blend-mode:normal;image-rendering:pixelated;filter:url(#tri)}
+.img.ph{background:var(--panel);display:flex;align-items:center;justify-content:center;font:11px/1.15 var(--mono);color:var(--ascii);white-space:pre}
+.img.ph svg{display:block;width:100%;height:100%}
+.fl{display:inline-block;padding:2px 7px;border-radius:3px;font:700 11px/1.5 var(--mono);color:#0A0F00;background:var(--c,#C9D4E8);white-space:nowrap}
+.sw{display:inline-block;width:10px;height:10px;border-radius:2px;background:var(--c);margin-right:8px;border:1px solid rgba(0,0,0,.35)}
+.ld{margin:0;font-size:14px;line-height:1.55;color:var(--ld);display:-webkit-box;-webkit-box-orient:vertical;overflow:hidden}
+.ld.c4{-webkit-line-clamp:4}.ld.c6{-webkit-line-clamp:6}
+.pins{display:flex;gap:24px;align-items:flex-start}
+.pins .col{flex:1 1 0;min-width:0;display:flex;flex-direction:column;gap:24px}
+.pin{display:flex;flex-direction:column;overflow:hidden;border-radius:8px;border:1px solid var(--line);background:var(--panel)}
+.pin:hover{text-decoration:none;border-color:var(--accent)}
+.pin .img{width:100%}
+.pin .body{display:flex;flex-direction:column;gap:12px;padding:18px}
+.pin h3{margin:0;font-size:18px;line-height:1.25;font-weight:500}
+.tag .n{opacity:.6;margin-left:6px;font-weight:400}
+.ld.c2{-webkit-line-clamp:2}.ld.c3{-webkit-line-clamp:3}
+.cl2{display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:2;overflow:hidden}
+.lead .img{aspect-ratio:16/9;flex:1 0 auto}
+.side .img{width:44%}
+.badge{position:absolute;top:12px;left:12px;padding:6px 10px;background:var(--hi);color:var(--onhi);font:700 12px var(--mono)}
+.lead .body{display:flex;flex-direction:column;gap:16px;padding:28px}
+.lead h3{margin:0;font-size:clamp(26px,3vw,38px);line-height:1.08;letter-spacing:-.02em}
+.side .body{display:flex;flex-direction:column;justify-content:center;gap:12px;padding:22px;min-width:0}
+.side h3{margin:0;font-size:19px;line-height:1.15}
+.meta{display:flex;flex-wrap:wrap;align-items:center;gap:8px 14px;font:11px var(--mono)}
+.chip{padding:3px 7px;border:1px solid currentColor;border-radius:3px}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,420px),1fr));gap:64px 56px}
+.row{display:flex;gap:24px;padding:26px 0;border-top:1px solid var(--line);background:var(--bg)}
+.row:hover{text-decoration:none}.row:hover .t{color:var(--link)}
+.row .img{width:240px;height:135px;align-self:flex-start}
+.row .tx{display:flex;flex-direction:column;gap:12px;min-width:0}
+.row .t{font-size:19px;font-weight:500;line-height:1.25}
+.row .meta{color:var(--muted)}.row .meta .tg{color:var(--link)}
+.band{position:relative;overflow:hidden;min-height:224px;border:1px solid var(--line);border-radius:8px;background:var(--panel)}
+.band pre.art{left:0;bottom:0}
+.band .in{position:relative;display:flex;flex-wrap:wrap;align-items:flex-end;justify-content:space-between;gap:20px;padding:28px clamp(16px,3vw,40px) 72px}
+.band .big{font-weight:700;font-size:clamp(32px,4.4vw,56px);line-height:1;letter-spacing:-.02em;margin:0}
+.band p{margin:0;font-size:16px;max-width:460px;line-height:1.45}
+.cats{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,240px),1fr));gap:24px}
+.cat{display:flex;flex-direction:column;align-items:flex-start;gap:16px;padding:24px;border:1px solid var(--line);border-radius:8px;background:var(--panel)}
+.cat:hover{text-decoration:none;border-color:var(--accent)}
+.cat .n{font:700 56px/1 var(--sans);letter-spacing:-.03em}
+.cat .go{font:12px var(--mono);color:var(--link)}
+.cards{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,300px),1fr));gap:24px}
+.cards .card{flex-direction:column}
+.cards .img{aspect-ratio:16/9}
+.cards .body{display:flex;flex-direction:column;gap:14px;padding:24px}
+.cards h3{margin:0;font-size:22px;line-height:1.15}
+.arow{display:flex;flex-wrap:wrap;align-items:center;gap:10px 20px;padding:12px 0;border-bottom:1px solid var(--line);background:var(--bg)}
+.arow:hover{text-decoration:none}.arow:hover .t{color:var(--link)}
+.arow .img{width:108px;height:68px}
+.arow .dt{flex:0 0 96px}.arow .t{flex:1 1 360px;font-size:19px;font-weight:500;line-height:1.2}.arow .sr{flex:0 0 90px}.arow .tg{flex:0 0 210px;font:11px var(--mono);color:var(--link)}
+footer{display:flex;flex-wrap:wrap;justify-content:space-between;gap:12px;font:12px var(--mono);color:var(--muted)}
+[hidden]{display:none!important}
+@media (max-width:640px){.hero pre.art{opacity:.22}.row .img{width:128px;height:72px}.row{gap:14px}}
+</style>
+</head>
+<body>
+<svg width="0" height="0" style="position:absolute" aria-hidden="true"><filter id="tri" color-interpolation-filters="sRGB" x="0" y="0" width="100%" height="100%">
+<feColorMatrix type="matrix" values=".299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 0 0 0 1 0" result="g"/>
+<feTurbulence type="fractalNoise" baseFrequency=".85" numOctaves="1" seed="4" result="n"/>
+<feColorMatrix in="n" type="matrix" values="1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 1" result="ng"/>
+<feComposite in="g" in2="ng" operator="arithmetic" k1="0" k2="1.15" k3=".26" k4="-.18" result="d"/>
+<feComponentTransfer in="d"><feFuncR type="discrete" tableValues=".047 .165 .314"/><feFuncG type="discrete" tableValues=".086 .322 .553"/><feFuncB type="discrete" tableValues=".149 .596 1"/></feComponentTransfer>
+</filter></svg>
+<div class="ticker" id="ticker" aria-hidden="true"></div>
+<div class="wrap">
+<header>
+<a class="logo" href="#/">
+<svg width="34" height="34" viewBox="0 0 36 36" aria-hidden="true"><path d="M18 3 L29 17 L7 17 Z" fill="var(--ascii)"/><path d="M4 21 L32 21 L24 33 L12 33 Z" fill="none" stroke="var(--ascii)" stroke-width="2.5" stroke-dasharray="3 3"/></svg>
+ICEBERG</a>
+<nav aria-label="Fő kategóriák" id="tabs"></nav>
+<div class="themes" role="group" aria-label="Téma">
+<button data-th="dark">DARK</button><button data-th="light">LIGHT</button><button data-th="surprise">SURPRISE ✦</button>
+</div>
+</header>
+
+
+<main id="home">
+<div class="wrap" style="padding:0;max-width:none">
+<section class="hero">
+<pre class="art" id="berg" aria-hidden="true"></pre>
+<div class="in">
+<div class="above">
+<div class="small">[ 000 m · FELSZÍN ] frissítve: <span id="upd"></span></div>
+<h1>A jéghegy <span>csúcsa.</span></h1>
+</div>
+<div class="below">
+<p>Naponta kétszeri merülés a YouTube, a szakmai blogok és a web mélyére: ComfyUI, VFX, AI film, Blender, Cinema 4D és Claude. Minden cikk forrással és dátummal. Ami már nem friss, lesüllyed az archívumba.</p>
+<div style="display:flex;flex-wrap:wrap;gap:10px"><a class="btn" href="#friss">MERÜLÉS ↓</a><a class="btn ghost" href="#/archivum">ARCHÍVUM −400 m</a></div>
+<div class="depths small"><a href="#/3d">−020 m · 3D / BLENDER / C4D</a><a href="#/claude">−040 m · CLAUDE</a><a href="#/comfyui">−060 m · COMFYUI</a><a href="#/palyazatok">−080 m · PÁLYÁZATOK (csak aktív)</a><a href="#/archivum">−400 m · ARCHÍVUM</a></div>
+</div>
+</div>
+</section>
+
+<section id="friss" aria-label="Kiemelt" style="display:flex;flex-direction:column;gap:16px">
+<div class="sech"><h2>[ 000 m ] KIEMELT · KATEGÓRIÁNKÉNT A LEGFRISSEBB</h2><span class="rule" aria-hidden="true"></span></div>
+<div class="feat" id="feat"></div>
+</section>
+
+<section style="display:flex;flex-direction:column;gap:16px"><div class="sech"><h2>[ −020 … −080 m ] MAI BEHÚZÁS · TÍPUSONKÉNT 8 CIKK</h2><span class="rule" aria-hidden="true"></span></div><div class="cats" id="cats"></div></section>
+
+<section class="band">
+<pre class="art deep" aria-hidden="true"></pre>
+<div class="in"><div style="display:flex;flex-direction:column;gap:10px"><div class="small">[ −400 m · MÉLYSÉG ]</div><p class="big">Archívum</p><p>Minden, ami lesüllyedt: régebbi cikkek és lejárt pályázatok ömlesztve, tagekkel szűrhetően.</p></div><a class="btn hi" href="#/archivum">LEMERÜLÖK →</a></div>
+</section>
+</div>
+</main>
+
+<main id="archive" hidden>
+<div class="wrap" style="padding:0;max-width:none;gap:24px">
+<section class="band"><pre class="art deep" aria-hidden="true"></pre><div class="in"><div style="display:flex;flex-direction:column;gap:10px"><div class="small">[ −400 m · MÉLYSÉG ]</div><h1 class="big">Archívum</h1><p>Ami lesüllyedt: régebbi cikkek és lejárt pályázatok ömlesztve. Szűrj a tagekkel. Találat: <b id="acount"></b></p></div></div></section>
+<section class="tags" aria-label="Címke szűrő" id="tagbar"></section>
+<p class="small" id="anote" hidden>Itt csak a lejárt pályázatok vannak. Az aktívakat a <a href="#/palyazatok" style="color:var(--link);text-decoration:underline">Pályázatok</a> menüpont mutatja.</p>
+<section id="arows" class="pins"></section>
+</div>
+</main>
+
+<main id="catview" hidden>
+<div class="wrap" style="padding:0;max-width:none;gap:24px">
+<section class="band"><pre class="art deep" aria-hidden="true"></pre><div class="in"><div style="display:flex;flex-direction:column;gap:10px"><div class="small" id="cdepth"></div><h1 class="big" id="ctitle"></h1><p id="ctext"></p></div></div></section>
+<section id="cpins" class="pins"></section>
+</div>
+</main>
+
+<footer><span>ICEBERG · frissítés naponta 6:00 és 18:00 (magyar idő)</span><span>források: YouTube · blogok · webes keresés · pályázatoknál nevezés előtt nézd meg a hivatalos oldalt</span></footer>
+</div>
+
+<script>
+/* Az adatok a data/ mappából jönnek; ezeket a napi frissítő program írja. */
+(function(){
+  function get(u){return fetch(u+'?t='+Date.now(),{cache:'no-store'}).then(function(r){if(!r.ok)throw new Error(u);return r.json();});}
+  Promise.all([get('data/items.json'),get('data/contests.json')]).then(function(r){
+    window.ICEBERG_DATA=r[0].items.concat(r[1].items);
+    var u=new Date(r[0].updated);window.ICEBERG_UPDATED=isNaN(u)?'':u.toLocaleString('hu-HU',{timeZone:'Europe/Budapest',year:'numeric',month:'2-digit',day:'2-digit',hour:'2-digit',minute:'2-digit'});
+  }).catch(function(e){console.error(e);window.ICEBERG_DATA=[];}).then(function(){var s=document.createElement('script');s.src='app.js?v='+(window.ICEBERG_V||1);document.body.appendChild(s);});
+})();
+</script>
+</body>
+</html>

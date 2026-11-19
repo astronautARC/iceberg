@@ -1,0 +1,72 @@
+name: IceBerg frissítés
+
+on:
+  schedule:
+    # Óránként kétszer próbálkozik a reggeli és az esti ablakban (UTC-ben megadva, így a téli és a nyári
+    # időszámításnál is van futás 5:xx és 17:xx körül magyar idő szerint). A program maga dönti el,
+    # hogy az adott napszakban kell-e még frissíteni, így naponta pontosan kétszer frissít.
+    - cron: "40 3,4 * * *"
+    - cron: "40 15,16 * * *"
+  workflow_dispatch:
+    inputs:
+      force:
+        description: "Frissítés most, időponttól függetlenül"
+        type: boolean
+        default: true
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: iceberg
+  cancel-in-progress: false
+
+jobs:
+  update:
+    if: github.event_name != 'push'
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    outputs:
+      changed: ${{ steps.run.outputs.changed }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - id: run
+        name: Új anyag összegyűjtése
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          FORCE: ${{ github.event_name == 'workflow_dispatch' && inputs.force }}
+        run: python scripts/update.py
+      - name: Mentés
+        if: steps.run.outputs.changed == 'true'
+        run: |
+          git config user.name "iceberg-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data config
+          git diff --cached --quiet || git commit -m "Frissítés $(TZ=Europe/Budapest date '+%Y-%m-%d %H:%M')"
+          git pull --rebase --autostash
+          git push
+
+  deploy:
+    needs: update
+    if: always() && (github.event_name == 'push' || needs.update.outputs.changed == 'true')
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: .
+      - id: deployment
+        uses: actions/deploy-pages@v4

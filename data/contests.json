@@ -1,0 +1,427 @@
+{
+ "updated": "2026-11-19T11:00:00Z",
+ "last_research": "",
+ "items": [
+  {
+   "id": "c-higgsfield-ai-contests-talent-contest",
+   "cat": "palyazat",
+   "title": "Higgsfield Talent Contest",
+   "date": "2026-11-19",
+   "src": "Higgsfield AI",
+   "url": "https://higgsfield.ai/contests/talent-contest",
+   "tags": [
+    "pénzdíj",
+    "ai-film"
+   ],
+   "deadline": "2026-11-26",
+   "elig": "check",
+   "fee": "ingyenes",
+   "lead": "3–7 perces AI film bármilyen témában, egyedül vagy legfeljebb négyfős csapatban. Díj: összesen 1 000 000 USD, 20 díjra elosztva. Higgsfield-fiók kell hozzá, 18 év felett.",
+   "first_seen": "2026-11-19T11:00:00Z"
+  },
+  {
+   "id": "c-hailuo-creative-fest-space-minimax-io",
+   "cat": "palyazat",
+   "title": "Hailuo Creative Fest – Horror",
+   "date": "2026-11-19",
+   "src": "MiniMax (Hailuo AI)",
+   "url": "https://hailuo-creative-fest.space.minimax.io/",
+   "tags": [
+    "kredit",
+    "ai-film",
+    "h3"
+   ],
+   "deadline": "2026-11-30",
+   "elig": "check",
+   "fee": "ingyenes",
+   "lead": "Horror rövidfilm, főleg Hailuo AI-val készítve és nyilvánosan posztolva. Díj: Hailuo kreditek, a legjobb háromnak fejenként 20 000.",
+   "first_seen": "2026-11-19T11:00:00Z"
+  },
+  {
+   "id": "c-lecinema-xyz-festivals-aiffa",
+   "cat": "palyazat",
+   "title": "AI Film Festival Africa (AIFFA)",
+   "date": "2026-11-19",
+   "src": "LeCinema",
+   "url": "https://lecinema.xyz/festivals/aiffa/",
+   "tags": [
+    "fesztivál",
+    "ai-film"
+   ],
+   "deadline": "2026-11-30",
+   "elig": "ok",
+   "fee": "ingyenes",
+   "lead": "AI rövidfilm legfeljebb 15 percben az „Afrika 2063-ban” témára, a világ bármely pontjáról. A díjak összegét még nem tették közzé.",
+   "first_seen": "2026-11-19T11:00:00Z"
+  },
+  {
+   "id": "c-fairground-tv-creator-fairground-animation-imagination",
+   "cat": "palyazat",
+   "title": "Fairground × CapCut: Animation Imagination",
+   "date": "2026-11-19",
+   "src": "Fairground (CapCut támogatásával)",
+   "url": "https://fairground.tv/creator/fairground-animation-imagination",
+   "tags": [
+    "animáció",
+    "pénzdíj",
+    "kredit"
+   ],
+   "deadline": "2026-12-01",
+   "elig": "ok",
+   "fee": "ingyenes",
+   "lead": "Animációs pályázat CapCut-eszközökkel készült munkáknak. Díj: összesen 15 000 USD, és minden résztvevő 10 000 kreditet igényelhet. 18 év felett.",
+   "first_seen": "2026-11-19T11:00:00Z"
+  },
+  {
+   "id": "c-www-heygen-com-blog-video-contest",
+   "cat": "palyazat",
+   "title": "HeyGen Video Contest (Video 1.0)",
+   "date": "2026-11-19",
+   "src": "HeyGen, MiniMax, Runware, Comfy",
+   "url": "https://www.heygen.com/blog/video-contest",
+   "tags": [
+    "pénzdíj",
+    "kredit",
+    "comfyui"
+   ],
+   "deadline": "2026-12-01",
+   "elig": "check",
+   "fee": "ingyenes",
+   "lead": "Videópályázat a HeyGen Video 1.0-val generált munkáknak, heti és kategóriadíjakkal. Díj: 20 000 USD felett pénzben és kreditben, a fődíj 3 500 USD.",
+   "first_seen": "2026-11-19T11:00:00Z"
+  },
+  {
+   "id": "c-www-artefact-ai-film-festival-com",
+   "cat": "palyazat",
+   "title": "Artefact AI Film Festival: „(Dis)Connection”",
+   "date": "2026-11-19",
+   "src": "Artefact × mk2 (Párizs)",
+   "url": "https://www.artefact-ai-film-festival.com/",
+   "tags": [
+    "fesztivál",
+    "pénzdíj",
+    "ai-film"
+   ],
+   "deadline": "2026-12-02",
+   "elig": "ok",
+   "fee": "ingyenes",
+   "lead": "Legfeljebb 314 másodperces film, amelyben az előkészítés, a gyártás és az utómunka is használ generatív AI-t. Fődíj: 10 000 EUR és mozis vetítés.",
+   "first_seen": "2026-11-19T11:00:00Z"
+  },
+  {
+   "id": "c-zencreator-pro-events-contests-jade-lens-awards",
+   "cat": "palyazat",
+   "title": "Jade Lens Awards",
+   "date": "2026-11-19",
+   "src": "ZenCreator × Seedance",
+   "url": "https://zencreator.pro/events/contests/jade-lens-awards",
+   "tags": [
+    "kredit",
+    "ai-film"
+   ],
+   "deadline": "2026-12-03",
+   "elig": "check",
+   "fee": "ingyenes",
+   "lead": "30 másodperces, ázsiai művészet és legendák ihlette kisfilm a ZenCreatoron belül készítve. Díj: 3 500 USD értékű ZenCreator-kredit.",
+   "first_seen": "2026-11-19T11:00:00Z"
+  },
+  {
+   "id": "c-filmfreeway-com-aiartistfestival",
+   "cat": "palyazat",
+   "title": "AI Artist Festival – 6. évad",
+   "date": "2026-11-19",
+   "src": "AFCNC × ONED (Peking)",
+   "url": "https://filmfreeway.com/AIArtistFestival",
+   "tags": [
+    "fesztivál",
+    "hardver",
+    "ai-film"
+   ],
+   "deadline": "2026-12-05",
+   "elig": "check",
+   "fee": "12 USD",
+   "lead": "Négy kategória, bármilyen hosszú AI-val készült munka nevezhető. Hat díj, mindegyikhez szponzorált hardver jár, pénzdíj nincs.",
+   "first_seen": "2026-11-19T11:00:00Z"
+  },
+  {
+   "id": "c-mfszemle-hu",
+   "cat": "palyazat",
+   "title": "46. Magyar Filmszemle – AI Információs Szekció",
+   "date": "2026-11-19",
+   "src": "Magyar Filmszemle (Budapest)",
+   "url": "https://mfszemle.hu/",
+   "tags": [
+    "fesztivál",
+    "ai-film",
+    "magyar"
+   ],
+   "deadline": "2026-12-06",
+   "elig": "hu",
+   "fee": "ingyenes",
+   "lead": "Teljesen vagy részben AI-val készült magyar mozgóképek, műfaji megkötés nélkül. Versenyen kívüli szekció, díj nincs, de a film versenykategóriába is nevezhető.",
+   "first_seen": "2026-11-19T11:00:00Z"
+  },
+  {
+   "id": "c-nextale-com-nextale-award",
+   "cat": "palyazat",
+   "title": "NEXTALE Award",
+   "date": "2026-11-19",
+   "src": "NEXTALE",
+   "url": "https://nextale.com/nextale-award",
+   "tags": [
+    "pénzdíj",
+    "ai-film"
+   ],
+   "deadline": "2026-12-14",
+   "elig": "ok",
+   "fee": "ingyenes",
+   "lead": "Legalább 20 epizódos AI rövidsorozat feltöltése a NEXTALE Studióba, bármely országból. Díj: 2 000 USD fődíj, plusz 100 USD az első tíz kész sorozatnak.",
+   "first_seen": "2026-11-19T11:00:00Z"
+  },
+  {
+   "id": "c-www-showrunnerstudio-com-gossip-goblin",
+   "cat": "palyazat",
+   "title": "Gossip Goblin × Showrunner Competition",
+   "date": "2026-11-19",
+   "src": "Showrunner (Fable)",
+   "url": "https://www.showrunnerstudio.com/gossip-goblin",
+   "tags": [
+    "pénzdíj",
+    "ai-film"
+   ],
+   "deadline": "2026-12-15",
+   "elig": "check",
+   "fee": "nincs megadva",
+   "lead": "2–20 perces rövidfilm a Showrunner Studióban, a Gossip Goblin univerzumában. Díj: összesen 20 000 USD, ebből 15 000 a legjobb filmnek.",
+   "first_seen": "2026-11-19T11:00:00Z"
+  },
+  {
+   "id": "c-flick-art-festival",
+   "cat": "palyazat",
+   "title": "Flick AI Film Festival 2026",
+   "date": "2026-11-19",
+   "src": "Flick",
+   "url": "https://flick.art/festival",
+   "tags": [
+    "fesztivál",
+    "pénzdíj",
+    "ai-film"
+   ],
+   "deadline": "2026-12-15",
+   "elig": "ok",
+   "fee": "ingyenes",
+   "lead": "2026. március 1. után elkészült AI filmek, egyedül vagy legfeljebb négyfős csapatban, a világ bármely részéről. Díj: 10 000 USD a legjobb filmnek, összesen kb. 25 500 USD.",
+   "first_seen": "2026-11-19T11:00:00Z"
+  },
+  {
+   "id": "c-cascadestudio-ai-rules",
+   "cat": "palyazat",
+   "title": "Cascade Greenlight Competition",
+   "date": "2026-11-19",
+   "src": "Cascade Studio",
+   "url": "https://cascadestudio.ai/rules",
+   "tags": [
+    "pénzdíj",
+    "kredit",
+    "ai-film"
+   ],
+   "deadline": "2026-12-15",
+   "elig": "check",
+   "fee": "ingyenes",
+   "lead": "1–5 perces teaser, minden snitt a Cascade-ben generálva. Díj: 100 000 USD keret, az első hely 30 000 USD és 1,5 millió kredit. Több ország ki van zárva, a szabályzatot nézd meg.",
+   "first_seen": "2026-11-19T11:00:00Z"
+  },
+  {
+   "id": "c-akool-com-aifilmchallenge",
+   "cat": "palyazat",
+   "title": "AKOOL AI Film Challenge",
+   "date": "2026-11-19",
+   "src": "AKOOL",
+   "url": "https://akool.com/aifilmchallenge",
+   "tags": [
+    "pénzdíj",
+    "ai-film"
+   ],
+   "deadline": "2026-12-20",
+   "elig": "check",
+   "fee": "ingyenes",
+   "lead": "Három kategória: kitalált film előzetese, AI rövidfilm, és „lehetetlen” kísérleti munka; az AKOOL-t érdemben használni kell. Díj: 50 000, 25 000 és 15 000 USD, plusz tíz döntős díj.",
+   "first_seen": "2026-11-19T11:00:00Z"
+  },
+  {
+   "id": "c-nexmuse-kr",
+   "cat": "palyazat",
+   "title": "NEXMUSE AI Music Video Contest 2027",
+   "date": "2026-11-19",
+   "src": "NEXMUSE / AI Art Co.",
+   "url": "https://nexmuse.kr/",
+   "tags": [
+    "pénzdíj",
+    "ai-film"
+   ],
+   "deadline": "2026-12-28",
+   "elig": "ok",
+   "fee": "ingyenes",
+   "lead": "Eredeti AI dal és klip a 24 NEXMUSE-karakter egyikével, nyilvános YouTube-poszttal. Díj: összesen 21 millió KRW, a fődíj 10 millió.",
+   "first_seen": "2026-11-19T11:00:00Z"
+  },
+  {
+   "id": "c-www-metamorph-award-com-tapnow-activation",
+   "cat": "palyazat",
+   "title": "MetaMorph × TapNow: Winter Activation",
+   "date": "2026-11-19",
+   "src": "MetaMorph AI Award × TapNow",
+   "url": "https://www.metamorph-award.com/tapnow-activation",
+   "tags": [
+    "kredit",
+    "pénzdíj",
+    "ai-film"
+   ],
+   "deadline": "2026-12-30",
+   "elig": "check",
+   "fee": "ingyenes",
+   "lead": "30 másodperc és 10 perc közötti film, legalább felerészt TapNow-ban készítve. Díj: 500 GBP és 20 000 kredit a győztesnek, 10 000 kredit a másodiknak. A határidő forrásonként eltér (dec. 30. vagy jan. 1.).",
+   "first_seen": "2026-11-19T11:00:00Z"
+  },
+  {
+   "id": "c-www-nvidia-com-en-us-geforce-contests-nba2k27-dlss5-challenge",
+   "cat": "palyazat",
+   "title": "NVIDIA NBA 2K27 Poster Challenge",
+   "date": "2026-11-19",
+   "src": "NVIDIA GeForce",
+   "url": "https://www.nvidia.com/en-us/geforce/contests/nba2k27-dlss5-challenge/",
+   "tags": [
+    "gpu",
+    "kép"
+   ],
+   "deadline": "2026-12-31",
+   "elig": "check",
+   "fee": "ingyenes",
+   "lead": "Poszter vagy pillanatkép az NBA 2K27-ből, X-en vagy Instagramon #RTXPoster címkével. Díj: négy egyedi GeForce RTX 5090. RTX 50-es kártya vagy GeForce NOW Ultimate kell hozzá; a részt vevő országok listáját a szabályzatban nézd meg.",
+   "first_seen": "2026-11-19T11:00:00Z"
+  },
+  {
+   "id": "c-chromaawards-com",
+   "cat": "palyazat",
+   "title": "Chroma Awards – 2. évad",
+   "date": "2026-11-19",
+   "src": "Chroma Awards (ElevenLabs inkubálta)",
+   "url": "https://chromaawards.com/",
+   "tags": [
+    "pénzdíj",
+    "ai-film"
+   ],
+   "deadline": "2027-01-07",
+   "elig": "check",
+   "fee": "ingyenes",
+   "lead": "Film, reklám, zenei videó, webes játék és werk kategóriák, 18 év felett. Díj: több mint 450 000 USD pénzben és utazásban, szponzori eszközdíjakkal.",
+   "first_seen": "2026-11-19T11:00:00Z"
+  },
+  {
+   "id": "c-filmmakers-festhome-com-en-festival-ai-global-film-festival-lifeart",
+   "cat": "palyazat",
+   "title": "AI Global Film Festival | LifeArt",
+   "date": "2026-11-19",
+   "src": "LifeArt",
+   "url": "https://filmmakers.festhome.com/en/festival/ai-global-film-festival-lifeart",
+   "tags": [
+    "fesztivál",
+    "ai-film"
+   ],
+   "deadline": "2027-01-09",
+   "elig": "check",
+   "fee": "kb. 40–52 USD",
+   "lead": "Rövid- és nagyjátékfilmek, amelyekben az AI érdemben részt vett, plusz AI zene és hangdizájn kategóriák. A végső nevezési határidő január 9.",
+   "first_seen": "2026-11-19T11:00:00Z"
+  },
+  {
+   "id": "c-worldaifilmfestival-com",
+   "cat": "palyazat",
+   "title": "World AI Film Festival (WAIFF) – Cannes",
+   "date": "2026-11-19",
+   "src": "World AI Film Festival",
+   "url": "https://worldaifilmfestival.com/",
+   "tags": [
+    "fesztivál",
+    "ai-film"
+   ],
+   "deadline": "2027-02-15",
+   "elig": "check",
+   "fee": "nincs megadva",
+   "lead": "A WAIFF harmadik kiadásának cannes-i döntője. A nyertesek fesztiváljegyet, utazást és szállást, valamint vetítést kapnak a Palais des Festivals-ban.",
+   "first_seen": "2026-11-19T11:00:00Z"
+  },
+  {
+   "id": "c-aif-runwayml-com",
+   "cat": "palyazat",
+   "title": "Runway AI Festival 2027",
+   "date": "2026-11-19",
+   "src": "Runway",
+   "url": "https://aif.runwayml.com/",
+   "tags": [
+    "fesztivál",
+    "pénzdíj",
+    "kredit",
+    "ai-film"
+   ],
+   "deadline": "2027-04-05",
+   "elig": "check",
+   "fee": "nincs megadva",
+   "lead": "3–10 perces rövidfilm, amely teljes történetet mesél el és AI-generált videót használ. Grand Prix: 50 000 USD és 1 000 000 Runway-kredit.",
+   "first_seen": "2026-11-19T11:00:00Z"
+  },
+  {
+   "id": "c-aiforgood-itu-int-ai-for-good-film-festival",
+   "cat": "palyazat",
+   "title": "AI for Good Film Festival 2027",
+   "date": "2026-11-19",
+   "src": "ITU – AI for Good (Genf)",
+   "url": "https://aiforgood.itu.int/ai-for-good-film-festival/",
+   "tags": [
+    "fesztivál",
+    "ai-film"
+   ],
+   "deadline": "2027-05-01",
+   "elig": "ok",
+   "fee": "nincs megadva",
+   "lead": "1–10 perces film, amelyben az AI központi alkotóeszköz, 2026. szept. 1. után elkészítve. A nevezés január 15-én nyílik; a négy döntőst Genfbe hívják.",
+   "first_seen": "2026-11-19T11:00:00Z"
+  },
+  {
+   "id": "c-blog-comfy-org-p-higgsfield-promised-to-open-source",
+   "cat": "palyazat",
+   "title": "Comfy „Open Source Higgsfield” Challenge",
+   "date": "2026-11-19",
+   "src": "Comfy Org",
+   "url": "https://blog.comfy.org/p/higgsfield-promised-to-open-source",
+   "tags": [
+    "comfyui",
+    "gpu",
+    "pénzdíj"
+   ],
+   "deadline": "2026-10-30",
+   "elig": "ok",
+   "fee": "ingyenes",
+   "lead": "Nyílt forráskódú alkalmazások építése a Comfy fejlesztői platformján. Díj: 10 000 USD fődíj és három GeForce RTX 5090. Lezárult, de a Comfy rendszeresen hirdet hasonlót.",
+   "first_seen": "2026-11-19T11:00:00Z"
+  },
+  {
+   "id": "c-comfyui-wiki-com-en-news-2026-08-19-comfy-h3-sync-sound-challenge",
+   "cat": "palyazat",
+   "title": "Comfy × MiniMax H3 Sync Sound Challenge",
+   "date": "2026-11-19",
+   "src": "Comfy Org × MiniMax",
+   "url": "https://comfyui-wiki.com/en/news/2026-08-19-comfy-h3-sync-sound-challenge",
+   "tags": [
+    "comfyui",
+    "gpu",
+    "h3"
+   ],
+   "deadline": "2026-09-01",
+   "elig": "ok",
+   "fee": "ingyenes",
+   "lead": "Videó MiniMax H3-mal ComfyUI-ban, ahol a hang és a mozgás elválaszthatatlan. Díj: egy RTX 5090 és három RTX 5060 Ti. Lezárult.",
+   "first_seen": "2026-11-19T11:00:00Z"
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+  "_info": "Itt lehet forrást hozzáadni vagy törölni. A YouTube-csatornát a @név (handle) alapján is megtalálja. A 'filter': true azt jelenti, hogy a csatornáról csak a témába vágó videók kerülnek be.",
+  "per_category": 8,
+  "max_age_days": 14,
+  "youtube_handles": [
+    {"handle": "@comfyorg", "filter": false},
+    {"handle": "@pixaroma", "filter": false},
+    {"handle": "@blender", "filter": true},
+    {"handle": "@MaxonVFX", "filter": true},
+    {"handle": "@anthropic-ai", "filter": true},
+    {"handle": "@TheoreticallyMedia", "filter": true},
+    {"handle": "@Futurepedia", "filter": true},
+    {"handle": "@CuriousRefuge", "filter": true},
+    {"handle": "@OlivioSarikas", "filter": true},
+    {"handle": "@sebastiankamph", "filter": true},
+    {"handle": "@MattVidPro", "filter": true},
+    {"handle": "@BlenderGuru", "filter": true},
+    {"handle": "@CGMatter", "filter": true},
+    {"handle": "@SchoolofMotion", "filter": true},
+    {"handle": "@GreyscaleGorilla", "filter": true}
+  ],
+  "youtube_seed_videos": [
+    "OWr3IU82bJ8", "3AIZ4FT61aw", "QZQqxNepbzs", "ddMxsp32Gu8", "hbPvZvpu9KU",
+    "-k5g0mdmwTo", "ZKPCE7E56nk", "DbyeC34VoEQ", "bPDfwNTJOWc", "c3iEy35G-tM",
+    "av-xDOxS1rs", "2eLm5RU2yuM", "uafAN8zLKD8", "UitmCk9vOs8", "zG_xUTqwqbQ",
+    "JMDPignEbP0", "52PMIVASSdM", "6B9WSxi6j8E", "mltTwfrRAVc", "5HYYXYYCrL4",
+    "D5qpBbEWTxo", "97Y5cz7H8SM", "_n0ir5V5tX4"
+  ],
+  "rss": [
+    {"name": "ComfyUI blog", "url": "https://blog.comfy.org/feed", "filter": false},
+    {"name": "Blender", "url": "https://www.blender.org/feed/", "filter": true},
+    {"name": "BlenderNation", "url": "https://www.blendernation.com/feed/", "filter": true},
+    {"name": "CG Channel", "url": "https://www.cgchannel.com/feed/", "filter": true},
+    {"name": "fxguide", "url": "https://www.fxguide.com/feed/", "filter": true}
+  ],
+  "topics": "ComfyUI képgenerálás és workflow-k; AI videó- és filmgenerálás; VFX és AI; MiniMax H3 és MOSS modellek; 3D: Blender és Cinema 4D, különösen AI-val vagy MCP-vel vezérelve; Claude: újdonságok, skillek, workflow-k, VFX, 3D és motion design Claude-dal. Kódolás önmagában NEM érdekes.",
+  "tags": ["comfyui", "workflow", "video", "h3", "moss", "blender", "cinema4d", "3d", "vfx", "ai-film", "claude", "skill", "motion", "mcp"]
+}
