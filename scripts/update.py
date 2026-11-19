@@ -375,6 +375,11 @@ def main():
         return False
     log(f"IceBerg frissítés: {LOCAL:%Y-%m-%d %H:%M} ({slot}), Claude: {'igen' if API_KEY else 'NINCS KULCS, kulcsszavas mód'}")
 
+    if API_KEY:  # a kulcs nélkül, kulcsszavasan felvett tételeket most újra feldolgozzuk Claude-dal
+        dropped = sum(1 for x in items["items"] if x.get("kw"))
+        items["items"] = [x for x in items["items"] if not x.get("kw")]
+        if dropped:
+            log(f"Kulcsszavas tételek újrafeldolgozása: {dropped}")
     seen = {x["id"] for x in items["items"]}
     cutoff = NOW - dt.timedelta(days=cfg.get("max_age_days", 14))
     cands = []
@@ -399,6 +404,8 @@ def main():
             rec["yt"] = n["yt"]
         if n.get("img"):
             rec["img"] = n["img"]
+        if not API_KEY:
+            rec["kw"] = True
         items["items"].append(rec)
     items["items"].sort(key=lambda x: (x["date"], x.get("first_seen", "")), reverse=True)
     items["items"] = items["items"][:3000]
