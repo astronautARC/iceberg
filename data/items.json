@@ -1,8 +1,701 @@
 {
- "updated": "2026-11-19T11:00:00Z",
+ "updated": "2026-11-19T11:32:42+00:00",
  "last_morning": "",
- "last_evening": "",
+ "last_evening": "2026-11-19",
  "items": [
+  {
+   "id": "rss-www-cgchannel-com-2026-11-autodesk-releases-maya-2027-3-with-new-agentic-ai-features",
+   "cat": "3d",
+   "title": "Autodesk releases Maya 2027.3 with new agentic AI features",
+   "date": "2026-11-19",
+   "src": "CG Channel",
+   "url": "https://www.cgchannel.com/2026/11/autodesk-releases-maya-2027-3-with-new-agentic-ai-features/",
+   "tags": [
+    "3d",
+    "mcp"
+   ],
+   "lead": "",
+   "first_seen": "2026-11-19T11:32:42+00:00"
+  },
+  {
+   "id": "yt-8cZaCKrFeDM",
+   "cat": "comfy",
+   "title": "Video WEAPON Swap - (Local & ComfyUI)",
+   "date": "2026-11-19",
+   "src": "YouTube · Royal Skies",
+   "url": "https://www.youtube.com/watch?v=8cZaCKrFeDM",
+   "tags": [
+    "comfyui",
+    "video"
+   ],
+   "lead": "",
+   "first_seen": "2026-11-19T11:32:42+00:00",
+   "yt": "8cZaCKrFeDM"
+  },
+  {
+   "id": "yt-kXZCGml0th0",
+   "cat": "comfy",
+   "title": "MiniMax H3 Image - Normal + GGUF Guide!",
+   "date": "2026-11-18",
+   "src": "YouTube · Olivio Sarikas",
+   "url": "https://www.youtube.com/watch?v=kXZCGml0th0",
+   "tags": [
+    "comfyui",
+    "workflow",
+    "video",
+    "h3"
+   ],
+   "lead": "",
+   "first_seen": "2026-11-19T11:32:42+00:00",
+   "yt": "kXZCGml0th0"
+  },
+  {
+   "id": "yt-xDaqSfwAlfw",
+   "cat": "comfy",
+   "title": "Run Your Custom ComfyUI in the Cloud: Custom Builds in Comfy Cloud (",
+   "date": "2026-11-18",
+   "src": "YouTube · ComfyUI",
+   "url": "https://www.youtube.com/watch?v=xDaqSfwAlfw",
+   "tags": [
+    "comfyui"
+   ],
+   "lead": "",
+   "first_seen": "2026-11-19T11:32:42+00:00",
+   "yt": "xDaqSfwAlfw"
+  },
+  {
+   "id": "rss-blog-comfy-org-p-your-custom-comfyui-is-now-in-comfy",
+   "cat": "comfy",
+   "title": "Your custom ComfyUI is now in Comfy Cloud",
+   "date": "2026-11-18",
+   "src": "ComfyUI blog",
+   "url": "https://blog.comfy.org/p/your-custom-comfyui-is-now-in-comfy",
+   "tags": [
+    "comfyui",
+    "workflow"
+   ],
+   "lead": "",
+   "first_seen": "2026-11-19T11:32:42+00:00",
+   "img": "https://substackcdn.com/image/youtube/w_728,c_limit/xDaqSfwAlfw"
+  },
+  {
+   "id": "yt-hEpNiJ5uDw8",
+   "cat": "3d",
+   "title": "I Made a Full Game Asset Kit with AI (Tripo Smart Mesh P2.0 → Blender)",
+   "date": "2026-11-18",
+   "src": "YouTube · Vladimir Chopine [GeekatPlay]",
+   "url": "https://www.youtube.com/watch?v=hEpNiJ5uDw8",
+   "tags": [
+    "video",
+    "h3",
+    "blender"
+   ],
+   "lead": "",
+   "first_seen": "2026-11-19T11:32:42+00:00",
+   "yt": "hEpNiJ5uDw8"
+  },
+  {
+   "id": "yt-ugMNzdfBktI",
+   "cat": "claude",
+   "title": "Claude + Blender = Infinite Camera Angles",
+   "date": "2026-11-18",
+   "src": "YouTube · Artlist",
+   "url": "https://www.youtube.com/watch?v=ugMNzdfBktI",
+   "tags": [
+    "video",
+    "blender",
+    "claude"
+   ],
+   "lead": "",
+   "first_seen": "2026-11-19T11:32:42+00:00",
+   "yt": "ugMNzdfBktI"
+  },
+  {
+   "id": "yt-9HipThggM78",
+   "cat": "3d",
+   "title": "Epic Just Made 23,000 3D Assets FREE Again | Industry Pulse",
+   "date": "2026-11-18",
+   "src": "YouTube · CGconnect",
+   "url": "https://www.youtube.com/watch?v=9HipThggM78",
+   "tags": [
+    "blender",
+    "3d",
+    "vfx"
+   ],
+   "lead": "",
+   "first_seen": "2026-11-19T11:32:42+00:00",
+   "yt": "9HipThggM78"
+  },
+  {
+   "id": "yt-4CZNQc1_MYI",
+   "cat": "comfy",
+   "title": "NEW BREAKTHROUGH,NEXT-LEVEL H3 FACE FIX,Fix Blurry AI Faces in Video (Ultimate ComfyUI Guide)",
+   "date": "2026-11-18",
+   "src": "YouTube · Veteran AI",
+   "url": "https://www.youtube.com/watch?v=4CZNQc1_MYI",
+   "tags": [
+    "comfyui",
+    "workflow",
+    "video",
+    "h3"
+   ],
+   "lead": "",
+   "first_seen": "2026-11-19T11:32:42+00:00",
+   "yt": "4CZNQc1_MYI"
+  },
+  {
+   "id": "yt-8fNfcx25q24",
+   "cat": "claude",
+   "title": "I Spent a Week Making 3 Games With Claude Fable 5.2 (Honest Review)",
+   "date": "2026-11-17",
+   "src": "YouTube · MattVidPro",
+   "url": "https://www.youtube.com/watch?v=8fNfcx25q24",
+   "tags": [
+    "3d",
+    "claude"
+   ],
+   "lead": "",
+   "first_seen": "2026-11-19T11:32:42+00:00",
+   "yt": "8fNfcx25q24"
+  },
+  {
+   "id": "yt-8_Rut6Hlg14",
+   "cat": "claude",
+   "title": "How to Run AI Agents Without MONTHLY Fees",
+   "date": "2026-11-17",
+   "src": "YouTube · AsapGuide",
+   "url": "https://www.youtube.com/watch?v=8_Rut6Hlg14",
+   "tags": [
+    "video",
+    "3d",
+    "claude"
+   ],
+   "lead": "",
+   "first_seen": "2026-11-19T11:32:42+00:00",
+   "yt": "8_Rut6Hlg14"
+  },
+  {
+   "id": "yt-ep5TQQGtHcI",
+   "cat": "comfy",
+   "title": "MiniMax H3 Image and FIBO 2 in ComfyUI | 14 Free Workflows (Ep43)",
+   "date": "2026-11-17",
+   "src": "YouTube · pixaroma",
+   "url": "https://www.youtube.com/watch?v=ep5TQQGtHcI",
+   "tags": [
+    "comfyui",
+    "workflow",
+    "h3"
+   ],
+   "lead": "",
+   "first_seen": "2026-11-19T11:32:42+00:00",
+   "yt": "ep5TQQGtHcI"
+  },
+  {
+   "id": "yt-LnNX_ZsTzxw",
+   "cat": "claude",
+   "title": "Claude Now Creates Cinematic Animations (Free Skill)",
+   "date": "2026-11-17",
+   "src": "YouTube · Paul J Lipsky",
+   "url": "https://www.youtube.com/watch?v=LnNX_ZsTzxw",
+   "tags": [
+    "3d",
+    "claude",
+    "skill"
+   ],
+   "lead": "",
+   "first_seen": "2026-11-19T11:32:42+00:00",
+   "yt": "LnNX_ZsTzxw"
+  },
+  {
+   "id": "yt--wuREoa4inE",
+   "cat": "claude",
+   "title": "Claude Mogs Motion Designers: Make $16,705/Month (Fable 5.2)",
+   "date": "2026-11-17",
+   "src": "YouTube · Sanji Nai-Chien",
+   "url": "https://www.youtube.com/watch?v=-wuREoa4inE",
+   "tags": [
+    "workflow",
+    "video",
+    "claude",
+    "skill"
+   ],
+   "lead": "",
+   "first_seen": "2026-11-19T11:32:42+00:00",
+   "yt": "-wuREoa4inE"
+  },
+  {
+   "id": "rss-www-cgchannel-com-2026-11-nevercenter-releases-silo-2027",
+   "cat": "3d",
+   "title": "Nevercenter releases Silo 2027.0",
+   "date": "2026-11-17",
+   "src": "CG Channel",
+   "url": "https://www.cgchannel.com/2026/11/nevercenter-releases-silo-2027/",
+   "tags": [
+    "3d",
+    "mcp"
+   ],
+   "lead": "",
+   "first_seen": "2026-11-19T11:32:42+00:00"
+  },
+  {
+   "id": "yt-zTswu70jBkk",
+   "cat": "3d",
+   "title": "How to Turn Logos into REALISTIC 3D Models in Blender with Gemini 4 Argon",
+   "date": "2026-11-17",
+   "src": "YouTube · AsapGuide",
+   "url": "https://www.youtube.com/watch?v=zTswu70jBkk",
+   "tags": [
+    "workflow",
+    "video",
+    "blender",
+    "3d"
+   ],
+   "lead": "",
+   "first_seen": "2026-11-19T11:32:42+00:00",
+   "yt": "zTswu70jBkk"
+  },
+  {
+   "id": "yt-jQZZOWY7Arg",
+   "cat": "comfy",
+   "title": "Super Fast & Easy Local Model - I use this everyday!",
+   "date": "2026-11-16",
+   "src": "YouTube · Olivio Sarikas",
+   "url": "https://www.youtube.com/watch?v=jQZZOWY7Arg",
+   "tags": [
+    "comfyui",
+    "3d"
+   ],
+   "lead": "",
+   "first_seen": "2026-11-19T11:32:42+00:00",
+   "yt": "jQZZOWY7Arg"
+  },
+  {
+   "id": "yt-8EhqaCOle1I",
+   "cat": "comfy",
+   "title": "Seedance 2.5 Flash is now available in ComfyUI via Partner Nodes",
+   "date": "2026-11-16",
+   "src": "YouTube · ComfyUI",
+   "url": "https://www.youtube.com/watch?v=8EhqaCOle1I",
+   "tags": [
+    "comfyui",
+    "workflow",
+    "video"
+   ],
+   "lead": "",
+   "first_seen": "2026-11-19T11:32:42+00:00",
+   "yt": "8EhqaCOle1I"
+  },
+  {
+   "id": "yt-ZUlZ4Ay1t7s",
+   "cat": "comfy",
+   "title": "New Visual Compositing Canvas for ComfyUI! (Free Custom Node)",
+   "date": "2026-11-16",
+   "src": "YouTube · Vladimir Chopine [GeekatPlay]",
+   "url": "https://www.youtube.com/watch?v=ZUlZ4Ay1t7s",
+   "tags": [
+    "comfyui",
+    "workflow",
+    "video"
+   ],
+   "lead": "",
+   "first_seen": "2026-11-19T11:32:42+00:00",
+   "yt": "ZUlZ4Ay1t7s"
+  },
+  {
+   "id": "yt-PPq7WQV_3OM",
+   "cat": "claude",
+   "title": "I Built a Personal AI Command Center With Claude - Free Prompt Download",
+   "date": "2026-11-16",
+   "src": "YouTube · The Tech Girl",
+   "url": "https://www.youtube.com/watch?v=PPq7WQV_3OM",
+   "tags": [
+    "claude"
+   ],
+   "lead": "",
+   "first_seen": "2026-11-19T11:32:42+00:00",
+   "yt": "PPq7WQV_3OM"
+  },
+  {
+   "id": "yt-oBI5-NabniU",
+   "cat": "claude",
+   "title": "The Pocket-Sized AI Voice Controller (Genspark VoicePad)",
+   "date": "2026-11-16",
+   "src": "YouTube · Paul J Lipsky",
+   "url": "https://www.youtube.com/watch?v=oBI5-NabniU",
+   "tags": [
+    "video",
+    "claude"
+   ],
+   "lead": "",
+   "first_seen": "2026-11-19T11:32:42+00:00",
+   "yt": "oBI5-NabniU"
+  },
+  {
+   "id": "yt-Y1m6R8shJcw",
+   "cat": "comfy",
+   "title": "MiniMax H3 Image Bounding Box Layout Custom Node in ComfyUI",
+   "date": "2026-11-16",
+   "src": "YouTube · Benji’s AI Playground",
+   "url": "https://www.youtube.com/watch?v=Y1m6R8shJcw",
+   "tags": [
+    "comfyui",
+    "h3"
+   ],
+   "lead": "",
+   "first_seen": "2026-11-19T11:32:42+00:00",
+   "yt": "Y1m6R8shJcw"
+  },
+  {
+   "id": "yt-Mnj1J0yEPS8",
+   "cat": "comfy",
+   "title": "New H3 Image Designer: 16MP Output, Unreal Consistency",
+   "date": "2026-11-16",
+   "src": "YouTube · Veteran AI",
+   "url": "https://www.youtube.com/watch?v=Mnj1J0yEPS8",
+   "tags": [
+    "comfyui",
+    "video",
+    "h3"
+   ],
+   "lead": "",
+   "first_seen": "2026-11-19T11:32:42+00:00",
+   "yt": "Mnj1J0yEPS8"
+  },
+  {
+   "id": "yt-XZ6XO7UtsQU",
+   "cat": "claude",
+   "title": "Claude Fable 5.2 + Cinema 4D MCP: Is It Better Than Opus 5.5?",
+   "date": "2026-11-14",
+   "src": "YouTube · ozangonen",
+   "url": "https://www.youtube.com/watch?v=XZ6XO7UtsQU",
+   "tags": [
+    "cinema4d",
+    "claude",
+    "mcp"
+   ],
+   "lead": "",
+   "first_seen": "2026-11-19T11:32:42+00:00",
+   "yt": "XZ6XO7UtsQU"
+  },
+  {
+   "id": "yt-FRukXPBqlNo",
+   "cat": "claude",
+   "title": "The Newest Workflow For Ultra Realistic AI Characters (Seedance 2.5 in 4K + Claude Fable 5.2)",
+   "date": "2026-11-14",
+   "src": "YouTube · Higgsfield AI",
+   "url": "https://www.youtube.com/watch?v=FRukXPBqlNo",
+   "tags": [
+    "workflow",
+    "video",
+    "claude",
+    "skill"
+   ],
+   "lead": "",
+   "first_seen": "2026-11-19T11:32:42+00:00",
+   "yt": "FRukXPBqlNo"
+  },
+  {
+   "id": "yt-G2h5u6sFWrs",
+   "cat": "comfy",
+   "title": "ComfyUI Hackathon - #opensourcehiggsfield Recap 2026",
+   "date": "2026-11-13",
+   "src": "YouTube · ComfyUI",
+   "url": "https://www.youtube.com/watch?v=G2h5u6sFWrs",
+   "tags": [
+    "comfyui"
+   ],
+   "lead": "",
+   "first_seen": "2026-11-19T11:32:42+00:00",
+   "yt": "G2h5u6sFWrs"
+  },
+  {
+   "id": "yt-q1lYjWXM_Yc",
+   "cat": "comfy",
+   "title": "Character Swap Video - (LOCAL-ComfyUI)",
+   "date": "2026-11-13",
+   "src": "YouTube · Royal Skies",
+   "url": "https://www.youtube.com/watch?v=q1lYjWXM_Yc",
+   "tags": [
+    "comfyui",
+    "video"
+   ],
+   "lead": "",
+   "first_seen": "2026-11-19T11:32:42+00:00",
+   "yt": "q1lYjWXM_Yc"
+  },
+  {
+   "id": "yt-1BzzdY-nK9A",
+   "cat": "claude",
+   "title": "How I Get Perfect AI Realism in Every Shot (3 Steps)",
+   "date": "2026-11-13",
+   "src": "YouTube · Higgsfield AI",
+   "url": "https://www.youtube.com/watch?v=1BzzdY-nK9A",
+   "tags": [
+    "video",
+    "claude",
+    "skill",
+    "mcp"
+   ],
+   "lead": "",
+   "first_seen": "2026-11-19T11:32:42+00:00",
+   "yt": "1BzzdY-nK9A"
+  },
+  {
+   "id": "yt-9tZGphHbWww",
+   "cat": "claude",
+   "title": "I Tested Gemini 4 Hydrogen vs. Sonnet 5.5 and GPT 6.1 Terra",
+   "date": "2026-11-13",
+   "src": "YouTube · AsapGuide",
+   "url": "https://www.youtube.com/watch?v=9tZGphHbWww",
+   "tags": [
+    "video",
+    "blender",
+    "3d",
+    "claude"
+   ],
+   "lead": "",
+   "first_seen": "2026-11-19T11:32:42+00:00",
+   "yt": "9tZGphHbWww"
+  },
+  {
+   "id": "yt-nTXUndFOTCw",
+   "cat": "claude",
+   "title": "The Craziest AI Week of The Year...",
+   "date": "2026-11-13",
+   "src": "YouTube · Paul J Lipsky",
+   "url": "https://www.youtube.com/watch?v=nTXUndFOTCw",
+   "tags": [
+    "video",
+    "claude",
+    "mcp"
+   ],
+   "lead": "",
+   "first_seen": "2026-11-19T11:32:42+00:00",
+   "yt": "nTXUndFOTCw"
+  },
+  {
+   "id": "yt-zmNrbSpx1g4",
+   "cat": "comfy",
+   "title": "Regenerate 2K IC-LoRA Video Upscaler: 3-Step Sampling, More Details, Better Consistency",
+   "date": "2026-11-13",
+   "src": "YouTube · Veteran AI",
+   "url": "https://www.youtube.com/watch?v=zmNrbSpx1g4",
+   "tags": [
+    "comfyui",
+    "video"
+   ],
+   "lead": "",
+   "first_seen": "2026-11-19T11:32:42+00:00",
+   "yt": "zmNrbSpx1g4"
+  },
+  {
+   "id": "yt-ZxaMmG71g8c",
+   "cat": "claude",
+   "title": "Claude Makes 3D Animations Easy Now",
+   "date": "2026-11-12",
+   "src": "YouTube · Futurepedia",
+   "url": "https://www.youtube.com/watch?v=ZxaMmG71g8c",
+   "tags": [
+    "video",
+    "3d",
+    "claude",
+    "motion"
+   ],
+   "lead": "",
+   "first_seen": "2026-11-19T11:32:42+00:00",
+   "yt": "ZxaMmG71g8c"
+  },
+  {
+   "id": "yt-11uD9yG--Go",
+   "cat": "comfy",
+   "title": "Best Character Swap for Minimax H3: Viggle AI or Alissonerdx?",
+   "date": "2026-11-12",
+   "src": "YouTube · AI Ninja",
+   "url": "https://www.youtube.com/watch?v=11uD9yG--Go",
+   "tags": [
+    "comfyui",
+    "workflow",
+    "video",
+    "h3"
+   ],
+   "lead": "",
+   "first_seen": "2026-11-19T11:32:42+00:00",
+   "yt": "11uD9yG--Go"
+  },
+  {
+   "id": "yt-mz5arN4h-Qg",
+   "cat": "comfy",
+   "title": "LTX’s VFX nodes are now available in ComfyUI through Partner Nodes",
+   "date": "2026-11-12",
+   "src": "YouTube · ComfyUI",
+   "url": "https://www.youtube.com/watch?v=mz5arN4h-Qg",
+   "tags": [
+    "comfyui",
+    "vfx"
+   ],
+   "lead": "",
+   "first_seen": "2026-11-19T11:32:42+00:00",
+   "yt": "mz5arN4h-Qg"
+  },
+  {
+   "id": "yt-A6G5IPR_BPY",
+   "cat": "comfy",
+   "title": "ComfyUI KSampler Explained: Seed, Steps, CFG and Denoise",
+   "date": "2026-11-12",
+   "src": "YouTube · pixaroma",
+   "url": "https://www.youtube.com/watch?v=A6G5IPR_BPY",
+   "tags": [
+    "comfyui",
+    "video"
+   ],
+   "lead": "",
+   "first_seen": "2026-11-19T11:32:42+00:00",
+   "yt": "A6G5IPR_BPY"
+  },
+  {
+   "id": "yt-i_d7LSwrCsA",
+   "cat": "claude",
+   "title": "How to Use the Muse Ember to Run Agentic Workflows on Your PC",
+   "date": "2026-11-12",
+   "src": "YouTube · AsapGuide",
+   "url": "https://www.youtube.com/watch?v=i_d7LSwrCsA",
+   "tags": [
+    "workflow",
+    "video",
+    "blender",
+    "3d"
+   ],
+   "lead": "",
+   "first_seen": "2026-11-19T11:32:42+00:00",
+   "yt": "i_d7LSwrCsA"
+  },
+  {
+   "id": "yt-dxMBJ2eHmlI",
+   "cat": "comfy",
+   "title": "9 AI Image Models in ComfyUI — Which One to Use for Each Task",
+   "date": "2026-11-12",
+   "src": "YouTube · Vladimir Chopine [GeekatPlay]",
+   "url": "https://www.youtube.com/watch?v=dxMBJ2eHmlI",
+   "tags": [
+    "comfyui",
+    "workflow",
+    "video",
+    "h3"
+   ],
+   "lead": "",
+   "first_seen": "2026-11-19T11:32:42+00:00",
+   "yt": "dxMBJ2eHmlI"
+  },
+  {
+   "id": "yt-6cuZ3HnRRjA",
+   "cat": "comfy",
+   "title": "Drive slow cars fast with SHIFU: Traffic Masters | Created with Cinema 4D by Boxy.Poly",
+   "date": "2026-11-11",
+   "src": "YouTube · Maxon",
+   "url": "https://www.youtube.com/watch?v=6cuZ3HnRRjA",
+   "tags": [
+    "comfyui",
+    "cinema4d",
+    "vfx"
+   ],
+   "lead": "",
+   "first_seen": "2026-11-19T11:32:42+00:00",
+   "yt": "6cuZ3HnRRjA"
+  },
+  {
+   "id": "rss-blog-comfy-org-p-doubling-llm-token-rates-in-comfyui",
+   "cat": "comfy",
+   "title": "Doubling LLM token rates in ComfyUI",
+   "date": "2026-11-11",
+   "src": "ComfyUI blog",
+   "url": "https://blog.comfy.org/p/doubling-llm-token-rates-in-comfyui",
+   "tags": [
+    "comfyui"
+   ],
+   "lead": "",
+   "first_seen": "2026-11-19T11:32:42+00:00",
+   "img": "https://substackcdn.com/image/fetch/$s_!81Uv!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F526a4edd-41f5-4bfc-9a9c-486afe7a37d8_2240x896.png"
+  },
+  {
+   "id": "yt-YP8D2_j3_Hc",
+   "cat": "claude",
+   "title": "The Secret YouTube Strategy Dominating in 2027",
+   "date": "2026-11-11",
+   "src": "YouTube · Higgsfield AI",
+   "url": "https://www.youtube.com/watch?v=YP8D2_j3_Hc",
+   "tags": [
+    "video",
+    "claude",
+    "skill",
+    "mcp"
+   ],
+   "lead": "",
+   "first_seen": "2026-11-19T11:32:42+00:00",
+   "yt": "YP8D2_j3_Hc"
+  },
+  {
+   "id": "yt-K9ljJSTrhAw",
+   "cat": "3d",
+   "title": "Cinema 4D + GPT-6.1 Terra: OpenAI’s New AI Builds a 3D Product Shot",
+   "date": "2026-11-11",
+   "src": "YouTube · ozangonen",
+   "url": "https://www.youtube.com/watch?v=K9ljJSTrhAw",
+   "tags": [
+    "cinema4d",
+    "3d"
+   ],
+   "lead": "",
+   "first_seen": "2026-11-19T11:32:42+00:00",
+   "yt": "K9ljJSTrhAw"
+  },
+  {
+   "id": "yt-b5RI-tdtyE0",
+   "cat": "claude",
+   "title": "Claude + Blender Fixed AI Video's Biggest Problem",
+   "date": "2026-11-11",
+   "src": "YouTube · Artlist",
+   "url": "https://www.youtube.com/watch?v=b5RI-tdtyE0",
+   "tags": [
+    "workflow",
+    "video",
+    "blender",
+    "claude"
+   ],
+   "lead": "",
+   "first_seen": "2026-11-19T11:32:42+00:00",
+   "yt": "b5RI-tdtyE0"
+  },
+  {
+   "id": "yt-1gNpW57EE2k",
+   "cat": "comfy",
+   "title": "Minimax H3 Image Release SOTA Open Weights Model! You Can Run Locally!",
+   "date": "2026-11-11",
+   "src": "YouTube · Benji’s AI Playground",
+   "url": "https://www.youtube.com/watch?v=1gNpW57EE2k",
+   "tags": [
+    "comfyui",
+    "video",
+    "h3"
+   ],
+   "lead": "",
+   "first_seen": "2026-11-19T11:32:42+00:00",
+   "yt": "1gNpW57EE2k"
+  },
+  {
+   "id": "yt-SaQM53tiVo0",
+   "cat": "claude",
+   "title": "Claude Code is FREE Now?! Here's How to Use It Without Paying",
+   "date": "2026-11-11",
+   "src": "YouTube · The Tech Girl",
+   "url": "https://www.youtube.com/watch?v=SaQM53tiVo0",
+   "tags": [
+    "video",
+    "claude"
+   ],
+   "lead": "",
+   "first_seen": "2026-11-19T11:32:42+00:00",
+   "yt": "SaQM53tiVo0"
+  },
   {
    "id": "yt-UitmCk9vOs8",
    "cat": "comfy",
