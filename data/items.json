@@ -1,8 +1,80 @@
 {
- "updated": "2026-11-19T11:54:14+00:00",
+ "updated": "2026-11-19T21:52:00+00:00",
  "last_morning": "",
  "last_evening": "2026-11-19",
  "items": [
+  {
+   "id": "rss-www-fxguide-com-thevfxshow-vfxshow-311-godzila-minus-zero",
+   "cat": "3d",
+   "title": "VFXShow 311: Godzila Minus Zero",
+   "date": "2026-11-19",
+   "src": "fxguide",
+   "url": "https://www.fxguide.com/thevfxshow/vfxshow-311-godzila-minus-zero/",
+   "tags": [
+    "vfx"
+   ],
+   "lead": "A VFX Show csapata elemzi a Godzilla Minus Zero effektjeit: a fotorealisztikus látványt és a zöldhátteres, nosztalgikus megoldásokat, és azt, hogy mennyire sikerült a film.",
+   "first_seen": "2026-11-19T21:52:00+00:00",
+   "img": "https://www.fxguide.com/wp-content/uploads/2026/11/fxg-featured-godzilla.jpg"
+  },
+  {
+   "id": "yt-iQCGryj0Rjg",
+   "cat": "claude",
+   "title": "I Tested Gemini 4 Neon vs. Opus 5.5 and GPT 6.2 Sol",
+   "date": "2026-11-19",
+   "src": "YouTube · AsapGuide",
+   "url": "https://www.youtube.com/watch?v=iQCGryj0Rjg",
+   "tags": [
+    "claude",
+    "blender"
+   ],
+   "lead": "A Gemini 4 Neon összevetése Claude Opus 5.5-tel és GPT 6.2 Sol-lal 3D-s képrekonstrukción, fizikai böngészőjátékon és Blenderrel készült reklámon. Az árazás és a benchmark-kontextus is szerepel.",
+   "first_seen": "2026-11-19T21:52:00+00:00",
+   "yt": "iQCGryj0Rjg"
+  },
+  {
+   "id": "yt-2Njz-jLewM4",
+   "cat": "comfy",
+   "title": "ComfyUI Samplers Explained: Best Sampler, Scheduler and Custom Sampler",
+   "date": "2026-11-19",
+   "src": "YouTube · pixaroma",
+   "url": "https://www.youtube.com/watch?v=2Njz-jLewM4",
+   "tags": [
+    "comfyui",
+    "workflow"
+   ],
+   "lead": "A ComfyUI KSampler belső működését bemutató videó, amely megmutatja, hogyan építhető saját sampler öt különálló node-ból. Teszt 405 sampler–scheduler párral három modellen.",
+   "first_seen": "2026-11-19T21:52:00+00:00",
+   "yt": "2Njz-jLewM4"
+  },
+  {
+   "id": "yt-HeE6CuE01bM",
+   "cat": "comfy",
+   "title": "PAN2 A Local World Video Model Know About Physics! Try It In ComfyUI",
+   "date": "2026-11-19",
+   "src": "YouTube · Benji’s AI Playground",
+   "url": "https://www.youtube.com/watch?v=HeE6CuE01bM",
+   "tags": [
+    "comfyui",
+    "video"
+   ],
+   "lead": "Az MBZUAI nyílt, 29 milliárd paraméteres PAN 2 világmodelljének futtatása natívan ComfyUI-ban, int8 súlyokkal. A workflow lépésről lépésre épül fel, a szerzők ajánlott beállításaival.",
+   "first_seen": "2026-11-19T21:52:00+00:00",
+   "yt": "HeE6CuE01bM"
+  },
+  {
+   "id": "rss-www-cgchannel-com-2026-11-autodesk-releases-3ds-max-2027-3",
+   "cat": "3d",
+   "title": "Autodesk releases 3ds Max 2027.3",
+   "date": "2026-11-19",
+   "src": "CG Channel",
+   "url": "https://www.cgchannel.com/2026/11/autodesk-releases-3ds-max-2027-3/",
+   "tags": [
+    "3d"
+   ],
+   "lead": "Az Autodesk 3ds Max 2027.3 frissítése agentikus AI-munkafolyamatokat, új Arnold nézetablakot és 4D Gaussian Splat import lehetőséget hoz.",
+   "first_seen": "2026-11-19T21:52:00+00:00"
+  },
   {
    "id": "rss-www-cgchannel-com-2026-11-autodesk-releases-maya-2027-3-with-new-agentic-ai-features",
    "cat": "3d",
@@ -45,6 +117,21 @@
    "lead": "Videó egyedi karakterek fegyvereinek és animációinak cseréjét mutatja be helyi és ComfyUI-s környezetben, erősebb GPU-kon.",
    "first_seen": "2026-11-19T11:54:14+00:00",
    "yt": "8cZaCKrFeDM"
+  },
+  {
+   "id": "rss-blog-comfy-org-p-your-custom-comfyui-is-now-in-comfy",
+   "cat": "comfy",
+   "title": "Your custom ComfyUI is now in Comfy Cloud",
+   "date": "2026-11-18",
+   "src": "ComfyUI blog",
+   "url": "https://blog.comfy.org/p/your-custom-comfyui-is-now-in-comfy",
+   "tags": [
+    "comfyui",
+    "workflow"
+   ],
+   "lead": "A ComfyUI-környezet mostantól böngészőből is futtatható a Comfy Cloudon, a csapat egyedi node-jaival és modelljeivel. A GPU-infrastruktúrát a szolgáltatás kezeli.",
+   "first_seen": "2026-11-19T21:52:00+00:00",
+   "img": "https://substackcdn.com/image/youtube/w_728,c_limit/xDaqSfwAlfw"
   },
   {
    "id": "yt-kXZCGml0th0",
@@ -154,6 +241,37 @@
    "lead": "ComfyUI-workflow, amely videókban a kamera távolodásakor vagy oldalra fordulásakor elmosódott arcokat javít. Arckövető maszkkal és Differential Diffusionnel 1.0-s denoise-erősségig lehet menni.",
    "first_seen": "2026-11-19T11:54:14+00:00",
    "yt": "4CZNQc1_MYI"
+  },
+  {
+   "id": "yt-8fNfcx25q24",
+   "cat": "claude",
+   "title": "I Spent a Week Making 3 Games With Claude Fable 5.2 (Honest Review)",
+   "date": "2026-11-17",
+   "src": "YouTube · MattVidPro",
+   "url": "https://www.youtube.com/watch?v=8fNfcx25q24",
+   "tags": [
+    "claude",
+    "vfx"
+   ],
+   "lead": "Egy hetes kísérlet, amelyben Claude Fable 5.2 vezető ügynökként irányított három játékprototípust (three.js, Godot, Unreal Engine 5.8). Az egyik demó 3D-s tűzfizikát mutat be.",
+   "first_seen": "2026-11-19T21:52:00+00:00",
+   "yt": "8fNfcx25q24"
+  },
+  {
+   "id": "yt--wuREoa4inE",
+   "cat": "claude",
+   "title": "Claude Mogs Motion Designers: Make $16,705/Month (Fable 5.2)",
+   "date": "2026-11-17",
+   "src": "YouTube · Sanji Nai-Chien",
+   "url": "https://www.youtube.com/watch?v=-wuREoa4inE",
+   "tags": [
+    "claude",
+    "motion",
+    "mcp"
+   ],
+   "lead": "A videó bemutatja, hogyan köthető a Higgsfield AI a Claude-hoz MCP-összekötőn keresztül motion design munkákhoz. A példa szerint After Effects nélkül készülnek a videók.",
+   "first_seen": "2026-11-19T21:52:00+00:00",
+   "yt": "-wuREoa4inE"
   },
   {
    "id": "yt-DayeKlhBv1I",
@@ -603,6 +721,21 @@
    "yt": "zmNrbSpx1g4"
   },
   {
+   "id": "yt-o8hqvv3Cbls",
+   "cat": "claude",
+   "title": "Fable 5.2: 18 Wild Things People Are Building",
+   "date": "2026-11-12",
+   "src": "YouTube · Paul J Lipsky",
+   "url": "https://www.youtube.com/watch?v=o8hqvv3Cbls",
+   "tags": [
+    "claude",
+    "motion"
+   ],
+   "lead": "Tizennyolc Fable 5.2-vel készült projekt áttekintése, játékoktól és animációktól a videószerkesztésig, a szerző értékelésével a modell erősségeiről és gyengeségeiről.",
+   "first_seen": "2026-11-19T21:52:00+00:00",
+   "yt": "o8hqvv3Cbls"
+  },
+  {
    "id": "yt-11uD9yG--Go",
    "cat": "comfy",
    "title": "Best Character Swap for Minimax H3: Viggle AI or Alissonerdx?",
@@ -723,6 +856,21 @@
    "lead": "Claude segítségével Three.js-alapú 3D-s animált magyarázóvideók készítése, egyetlen szövegből kiindulva, 37 előre elkészített stílusban.",
    "first_seen": "2026-11-19T11:49:30+00:00",
    "yt": "ZxaMmG71g8c"
+  },
+  {
+   "id": "yt-xqjCq0dsatU",
+   "cat": "claude",
+   "title": "Can an AI agent make a full commercial? fal agent",
+   "date": "2026-11-11",
+   "src": "YouTube · Sebastian Kamph",
+   "url": "https://www.youtube.com/watch?v=xqjCq0dsatU",
+   "tags": [
+    "ai-film",
+    "video"
+   ],
+   "lead": "Egy kísérletben a fal AI-ügynökét egy teljes, 30 másodperces reklámfilm elkészítésével bízták meg: art direction, termékfotók, képek és videó. A fal agent hozzáférés mostantól mindenki számára nyitott.",
+   "first_seen": "2026-11-19T21:52:00+00:00",
+   "yt": "xqjCq0dsatU"
   },
   {
    "id": "yt-6cuZ3HnRRjA",
@@ -895,6 +1043,52 @@
    "img": "https://substack-post-media.s3.amazonaws.com/public/images/55ed3ee7-4bef-4e48-b8c4-a8dc1a4b1e4e_1920x1080.jpeg"
   },
   {
+   "id": "yt-tchpgNCneQo",
+   "cat": "comfy",
+   "title": "Pruna P-H3 Image in ComfyUI | MiniMax H3 for 4K Images & Edits (Ep42)",
+   "date": "2026-11-10",
+   "src": "YouTube · pixaroma",
+   "url": "https://www.youtube.com/watch?v=tchpgNCneQo",
+   "tags": [
+    "comfyui",
+    "workflow",
+    "h3"
+   ],
+   "lead": "A Pruna AI P-H3 Image modellt teszteli ComfyUI-ban, 18 ingyenes workflow-val. A MiniMax H3 alapú modell 4K-ig generál képeket, és egy mondatos utasítással szerkeszt fotókat.",
+   "first_seen": "2026-11-19T21:52:00+00:00",
+   "yt": "tchpgNCneQo"
+  },
+  {
+   "id": "rss-www-blender-org-press-pay-it-forward-fundraiser-for-2027",
+   "cat": "3d",
+   "title": "Pay It Forward – Fundraiser for 2027",
+   "date": "2026-11-10",
+   "src": "Blender",
+   "url": "https://www.blender.org/press/pay-it-forward-fundraiser-for-2027/",
+   "tags": [
+    "blender",
+    "3d"
+   ],
+   "lead": "A Blender Foundation „Pay It Forward” gyűjtést indított, amellyel a 2027-es finanszírozási célját szeretné elérni. A felhívás szerint a szoftver ingyenes, előfizetés és licenc nélkül.",
+   "first_seen": "2026-11-19T21:52:00+00:00",
+   "img": "https://www.blender.org/wp-content/uploads/2026/11/fundraiser_2027-1280x720.webp"
+  },
+  {
+   "id": "yt-hP_hqe6-NdM",
+   "cat": "claude",
+   "title": "Imagination Studio by a REAL Emmy Winner!",
+   "date": "2026-11-10",
+   "src": "YouTube · Olivio Sarikas",
+   "url": "https://www.youtube.com/watch?v=hP_hqe6-NdM",
+   "tags": [
+    "ai-film",
+    "video"
+   ],
+   "lead": "Ingyenes, nyílt forráskódú AI filmstúdió, amely helyi vagy online eszközként segít filmet tervezni, generálni és befejezni. Keys és Sam Wasserman fejlesztette, a TensorFold hajtja.",
+   "first_seen": "2026-11-19T21:52:00+00:00",
+   "yt": "hP_hqe6-NdM"
+  },
+  {
    "id": "yt--MLpYL4lXmY",
    "cat": "comfy",
    "title": "MiniMax H3 Image is now natively supported in ComfyUI",
@@ -971,6 +1165,130 @@
    "first_seen": "2026-11-19T11:00:00Z"
   },
   {
+   "id": "rss-blog-comfy-org-p-the-little-things-that-shipped-in",
+   "cat": "comfy",
+   "title": "The little things that shipped in October",
+   "date": "2026-11-09",
+   "src": "ComfyUI blog",
+   "url": "https://blog.comfy.org/p/the-little-things-that-shipped-in",
+   "tags": [
+    "comfyui",
+    "workflow"
+   ],
+   "lead": "A ComfyUI októberi frissítéseinek összefoglalója a v0.44 verzióhoz: a gráf, a vászon és a körülötte lévő eszközök apró minőségi javításai, amelyek több kattintást és akadást szüntetnek meg.",
+   "first_seen": "2026-11-19T21:52:00+00:00",
+   "img": "https://substack-post-media.s3.amazonaws.com/public/images/ef08f805-a674-4044-9e8f-9f4e75a8d964_3398x1936.png"
+  },
+  {
+   "id": "rss-www-blender-org-user-stories-tzusoo",
+   "cat": "3d",
+   "title": "The TZUSOO Way: Digital First, Physical Later",
+   "date": "2026-11-09",
+   "src": "Blender",
+   "url": "https://www.blender.org/user-stories/tzusoo/",
+   "tags": [
+    "blender",
+    "3d"
+   ],
+   "lead": "Interjú TZUSOO művésszel, aki a Blendert használja alkotói munkájában. Szó esik az Agarmon Encyclopedia projektjéről és a digitális munka szerepéről.",
+   "first_seen": "2026-11-19T21:52:00+00:00",
+   "img": "https://www.blender.org/wp-content/uploads/2026/11/The-Eight-Spirits-of-Flesh%E2%80%94TAE-2025-TZUSOO-164-720x1280.webp"
+  },
+  {
+   "id": "yt-eDOQsPF1hr0",
+   "cat": "claude",
+   "title": "10 of the BIGGEST Motion Design Stories of 2026 (So Far!) | Motion Mondays",
+   "date": "2026-11-09",
+   "src": "YouTube · School of Motion",
+   "url": "https://www.youtube.com/watch?v=eDOQsPF1hr0",
+   "tags": [
+    "motion",
+    "ai-film"
+   ],
+   "lead": "A School of Motion 2026-os motion design híreket gyűjt össze. Művészek saját szoftvereket építenek, ingyenes alkalmazások kihívják az After Effectst, az AI pedig a produkciós igényekkel találkozik.",
+   "first_seen": "2026-11-19T21:52:00+00:00",
+   "yt": "eDOQsPF1hr0"
+  },
+  {
+   "id": "yt-FUqpS97LtIU",
+   "cat": "comfy",
+   "title": "H3 Isn't Just for Video: Custom Character Sheets & Perfect Consistency",
+   "date": "2026-11-09",
+   "src": "YouTube · Veteran AI",
+   "url": "https://www.youtube.com/watch?v=FUqpS97LtIU",
+   "tags": [
+    "comfyui",
+    "h3",
+    "workflow"
+   ],
+   "lead": "A ComfyUI-hoz készült H3 Character Sheet Designer bővítményt mutatja be, amely MiniMax H3 és DaSiWa Hybrid V4 modellekkel dolgozik. Kameramozgásokhoz igazodó, jelenetspecifikus karakterlapokat készít.",
+   "first_seen": "2026-11-19T21:52:00+00:00",
+   "yt": "FUqpS97LtIU"
+  },
+  {
+   "id": "yt-DG4eb-BL-TY",
+   "cat": "claude",
+   "title": "How to Make Your First AI Movie! GPT Image + Seedance 2.5",
+   "date": "2026-11-08",
+   "src": "YouTube · Vladimir Chopine [GeekatPlay]",
+   "url": "https://www.youtube.com/watch?v=DG4eb-BL-TY",
+   "tags": [
+    "ai-film",
+    "video"
+   ],
+   "lead": "Higgsfield AI-val készült útmutató egy eredeti robotkarakter létrehozásához: többnézetes karakterlap, majd filmszerű sci-fi animáció mozgással és kameramozgással. A GPT Image és Seedance 2.5 használata is szerepel.",
+   "first_seen": "2026-11-19T21:52:00+00:00",
+   "yt": "DG4eb-BL-TY"
+  },
+  {
+   "id": "yt-x9_eVtCoFaA",
+   "cat": "comfy",
+   "title": "FREE Local Video Generation (ComfyUI-Tutorial)",
+   "date": "2026-11-07",
+   "src": "YouTube · Royal Skies",
+   "url": "https://www.youtube.com/watch?v=x9_eVtCoFaA",
+   "tags": [
+    "comfyui",
+    "video"
+   ],
+   "lead": "Helyi videógenerálás beállítását mutatja be ComfyUI-ban, saját számítógépen futtatva. A telepítési lépések mellett a modellek kezelését is érinti.",
+   "first_seen": "2026-11-19T21:52:00+00:00",
+   "yt": "x9_eVtCoFaA"
+  },
+  {
+   "id": "yt-Urdt5ibVijM",
+   "cat": "comfy",
+   "title": "RelayVSR in ComfyUI - A Fast Upscale AI Video",
+   "date": "2026-11-07",
+   "src": "YouTube · Benji’s AI Playground",
+   "url": "https://www.youtube.com/watch?v=Urdt5ibVijM",
+   "tags": [
+    "comfyui",
+    "video",
+    "h3",
+    "workflow"
+   ],
+   "lead": "A RelayVSR videó-felskálázó modell ComfyUI-beli használatát mutatja be, Wan2.2 5B kulcskockákkal és gyors dekóderrel. A teszt MiniMax H3 kimeneten készült.",
+   "first_seen": "2026-11-19T21:52:00+00:00",
+   "yt": "Urdt5ibVijM"
+  },
+  {
+   "id": "yt-sCukTWZEt7Q",
+   "cat": "claude",
+   "title": "You Will Stop Burning Your AI Credits After Watching This (3 Tips)",
+   "date": "2026-11-07",
+   "src": "YouTube · Higgsfield AI",
+   "url": "https://www.youtube.com/watch?v=sCukTWZEt7Q",
+   "tags": [
+    "claude",
+    "ai-film",
+    "video"
+   ],
+   "lead": "Tippek AI-videó-generálás költségeinek csökkentésére: újrafelhasználható karakterek, jelmezek és helyszínek, Claude-dal készített részletes videóprompt-ok, valamint 480p-s tesztelés a kreditek kímélésére.",
+   "first_seen": "2026-11-19T21:52:00+00:00",
+   "yt": "sCukTWZEt7Q"
+  },
+  {
    "id": "yt-zG_xUTqwqbQ",
    "cat": "comfy",
    "title": "RelayVSR: 4K Video Upscaling is HERE! (Native RelayVSR in ComfyUI)",
@@ -984,6 +1302,82 @@
    ],
    "lead": "A RelayVSR videófelskálázó modell natívan bekerült a ComfyUI-ba; a videó a 4K-s felskálázást mutatja be.",
    "first_seen": "2026-11-19T11:00:00Z"
+  },
+  {
+   "id": "yt-nglOVRYV8q0",
+   "cat": "3d",
+   "title": "Now I may rest...",
+   "date": "2026-11-06",
+   "src": "YouTube · CGMatter",
+   "url": "https://www.youtube.com/watch?v=nglOVRYV8q0",
+   "tags": [
+    "blender"
+   ],
+   "lead": "A videó a Blender NodeMode bővítménnyel mutatja be, hogyan lehet rendezni a node-okat a Blenderben.",
+   "first_seen": "2026-11-19T21:52:00+00:00",
+   "yt": "nglOVRYV8q0"
+  },
+  {
+   "id": "yt-u78B727zbRI",
+   "cat": "claude",
+   "title": "How to Remove Music from Your AI Videos (Easy Tutorial)",
+   "date": "2026-11-06",
+   "src": "YouTube · Curious Refuge",
+   "url": "https://www.youtube.com/watch?v=u78B727zbRI",
+   "tags": [
+    "video",
+    "ai-film"
+   ],
+   "lead": "Bemutatja, hogyan távolítható el a zene videókból a Meta SAM Audio eszközével, így tiszta effekthangok maradnak és saját zene tehető a vágóprogramba. Működik nem AI-s felvételeken is.",
+   "first_seen": "2026-11-19T21:52:00+00:00",
+   "yt": "u78B727zbRI"
+  },
+  {
+   "id": "yt-rR01uD1RnYQ",
+   "cat": "3d",
+   "title": "MCP Mech Scene Test in Cinema 4D & Redshift | Motion Designer Luke Bellissimo",
+   "date": "2026-11-06",
+   "src": "YouTube · Maxon",
+   "url": "https://www.youtube.com/watch?v=rR01uD1RnYQ",
+   "tags": [
+    "cinema4d",
+    "mcp",
+    "vfx"
+   ],
+   "lead": "Egy Rodin-generált mechet MCP-vel rigeltek Cinema 4D-ben, majd Pyro-effektekkel, részecskékkel és Redshift-renderrel készült battle-jelenetbe került. A tesztet Luke Bellissimo VFX-supervisor végezte.",
+   "first_seen": "2026-11-19T21:52:00+00:00",
+   "yt": "rR01uD1RnYQ"
+  },
+  {
+   "id": "yt-J4taEVJgD0E",
+   "cat": "comfy",
+   "title": "Minimax H3 + P-H3:The Backlash of a \"Free\" Giveaway in 4K",
+   "date": "2026-11-06",
+   "src": "YouTube · AI Ninja",
+   "url": "https://www.youtube.com/watch?v=J4taEVJgD0E",
+   "tags": [
+    "comfyui",
+    "h3"
+   ],
+   "lead": "A P-H3-Image bekerült a ComfyUI-ba, így a MiniMax-H3 architektúrával 8 lépésben lehet képet generálni. A videó a Pruna AI modelljeit és a Hugging Face-es forrásokat mutatja be.",
+   "first_seen": "2026-11-19T21:52:00+00:00",
+   "yt": "J4taEVJgD0E"
+  },
+  {
+   "id": "yt-FhYSCv4Qpgo",
+   "cat": "claude",
+   "title": "I Made $2,000 in 1 Day With $0 AI Commercials (No Followers)",
+   "date": "2026-11-06",
+   "src": "YouTube · Sanji Nai-Chien",
+   "url": "https://www.youtube.com/watch?v=FhYSCv4Qpgo",
+   "tags": [
+    "claude",
+    "ai-film",
+    "skill"
+   ],
+   "lead": "Két hetes kísérlet AI-videós reklámokkal, új fiókkal és nulla követővel. A Higgsfield a Claude-on belül, a /katana paranccsal dolgozik: referenciareklám vágásait, kameramozgásait elemzi.",
+   "first_seen": "2026-11-19T21:52:00+00:00",
+   "yt": "FhYSCv4Qpgo"
   },
   {
    "id": "yt-OWr3IU82bJ8",
@@ -1001,6 +1395,22 @@
    ],
    "lead": "Egy AI rövidfilm teljes gyártási folyamata: a videógenerálást Claude Code vezérli MCP-n keresztül. Megmutatja, mi működik a gyakorlatban.",
    "first_seen": "2026-11-19T11:00:00Z"
+  },
+  {
+   "id": "yt-CM1rPwuXw2A",
+   "cat": "claude",
+   "title": "The Future of Video Production is Here!",
+   "date": "2026-11-05",
+   "src": "YouTube · Curious Refuge",
+   "url": "https://www.youtube.com/watch?v=CM1rPwuXw2A",
+   "tags": [
+    "ai-film",
+    "video",
+    "workflow"
+   ],
+   "lead": "Hang és referenciavideó alapján működő AI-videó workflow, amellyel bárhonnan építhető stúdió. A Curious Refuge részletes bontást is közzétett a módszerről.",
+   "first_seen": "2026-11-19T21:52:00+00:00",
+   "yt": "CM1rPwuXw2A"
   },
   {
    "id": "yt-3AIZ4FT61aw",
