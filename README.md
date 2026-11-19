@@ -8,7 +8,7 @@ AI-hírportál vizuális alkotóknak: ComfyUI, 3D (Blender, Cinema 4D), Claude, 
 - **A frissítő program** (`scripts/update.py`) GitHub Actionsben fut (`.github/workflows/update.yml`):
   1. végignézi a `config/sources.json`-ban felsorolt YouTube-csatornákat és blogokat;
   2. a Claude API (Haiku) kiválogatja a témába vágó anyagot, besorolja, címkézi, és magyar leadet ír;
-  3. reggelente Claude webes kereséssel új, nyitott pályázatokat keres;
+  3. kétnaponta reggel Claude webes kereséssel új, nyitott pályázatokat keres;
   4. elmenti az adatokat, és újra kiteszi az oldalt.
 - Kategóriánként a 8 legfrissebb cikk látszik, a többi és a lejárt pályázatok az archívumba kerülnek.
 - A képeket nem tárolja, csak hivatkozik rájuk; így a tároló mérete évekig kicsi marad.
@@ -25,4 +25,4 @@ A `config/sources.json` fájlban lehet YouTube-csatornát (`@név`) vagy RSS-for
 
 ## Költség
 
-A tárhely és a GitHub Actions ingyenes. A Claude API díja napi két futással várhatóan havi néhány dollár (Haiku, illetve reggelente legfeljebb 6 webes keresés).
+A tárhely és a GitHub Actions ingyenes. A Claude API díja napi két futással várhatóan havi néhány dollár (Haiku, illetve kétnaponta legfeljebb 6 webes keresés).

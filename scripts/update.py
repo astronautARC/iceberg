@@ -3,7 +3,7 @@
 
 - YouTube-csatornák RSS-e és szakmai blogok RSS-e
 - Claude (Haiku) válogat, kategorizál, címkéz és magyar leadet ír
-- reggelente Claude webes kereséssel új, nyitott pályázatokat keres
+- kétnaponta reggel Claude webes kereséssel új, nyitott pályázatokat keres
 Csak a Python standard könyvtárát használja. Az API-kulcs az ANTHROPIC_API_KEY környezeti változóból jön.
 """
 import datetime as dt
@@ -29,6 +29,7 @@ FORCE = os.environ.get("FORCE", "").lower() in ("1", "true", "yes")
 MODEL = os.environ.get("ICEBERG_MODEL", "claude-haiku-5-5")
 UA = "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130 Safari/537.36 IceBergBot/1.0"
 CATS = ("3d", "claude", "comfy")
+RESEARCH_EVERY_DAYS = 2  # a pályázatkeresés ennyi naponta fut (reggel)
 LOG = []
 
 
@@ -404,7 +405,9 @@ def main():
     log(f"Bekerült: {len(new)} cikk " + str({c: sum(1 for n in new if n['cat'] == c) for c in CATS}))
 
     added = 0
-    if slot == "morning" and API_KEY and contests.get("last_research") != TODAY.isoformat():
+    last = contests.get("last_research") or "2000-01-01"
+    due = (TODAY - dt.date.fromisoformat(last)).days >= RESEARCH_EVERY_DAYS
+    if slot == "morning" and API_KEY and due:
         added = research_contests(contests)
         contests["last_research"] = TODAY.isoformat()
         log(f"Új pályázat: {added}")
