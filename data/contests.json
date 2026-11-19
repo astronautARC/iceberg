@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T11:49:30+00:00",
- "last_research": "",
+ "updated": "2026-11-19T11:54:14+00:00",
+ "last_research": "2026-11-19",
  "items": [
   {
    "id": "c-higgsfield-ai-contests-talent-contest",
@@ -422,6 +422,59 @@
    "fee": "ingyenes",
    "lead": "Videó MiniMax H3-mal ComfyUI-ban, ahol a hang és a mozgás elválaszthatatlan. Díj: egy RTX 5090 és három RTX 5060 Ti. Lezárult.",
    "first_seen": "2026-11-19T11:00:00Z"
+  },
+  {
+   "id": "c-1billionsummit-com-ai-award-2027",
+   "cat": "palyazat",
+   "title": "AI Film Award 2027 (1 Billion Followers Summit)",
+   "date": "2026-11-19",
+   "src": "1 Billion Followers Summit / BytePlus / TikTok",
+   "url": "https://www.1billionsummit.com/ai-award-2027",
+   "deadline": "2026-12-05",
+   "elig": "ok",
+   "fee": "ingyenes",
+   "tags": [
+    "ai-film",
+    "pénzdíj",
+    "fesztivál"
+   ],
+   "lead": "5–7 perces, legalább 70%-ban Seedance-szel készült film öt humanitárius témában, angol felirattal. Fődíj 1 000 000 USD. A hivatalos oldal egyik változata 11. 20-át ír, ezért nevezés előtt ellenőrizd.",
+   "first_seen": "2026-11-19T11:54:14+00:00"
+  },
+  {
+   "id": "c-filmfreeway-com-csfccaaifilmfestival",
+   "cat": "palyazat",
+   "title": "CSFCCA International AI Film Festival – Winter 2026",
+   "date": "2026-11-19",
+   "src": "CSFCCA (Taipei)",
+   "url": "https://filmfreeway.com/CSFCCAAIFilmFestival",
+   "deadline": "2026-12-31",
+   "elig": "ok",
+   "fee": "kb. 22–28 USD kategóriánként",
+   "tags": [
+    "ai-film",
+    "animáció",
+    "fesztivál"
+   ],
+   "lead": "AI-val készült film vagy animáció (3–15 perc, legalább 50% AI-részesedés), több mint 20 kategóriában. Díj: Golden Mars nagydíj szobor, pénzdíj nincs megadva. Végső határidő 2026. december 31.",
+   "first_seen": "2026-11-19T11:54:14+00:00"
+  },
+  {
+   "id": "c-aiartchampionship-com",
+   "cat": "palyazat",
+   "title": "AI Art Championship 2026 – „Visions in Motion”",
+   "date": "2026-11-19",
+   "src": "AI Art Championship",
+   "url": "https://aiartchampionship.com/",
+   "deadline": "2026-11-30",
+   "elig": "check",
+   "fee": "nincs megadva",
+   "tags": [
+    "kép",
+    "fesztivál"
+   ],
+   "lead": "AI-generált kép JPG/PNG formátumban, a „Visions in Motion” témához kapcsolódóan. A beküldési időszak november 30-án zárul. Díjátadó Goában, december 15-én; a pénzdíj mértéke nincs megadva.",
+   "first_seen": "2026-11-19T11:54:14+00:00"
   }
  ]
 }
