@@ -13,6 +13,10 @@ on:
         description: "Frissítés most, időponttól függetlenül"
         type: boolean
         default: true
+      research:
+        description: "Pályázatkeresés most is"
+        type: boolean
+        default: false
   push:
     branches: [main]
 
@@ -42,6 +46,7 @@ jobs:
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           FORCE: ${{ github.event_name == 'workflow_dispatch' && inputs.force }}
+          RESEARCH: ${{ github.event_name == 'workflow_dispatch' && inputs.research }}
         run: python scripts/update.py
       - name: Mentés
         if: steps.run.outputs.changed == 'true'

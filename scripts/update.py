@@ -230,13 +230,21 @@ def claude(prompt, max_tokens=4000, web_search=0):
 
 def json_array(txt):
     a, b = txt.find("["), txt.rfind("]")
-    if a < 0 or b < a:
-        return []
-    try:
-        v = json.loads(txt[a:b + 1])
-        return v if isinstance(v, list) else []
-    except json.JSONDecodeError:
-        return []
+    if a >= 0 and b > a:
+        try:
+            v = json.loads(txt[a:b + 1])
+            if isinstance(v, list):
+                return v
+        except json.JSONDecodeError:
+            pass
+    # félbevágott vagy hibás válasz: a hiánytalan objektumokat egyenként mentjük meg
+    out = []
+    for m in re.finditer(r"\{[^{}]*\}", txt[a if a >= 0 else 0:]):
+        try:
+            out.append(json.loads(m.group(0)))
+        except json.JSONDecodeError:
+            pass
+    return out
 
 
 AI_RE = re.compile(r"\b(ai|a\.i\.|mcp|comfy\w*|claude|anthropic|generative|genai|diffusion|neural|llm|gpt|gemini|runway|kling|veo|sora|seedance|minimax|hailuo|ltx|wan ?2|flux|hunyuan|moss|h3)\b", re.I)
@@ -271,8 +279,8 @@ def classify(cands, cfg):
             out.append(dict(c, cat=cat, tags=kw_tags(text, vocab) or [cat], lead=""))
         return out
     out = []
-    for i in range(0, len(cands), 20):
-        chunk = cands[i:i + 20]
+    for i in range(0, len(cands), 10):
+        chunk = cands[i:i + 10]
         listing = "\n".join(f'{n}. FORRÁS: {c["src"]} | CÍM: {c["title"]} | LEÍRÁS: {c["desc"][:500]}' for n, c in enumerate(chunk))
         prompt = f"""Egy magyar AI-hírportál (IceBerg) szerkesztője vagy. Az olvasót ez érdekli: {cfg["topics"]}
 
@@ -287,13 +295,15 @@ Válaszolj KIZÁRÓLAG egy JSON tömbbel, minden tételhez egy objektummal:
 Tételek:
 {listing}"""
         try:
-            res = json_array(claude(prompt, max_tokens=4000))
+            res = json_array(claude(prompt, max_tokens=6000))
         except Exception as e:  # noqa: BLE001
             log("  ! Claude hiba, kulcsszavas besorolás:", e)
             res = []
-        if not res:
-            out += classify_fallback(chunk, vocab)
-            continue
+        done = {int(r["n"]) for r in res if isinstance(r, dict) and str(r.get("n", "")).isdigit()}
+        missing = [c for n, c in enumerate(chunk) if n not in done]
+        if missing:
+            log(f"  ! {len(missing)} tételre nem jött értékelhető válasz, kulcsszavas besorolás (később újra próbálja)")
+            out += [dict(x, kwfb=True) for x in classify_fallback(missing, vocab)]
         for r in res:
             try:
                 c = chunk[int(r["n"])]
@@ -404,7 +414,7 @@ def main():
             rec["yt"] = n["yt"]
         if n.get("img"):
             rec["img"] = n["img"]
-        if not API_KEY:
+        if not API_KEY or n.get("kwfb"):
             rec["kw"] = True
         items["items"].append(rec)
     items["items"].sort(key=lambda x: (x["date"], x.get("first_seen", "")), reverse=True)
@@ -414,7 +424,7 @@ def main():
     added = 0
     last = contests.get("last_research") or "2000-01-01"
     due = (TODAY - dt.date.fromisoformat(last)).days >= RESEARCH_EVERY_DAYS
-    if slot == "morning" and API_KEY and due:
+    if API_KEY and ((slot == "morning" and due) or os.environ.get("RESEARCH", "").lower() == "true"):
         added = research_contests(contests)
         contests["last_research"] = TODAY.isoformat()
         log(f"Új pályázat: {added}")
