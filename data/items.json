@@ -1,8 +1,53 @@
 {
- "updated": "2026-11-19T21:52:00+00:00",
- "last_morning": "",
+ "updated": "2026-11-20T05:58:57+00:00",
+ "last_morning": "2026-11-20",
  "last_evening": "2026-11-19",
  "items": [
+  {
+   "id": "yt-KmeOD4SkBXg",
+   "cat": "claude",
+   "title": "Claude Design is Shutting Down - Do This Now",
+   "date": "2026-11-20",
+   "src": "YouTube · Futurepedia",
+   "url": "https://www.youtube.com/watch?v=KmeOD4SkBXg",
+   "tags": [
+    "claude"
+   ],
+   "lead": "A Claude Design önálló platformja december 14-én megszűnik, de a funkció Claude-on belül, artifactként marad elérhető. A videó bemutatja, hogyan vihetők át a projektek és a design rendszerek a határidő előtt.",
+   "first_seen": "2026-11-20T05:58:57+00:00",
+   "yt": "KmeOD4SkBXg"
+  },
+  {
+   "id": "yt-t6BfcCw_k9g",
+   "cat": "comfy",
+   "title": "AI Lip Sync Dubbing in ComfyUI: Same Take, Any Language",
+   "date": "2026-11-20",
+   "src": "YouTube · ComfyUI",
+   "url": "https://www.youtube.com/watch?v=t6BfcCw_k9g",
+   "tags": [
+    "comfyui",
+    "workflow",
+    "video"
+   ],
+   "lead": "Egy ComfyUI workflow meglévő jelenetet szinkronizál más nyelvre: klónozza a színész hangját, az ajkmozgást az új szöveghez igazítja, a kép mintegy 1%-a változik.",
+   "first_seen": "2026-11-20T05:58:57+00:00",
+   "yt": "t6BfcCw_k9g"
+  },
+  {
+   "id": "yt-V0iq6EPfHmw",
+   "cat": "claude",
+   "title": "We Found a Wild AI Video Conspiracy...",
+   "date": "2026-11-19",
+   "src": "YouTube · Curious Refuge",
+   "url": "https://www.youtube.com/watch?v=V0iq6EPfHmw",
+   "tags": [
+    "video",
+    "ai-film"
+   ],
+   "lead": "A Topview T1 AI videógenerátort több modellel hasonlítja össze, és azt vizsgálja, hogy valójában a Seedance 2.5 720p-s változata-e felskálázva és más köntösben kiadva.",
+   "first_seen": "2026-11-20T05:58:57+00:00",
+   "yt": "V0iq6EPfHmw"
+  },
   {
    "id": "rss-www-fxguide-com-thevfxshow-vfxshow-311-godzila-minus-zero",
    "cat": "3d",
@@ -719,6 +764,21 @@
    "lead": "Az NVIDIA Regenerate 2K technológiája ComfyUI-ban, IC LoRA formájában, három mintavételezési lépéssel videók felskálázására.",
    "first_seen": "2026-11-19T11:49:30+00:00",
    "yt": "zmNrbSpx1g4"
+  },
+  {
+   "id": "yt-i_d7LSwrCsA",
+   "cat": "3d",
+   "title": "How to Use the Muse Ember to Run Agentic Workflows on Your PC",
+   "date": "2026-11-12",
+   "src": "YouTube · AsapGuide",
+   "url": "https://www.youtube.com/watch?v=i_d7LSwrCsA",
+   "tags": [
+    "blender",
+    "3d"
+   ],
+   "lead": "A Meta Muse Ember zárt forráskódú, olcsó modell ügynöki és többmodális feladatokhoz. A videó tesztje egy Blender 3D-jelenet volt, körülbelül 7 centes költséggel.",
+   "first_seen": "2026-11-20T05:58:57+00:00",
+   "yt": "i_d7LSwrCsA"
   },
   {
    "id": "yt-o8hqvv3Cbls",
