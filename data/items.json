@@ -1,8 +1,68 @@
 {
- "updated": "2026-11-20T05:58:57+00:00",
+ "updated": "2026-11-20T17:04:07+00:00",
  "last_morning": "2026-11-20",
- "last_evening": "2026-11-19",
+ "last_evening": "2026-11-20",
  "items": [
+  {
+   "id": "yt-et4hdrJHEUE",
+   "cat": "3d",
+   "title": "Light for 3D Artists: 7 Lighting Rules Every Render Needs",
+   "date": "2026-11-20",
+   "src": "YouTube · ozangonen",
+   "url": "https://www.youtube.com/watch?v=et4hdrJHEUE",
+   "tags": [
+    "3d",
+    "blender",
+    "cinema4d"
+   ],
+   "lead": "Hét szoftverfüggetlen fényszabály renderelőknek: a kék külső árnyéktól a fényforrás méretén át az árnyéktípusokig, valamint a fény anyagmegjelenítésre gyakorolt hatásáig.",
+   "first_seen": "2026-11-20T17:04:07+00:00",
+   "yt": "et4hdrJHEUE"
+  },
+  {
+   "id": "yt-S7tsLm0VCw8",
+   "cat": "3d",
+   "title": "I Tested the M5 Ultra Against Every Computer I Own",
+   "date": "2026-11-20",
+   "src": "YouTube · Greyscalegorilla",
+   "url": "https://www.youtube.com/watch?v=S7tsLm0VCw8",
+   "tags": [
+    "3d",
+    "cinema4d"
+   ],
+   "lead": "Rendergépek összehasonlítása valós Cinebench-pontszámokkal: dual RTX 3090, új M5 Mac Studio, 5080-as PC, M3 Ultra és egy 600 dolláros Mac mini. Plusz ArtStation- és Sketchfab-művészek ajánlói.",
+   "first_seen": "2026-11-20T17:04:07+00:00",
+   "yt": "S7tsLm0VCw8"
+  },
+  {
+   "id": "rss-www-cgchannel-com-2026-11-watch-vfx-breakdowns-for-backrooms-in-one-place",
+   "cat": "3d",
+   "title": "Watch VFX breakdowns for Backrooms in one place",
+   "date": "2026-11-20",
+   "src": "CG Channel",
+   "url": "https://www.cgchannel.com/2026/11/watch-vfx-breakdowns-for-backrooms-in-one-place/",
+   "tags": [
+    "vfx",
+    "3d"
+   ],
+   "lead": "Backrooms című pszichológiai thrillerhez készült CG-környezetek VFX-breakdownjai egy helyen: Roxel Creative, Mr Wolf és CoSA VFX munkái.",
+   "first_seen": "2026-11-20T17:04:07+00:00"
+  },
+  {
+   "id": "yt-Sx0HCICnciQ",
+   "cat": "claude",
+   "title": "How to Make YouTube Shorts With AI Using Your Own Face and Voice (Beginner Guide)",
+   "date": "2026-11-20",
+   "src": "YouTube · Vladimir Chopine [GeekatPlay]",
+   "url": "https://www.youtube.com/watch?v=Sx0HCICnciQ",
+   "tags": [
+    "claude",
+    "video"
+   ],
+   "lead": "Bemutató arról, hogyan készíthetünk Claude-on belül YouTube Shorts-okat saját arccal és hanggal egyetlen 10 másodperces felvétel alapján, a Higgsfield Shorts Studio segítségével.",
+   "first_seen": "2026-11-20T17:04:07+00:00",
+   "yt": "Sx0HCICnciQ"
+  },
   {
    "id": "yt-KmeOD4SkBXg",
    "cat": "claude",
@@ -647,6 +707,21 @@
    "first_seen": "2026-11-19T11:49:30+00:00"
   },
   {
+   "id": "rss-www-blendernation-com-2026-11-13-blender-jobs-for-november-13-2026",
+   "cat": "3d",
+   "title": "Blender Jobs for November 13, 2026",
+   "date": "2026-11-13",
+   "src": "BlenderNation",
+   "url": "https://www.blendernation.com/2026/11/13/blender-jobs-for-november-13-2026/",
+   "tags": [
+    "blender",
+    "3d"
+   ],
+   "lead": "Blender-állásajánlatok összesítője a Blender Artists, ArtStation és 3djobs.xyz oldalakról, köztük környezetművész és sztilizált karakter-modellező pozíciókkal.",
+   "first_seen": "2026-11-20T17:04:07+00:00",
+   "img": "https://www.blendernation.com/wp-content/uploads/2021/08/low-poly-office-file.jpeg"
+  },
+  {
    "id": "yt-9tZGphHbWww",
    "cat": "3d",
    "title": "I Tested Gemini 4 Hydrogen vs. Sonnet 5.5 and GPT 6.1 Terra",
@@ -1223,6 +1298,20 @@
    ],
    "lead": "Saját workflow gyorsabb és jobb helyi videógeneráláshoz, automatikus promptírással.",
    "first_seen": "2026-11-19T11:00:00Z"
+  },
+  {
+   "id": "yt-hDcswpG3RzE",
+   "cat": "comfy",
+   "title": "Announcing Comfy for Developers",
+   "date": "2026-11-09",
+   "src": "YouTube · ComfyUI",
+   "url": "https://www.youtube.com/watch?v=hDcswpG3RzE",
+   "tags": [
+    "comfyui"
+   ],
+   "lead": "A ComfyUI fejlesztőknek szóló új fiókot indított, amely közösségi use case-eket, termékfejlesztési híreket, mérnöki blogbejegyzéseket és eseményeket oszt meg. Az első 50 jelentkező 50 dolláros Comfy-kreditet kap.",
+   "first_seen": "2026-11-20T17:04:07+00:00",
+   "yt": "hDcswpG3RzE"
   },
   {
    "id": "rss-blog-comfy-org-p-the-little-things-that-shipped-in",
