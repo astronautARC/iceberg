@@ -1,8 +1,40 @@
 {
- "updated": "2026-11-21T05:04:03+00:00",
+ "updated": "2026-11-21T17:03:47+00:00",
  "last_morning": "2026-11-21",
- "last_evening": "2026-11-20",
+ "last_evening": "2026-11-21",
  "items": [
+  {
+   "id": "yt-oqtXc0yI1S8",
+   "cat": "claude",
+   "title": "I Surprised Iman Gadzhi With A $20,000 Luxury AD For His Brand",
+   "date": "2026-11-21",
+   "src": "YouTube · Higgsfield AI",
+   "url": "https://www.youtube.com/watch?v=oqtXc0yI1S8",
+   "tags": [
+    "ai-film",
+    "mcp",
+    "workflow",
+    "claude"
+   ],
+   "lead": "A Higgsfield AI bemutatja egy luxus AI-reklámfilm elkészítésének munkafolyamatát a HILLS márkához. A leírás szerint a Higgsfield MCP Claude-hoz is csatlakoztatható.",
+   "first_seen": "2026-11-21T17:03:47+00:00",
+   "yt": "oqtXc0yI1S8"
+  },
+  {
+   "id": "rss-www-blendernation-com-2026-11-21-grey-is-just-a-number-unlock-the-secrets-of-maths-nodes-i",
+   "cat": "3d",
+   "title": "Grey is Just a Number – Unlock the Secrets of Maths Nodes in Blender",
+   "date": "2026-11-21",
+   "src": "BlenderNation",
+   "url": "https://www.blendernation.com/2026/11/21/grey-is-just-a-number-unlock-the-secrets-of-maths-nodes-in-blender/",
+   "tags": [
+    "blender",
+    "3d"
+   ],
+   "lead": "Richard Yot oktatóanyaga bemutatja, hogyan használhatók a Blender Math csomópontjai a fényerő, kontraszt és küszöbérték mintájára textúrák készítéséhez.",
+   "first_seen": "2026-11-21T17:03:47+00:00",
+   "img": "https://www.blendernation.com/wp-content/uploads/2026/11/grey-thumbnail-Blender-Nation-800x450.jpg.webp"
+  },
   {
    "id": "yt-wi3MAo9FvEM",
    "cat": "comfy",
