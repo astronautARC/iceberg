@@ -1,8 +1,96 @@
 {
- "updated": "2026-11-20T17:04:07+00:00",
- "last_morning": "2026-11-20",
+ "updated": "2026-11-21T05:04:03+00:00",
+ "last_morning": "2026-11-21",
  "last_evening": "2026-11-20",
  "items": [
+  {
+   "id": "yt-wi3MAo9FvEM",
+   "cat": "comfy",
+   "title": "ComfyUI Is Missing THIS! The FREE Tool You NEED!",
+   "date": "2026-11-21",
+   "src": "YouTube · Vladimir Chopine [GeekatPlay]",
+   "url": "https://www.youtube.com/watch?v=wi3MAo9FvEM",
+   "tags": [
+    "comfyui",
+    "workflow"
+   ],
+   "lead": "Az ingyenes, helyi futtatású ComfyUI Asset Vault új System Advisor funkciója a hardver alapján elemzi, mely AI-modellek futnak a GPU-n, és segít a hibás workflow-k azonosításában.",
+   "first_seen": "2026-11-21T05:04:03+00:00",
+   "yt": "wi3MAo9FvEM"
+  },
+  {
+   "id": "yt-2Iq29ZWxJA8",
+   "cat": "claude",
+   "title": "Thoughts on GPT-6.2 Astra: Cheaper, But Is It Enough?",
+   "date": "2026-11-20",
+   "src": "YouTube · MattVidPro",
+   "url": "https://www.youtube.com/watch?v=2Iq29ZWxJA8",
+   "tags": [
+    "claude",
+    "blender"
+   ],
+   "lead": "Az OpenAI GPT-6.2 Astra modelljének vegyes fogadtatását elemzi, összehasonlítja a Claude Fable 5.2-vel, és két saját Blender-tesztet is bemutat.",
+   "first_seen": "2026-11-21T05:04:03+00:00",
+   "yt": "2Iq29ZWxJA8"
+  },
+  {
+   "id": "rss-www-blendernation-com-2026-11-20-best-of-blender-artists-2026-47",
+   "cat": "3d",
+   "title": "Best of Blender Artists: 2026-47",
+   "date": "2026-11-20",
+   "src": "BlenderNation",
+   "url": "https://www.blendernation.com/2026/11/20/best-of-blender-artists-2026-47/",
+   "tags": [
+    "blender"
+   ],
+   "lead": "A Blender Artists fórum heti válogatása a közösség legjobb Blender-munkáiból.",
+   "first_seen": "2026-11-21T05:04:03+00:00",
+   "img": "https://www.blendernation.com/wp-content/uploads/2026/11/inspector-gadget-800x450.jpg.webp"
+  },
+  {
+   "id": "yt-amjhvE-h2kM",
+   "cat": "comfy",
+   "title": "MOSS Image ROCKS! Fast, Uncensored & Under 6 GB – EASY Install Guide",
+   "date": "2026-11-20",
+   "src": "YouTube · Olivio Sarikas",
+   "url": "https://www.youtube.com/watch?v=amjhvE-h2kM",
+   "tags": [
+    "comfyui",
+    "moss"
+   ],
+   "lead": "A MOSS Image helyi képgeneráló modell, amely 6 GB-nál kevesebb VRAM-mal fut és ComfyUI-ban telepíthető. A bemutató az Ultimate SD Upscaler használatát is ismerteti.",
+   "first_seen": "2026-11-21T05:04:03+00:00",
+   "yt": "amjhvE-h2kM"
+  },
+  {
+   "id": "yt-wxxF4ihMxMI",
+   "cat": "comfy",
+   "title": "Genie 4 is now on ComfyUI",
+   "date": "2026-11-20",
+   "src": "YouTube · ComfyUI",
+   "url": "https://www.youtube.com/watch?v=wxxF4ihMxMI",
+   "tags": [
+    "comfyui",
+    "video"
+   ],
+   "lead": "A Google DeepMind Genie 4 világmodellje mostantól a ComfyUI-ban is elérhető. A képkockánként, valós időben generált világ reagál a felhasználói bemenetekre, és natív hangot is generál.",
+   "first_seen": "2026-11-21T05:04:03+00:00",
+   "yt": "wxxF4ihMxMI"
+  },
+  {
+   "id": "rss-www-cgchannel-com-2026-11-tutorial-check-out-this-essential-introduction-to-unreal-engine",
+   "cat": "3d",
+   "title": "Tutorial: check out this essential Introduction to Unreal Engine 5",
+   "date": "2026-11-20",
+   "src": "CG Channel",
+   "url": "https://www.cgchannel.com/2026/11/tutorial-check-out-this-essential-introduction-to-unreal-engine-5/",
+   "tags": [
+    "3d",
+    "vfx"
+   ],
+   "lead": "Bevezető útmutató az Unreal Engine 5 alapjaihoz: jelenetépítés, anyagok, világítás és renderelés kezdőknek.",
+   "first_seen": "2026-11-21T05:04:03+00:00"
+  },
   {
    "id": "yt-et4hdrJHEUE",
    "cat": "3d",
@@ -707,6 +795,21 @@
    "first_seen": "2026-11-19T11:49:30+00:00"
   },
   {
+   "id": "yt-nTXUndFOTCw",
+   "cat": "claude",
+   "title": "The Craziest AI Week of The Year...",
+   "date": "2026-11-13",
+   "src": "YouTube · Paul J Lipsky",
+   "url": "https://www.youtube.com/watch?v=nTXUndFOTCw",
+   "tags": [
+    "claude",
+    "mcp"
+   ],
+   "lead": "Heti AI-hírösszefoglaló, amely Claude-újdonságokat és Gemini-modelleket említ, valamint a Claude és a Gemini Notebook összekapcsolását MCP-n keresztül. Szponzorált videó.",
+   "first_seen": "2026-11-21T05:04:03+00:00",
+   "yt": "nTXUndFOTCw"
+  },
+  {
    "id": "rss-www-blendernation-com-2026-11-13-blender-jobs-for-november-13-2026",
    "cat": "3d",
    "title": "Blender Jobs for November 13, 2026",
@@ -839,6 +942,20 @@
    "lead": "Az NVIDIA Regenerate 2K technológiája ComfyUI-ban, IC LoRA formájában, három mintavételezési lépéssel videók felskálázására.",
    "first_seen": "2026-11-19T11:49:30+00:00",
    "yt": "zmNrbSpx1g4"
+  },
+  {
+   "id": "yt-6NMSJGdM9So",
+   "cat": "comfy",
+   "title": "How to Run Qwen3 TTS, ASR, and Voice Cloning Models LOCALLY",
+   "date": "2026-11-12",
+   "src": "YouTube · AsapGuide",
+   "url": "https://www.youtube.com/watch?v=6NMSJGdM9So",
+   "tags": [
+    "ai-film"
+   ],
+   "lead": "Qwen3 TTS, ASR és hangklónozó modellek helyi futtatása Unsloth segítségével. Nyílt forráskódú alternatíva az ElevenLabs-hez, kis modellméretekkel, CPU-n is futtatható.",
+   "first_seen": "2026-11-21T05:04:03+00:00",
+   "yt": "6NMSJGdM9So"
   },
   {
    "id": "yt-i_d7LSwrCsA",

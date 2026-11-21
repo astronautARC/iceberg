@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T17:04:07+00:00",
- "last_research": "2026-11-19",
+ "updated": "2026-11-21T05:04:03+00:00",
+ "last_research": "2026-11-21",
  "items": [
   {
    "id": "c-higgsfield-ai-contests-talent-contest",
@@ -475,6 +475,23 @@
    ],
    "lead": "AI-generált kép JPG/PNG formátumban, a „Visions in Motion” témához kapcsolódóan. A beküldési időszak november 30-án zárul. Díjátadó Goában, december 15-én; a pénzdíj mértéke nincs megadva.",
    "first_seen": "2026-11-19T11:54:14+00:00"
+  },
+  {
+   "id": "c-paiffestival-com",
+   "cat": "palyazat",
+   "title": "Prague AI Film Festival (PAIFF) 2026",
+   "date": "2026-11-21",
+   "src": "PAIFF – Prague AI Film Festival",
+   "url": "https://paiffestival.com/",
+   "deadline": "2026-11-28",
+   "elig": "check",
+   "fee": "nincs megadva",
+   "tags": [
+    "ai-film",
+    "fesztivál"
+   ],
+   "lead": "AI-val készült filmek nevezése az oldal szerint, a végső beadási határidő 2026. nov. 28. Külön díjazás és nevezési díj nincs megadva; a díjátadó Prágában, a Kino Lucernában lesz. Nemzetközi nyitottság nincs egyértelműen leírva.",
+   "first_seen": "2026-11-21T05:04:03+00:00"
   }
  ]
 }
