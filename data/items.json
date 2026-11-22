@@ -1,8 +1,53 @@
 {
- "updated": "2026-11-22T05:03:45+00:00",
+ "updated": "2026-11-22T17:04:17+00:00",
  "last_morning": "2026-11-22",
- "last_evening": "2026-11-21",
+ "last_evening": "2026-11-22",
  "items": [
+  {
+   "id": "rss-www-blendernation-com-2026-11-22-hueatlas-lite-free-palette-atlas-texturing-for-low-poly-g",
+   "cat": "3d",
+   "title": "HueAtlas Lite: free palette atlas texturing for low-poly game kits",
+   "date": "2026-11-22",
+   "src": "BlenderNation",
+   "url": "https://www.blendernation.com/2026/11/22/hueatlas-lite-free-palette-atlas-texturing-for-low-poly-game-kits/",
+   "tags": [
+    "blender",
+    "3d"
+   ],
+   "lead": "A Swatchworks ingyenes, GPL-licencű HueAtlas Lite Blender-bővítménye egyetlen anyaggal és egy kis palettaképpel textúrázza a low-poly játékkészlet egészét.",
+   "first_seen": "2026-11-22T17:04:17+00:00",
+   "img": "https://www.blendernation.com/wp-content/uploads/2026/11/lite_news-800x450.jpg.webp"
+  },
+  {
+   "id": "rss-www-blendernation-com-2026-11-22-nkz-retopia-draw-your-topology-let-blender-build-the-quad",
+   "cat": "3d",
+   "title": "NKZ Retopia: Draw Your Topology, Let Blender Build the Quads",
+   "date": "2026-11-22",
+   "src": "BlenderNation",
+   "url": "https://www.blendernation.com/2026/11/22/nkz-retopia-draw-your-topology-let-blender-build-the-quads/",
+   "tags": [
+    "blender",
+    "3d"
+   ],
+   "lead": "Eduardo Bartali NKZ Retopia nevű Blender-bővítménye a szobrászati modellre rajzolt élfolyam alapján rendezett, egyenletes közű quadeket épít a felületre.",
+   "first_seen": "2026-11-22T17:04:17+00:00",
+   "img": "https://www.blendernation.com/wp-content/uploads/2026/10/Cover_blendernation_01-800x450.jpg.webp"
+  },
+  {
+   "id": "rss-www-blendernation-com-2026-11-22-frame-perfect-now-makes-turntable-videos-and-pictures-of",
+   "cat": "3d",
+   "title": "Frame Perfect now makes turntable videos and pictures of your Blender models",
+   "date": "2026-11-22",
+   "src": "BlenderNation",
+   "url": "https://www.blendernation.com/2026/11/22/frame-perfect-now-makes-turntable-videos-and-pictures-of-your-blender-models/",
+   "tags": [
+    "blender",
+    "3d"
+   ],
+   "lead": "A VeeVeeVee Frame Perfect Blender-bővítménye mostantól turntable videókat és képeket is készíthet a modellekről.",
+   "first_seen": "2026-11-22T17:04:17+00:00",
+   "img": "https://www.blendernation.com/wp-content/uploads/2026/11/frame-perfect-blender-turntable-warm-room-look-800x450.png.webp"
+  },
   {
    "id": "yt-ldi-3Ao7wKk",
    "cat": "claude",
