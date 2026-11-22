@@ -1,8 +1,39 @@
 {
- "updated": "2026-11-21T17:03:47+00:00",
- "last_morning": "2026-11-21",
+ "updated": "2026-11-22T05:03:45+00:00",
+ "last_morning": "2026-11-22",
  "last_evening": "2026-11-21",
  "items": [
+  {
+   "id": "yt-ldi-3Ao7wKk",
+   "cat": "claude",
+   "title": "Seedance 2.5 Native 4K: Shocking AI Video Quality (Full Workflow)",
+   "date": "2026-11-22",
+   "src": "YouTube · Vladimir Chopine [GeekatPlay]",
+   "url": "https://www.youtube.com/watch?v=ldi-3Ao7wKk",
+   "tags": [
+    "video",
+    "ai-film",
+    "workflow"
+   ],
+   "lead": "Teljesen AI-val készült tengeri teknős-film natív 4K-ban: referenciaképek GPT Image 2.6-tal, 480p vázlatok és végső 4K renderek Seedance 2.5-tel, a hibás jelenetek javítása Recreate-tel.",
+   "first_seen": "2026-11-22T05:03:45+00:00",
+   "yt": "ldi-3Ao7wKk"
+  },
+  {
+   "id": "rss-www-blendernation-com-2026-11-21-how-to-create-a-gingerbread-house",
+   "cat": "3d",
+   "title": "How to Create a Gingerbread House",
+   "date": "2026-11-21",
+   "src": "BlenderNation",
+   "url": "https://www.blendernation.com/2026/11/21/how-to-create-a-gingerbread-house/",
+   "tags": [
+    "blender",
+    "3d"
+   ],
+   "lead": "Hétrészes, kezdőknek szóló Blender-sorozat, amelyben Ryan King mézeskalács-házat modellez: falakat, padlót, procedurális anyagot és világítást állít be.",
+   "first_seen": "2026-11-22T05:03:45+00:00",
+   "img": "https://www.blendernation.com/wp-content/uploads/2026/11/Part-1-800x450.jpg.webp"
+  },
   {
    "id": "yt-oqtXc0yI1S8",
    "cat": "claude",
