@@ -1,8 +1,56 @@
 {
- "updated": "2026-11-22T17:04:17+00:00",
- "last_morning": "2026-11-22",
+ "updated": "2026-11-23T05:04:11+00:00",
+ "last_morning": "2026-11-23",
  "last_evening": "2026-11-22",
  "items": [
+  {
+   "id": "yt-7WATxkqe7Bk",
+   "cat": "comfy",
+   "title": "7,000+ Free Assets: Build Custom AI Characters & Ditch the \"AI Face\"!",
+   "date": "2026-11-23",
+   "src": "YouTube · Veteran AI",
+   "url": "https://www.youtube.com/watch?v=7WATxkqe7Bk",
+   "tags": [
+    "comfyui",
+    "h3",
+    "workflow"
+   ],
+   "lead": "Oktatóvideó egy arcfotóból és egy ruhaképből felismerhető karaktert épít MiniMax H3 videóhoz, moduláris ComfyUI képpipeline-ban, nyílt forrású portré-, ruha- és pózgyűjtemény felhasználásával.",
+   "first_seen": "2026-11-23T05:04:11+00:00",
+   "yt": "7WATxkqe7Bk"
+  },
+  {
+   "id": "rss-www-blendernation-com-2026-11-22-the-modellers-journey-a-new-modeling-course-from-cg-cooki",
+   "cat": "3d",
+   "title": "The Modeller’s Journey, a new modeling course from CG Cookie",
+   "date": "2026-11-22",
+   "src": "BlenderNation",
+   "url": "https://www.blendernation.com/2026/11/22/the-modellers-journey-a-new-modeling-course-from-cg-cookie/",
+   "tags": [
+    "blender",
+    "3d"
+   ],
+   "lead": "A CG Cookie The Modeller's Journey nevű hard-surface modellezési sorozata Chris Bailey vezetésével arról szól, hogyan közelítsünk meg egy korábban még nem modellezett tárgyat.",
+   "first_seen": "2026-11-23T05:04:11+00:00",
+   "img": "https://www.blendernation.com/wp-content/uploads/2026/11/group-shot_02-800x450.png.webp"
+  },
+  {
+   "id": "yt-iJihxk7Ef1Q",
+   "cat": "comfy",
+   "title": "Fix Video Degradation & Darkness in Long Minimax H3 Chains (Comfy UI Tutorial)",
+   "date": "2026-11-22",
+   "src": "YouTube · AI Ninja",
+   "url": "https://www.youtube.com/watch?v=iJihxk7Ef1Q",
+   "tags": [
+    "comfyui",
+    "h3",
+    "video",
+    "workflow"
+   ],
+   "lead": "Közösségi megoldást mutat be a MiniMax H3 hosszú klipláncainál fellépő sötétedés és minőségromlás ellen, a Geiru Keystone Attention workflow segítségével, ajánlott beállításokkal.",
+   "first_seen": "2026-11-23T05:04:11+00:00",
+   "yt": "iJihxk7Ef1Q"
+  },
   {
    "id": "rss-www-blendernation-com-2026-11-22-hueatlas-lite-free-palette-atlas-texturing-for-low-poly-g",
    "cat": "3d",

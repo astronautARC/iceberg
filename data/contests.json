@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-22T17:04:17+00:00",
- "last_research": "2026-11-21",
+ "updated": "2026-11-23T05:04:11+00:00",
+ "last_research": "2026-11-23",
  "items": [
   {
    "id": "c-higgsfield-ai-contests-talent-contest",
@@ -492,6 +492,72 @@
    ],
    "lead": "AI-val készült filmek nevezése az oldal szerint, a végső beadási határidő 2026. nov. 28. Külön díjazás és nevezési díj nincs megadva; a díjátadó Prágában, a Kino Lucernában lesz. Nemzetközi nyitottság nincs egyértelműen leírva.",
    "first_seen": "2026-11-21T05:04:03+00:00"
+  },
+  {
+   "id": "c-jiffindia-org",
+   "cat": "palyazat",
+   "title": "JIFF World AI Cinema Competition 2027 (Jaipur)",
+   "date": "2026-11-23",
+   "src": "Jaipur International Film Festival",
+   "url": "https://jiffindia.org",
+   "deadline": "2026-12-05",
+   "elig": "ok",
+   "fee": "nincs megadva",
+   "tags": [
+    "ai-film",
+    "animáció"
+   ],
+   "lead": "AI rövid-, animációs, kísérleti, egészestés és diák kategóriák; a fő díj a Jaipur IFF-en való bemutató, készpénzes díj nincs megadva. Egy forrás dec. 10-et ír határidőnek.",
+   "first_seen": "2026-11-23T05:04:11+00:00"
+  },
+  {
+   "id": "c-filmmakers-festhome-com-f-10538",
+   "cat": "palyazat",
+   "title": "World AI Cinema & Creativity Festival (WAICF) – India",
+   "date": "2026-11-23",
+   "src": "WAICF / Jaipur",
+   "url": "https://filmmakers.festhome.com/f/10538",
+   "deadline": "2026-12-05",
+   "elig": "ok",
+   "fee": "55 USD (rövidfilm, hosszabbított határid",
+   "tags": [
+    "ai-film"
+   ],
+   "lead": "AI-generált vagy AI-asszisztált filmek 1 perctől 180 percig, nemzetiségtől függetlenül. Rövidfilmnek 55 USD a hosszabbított nevezési díj; a készpénzes díjak forrásonként bizonytalanok.",
+   "first_seen": "2026-11-23T05:04:11+00:00"
+  },
+  {
+   "id": "c-filmfreeway-com-aiberlin",
+   "cat": "palyazat",
+   "title": "Berlin AI Film Festival (2nd Edition)",
+   "date": "2026-11-23",
+   "src": "Berlin AI Film Festival",
+   "url": "https://filmfreeway.com/AIBerlin",
+   "deadline": "2026-12-31",
+   "elig": "ok",
+   "fee": "10–40 USD (határidő-szinttől függ)",
+   "tags": [
+    "ai-film"
+   ],
+   "lead": "100%-ban AI-s és hibrid AI-s filmek, bármilyen AI-eszközzel, FilmFreeway-n nevezhető. A díjak elismerések, nem készpénz. Egy forrás 2027. jan. 31-ét adja meg határidőnek.",
+   "first_seen": "2026-11-23T05:04:11+00:00"
+  },
+  {
+   "id": "c-aislopfestival-com",
+   "cat": "palyazat",
+   "title": "AI Slop Film Festival – Season 2",
+   "date": "2026-11-23",
+   "src": "AI Slop Film Festival (Toronto-térség)",
+   "url": "https://aislopfestival.com/",
+   "deadline": "2026-12-16",
+   "elig": "ok",
+   "fee": "kb. 10 USD (FilmFreeway, drágul az idő e",
+   "tags": [
+    "ai-film",
+    "animáció"
+   ],
+   "lead": "Rövid vagy hosszú film, amelyben az AI érdemben szerepet kap, 2023 utáni munka; a nevezéshez rövid AI-használat-leírás kell. Kilenc díjkategória van, készpénzes díj nincs közölve.",
+   "first_seen": "2026-11-23T05:04:11+00:00"
   }
  ]
 }
