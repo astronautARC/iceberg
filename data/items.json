@@ -1,8 +1,128 @@
 {
- "updated": "2026-11-23T05:04:11+00:00",
+ "updated": "2026-11-23T17:04:11+00:00",
  "last_morning": "2026-11-23",
- "last_evening": "2026-11-22",
+ "last_evening": "2026-11-23",
  "items": [
+  {
+   "id": "rss-www-blendernation-com-2026-11-23-pay-it-forward-help-the-blender-foundation-reach-its-fund",
+   "cat": "3d",
+   "title": "Pay It Forward: help the Blender Foundation reach its funding goal for 2027",
+   "date": "2026-11-23",
+   "src": "BlenderNation",
+   "url": "https://www.blendernation.com/2026/11/23/pay-it-forward-help-the-blender-foundation-reach-its-funding-goal-for-2027/",
+   "tags": [
+    "blender"
+   ],
+   "lead": "A Blender Foundation Pay It Forward nevű adománygyűjtést indított, hogy elérje a 2027-es finanszírozási célját.",
+   "first_seen": "2026-11-23T17:04:11+00:00",
+   "img": "https://www.blendernation.com/wp-content/uploads/2026/11/pay-it-forward-blender-fund-2027-800x450.jpg.webp"
+  },
+  {
+   "id": "yt-VJOG2tis9eE",
+   "cat": "claude",
+   "title": "Fable 5.2 vs Opus 5.5 with Higgsfield MCP",
+   "date": "2026-11-23",
+   "src": "YouTube · Paul J Lipsky",
+   "url": "https://www.youtube.com/watch?v=VJOG2tis9eE",
+   "tags": [
+    "claude",
+    "mcp"
+   ],
+   "lead": "Két Claude-modell összehasonlítása vizuális tervezésben Higgsfield MCP-vel: képhirdetések, UGC videóhirdetés, reklámfilm, weboldal és 3D animált történet.",
+   "first_seen": "2026-11-23T17:04:11+00:00",
+   "yt": "VJOG2tis9eE"
+  },
+  {
+   "id": "yt-1Ixek3Kb-H8",
+   "cat": "3d",
+   "title": "Introducing Maxon Plus",
+   "date": "2026-11-23",
+   "src": "YouTube · Maxon",
+   "url": "https://www.youtube.com/watch?v=1Ixek3Kb-H8",
+   "tags": [
+    "cinema4d",
+    "3d"
+   ],
+   "lead": "A Maxon Plus új, összekapcsolt szolgáltatásokat hoz, köztük AI-val segített 3D-modellgenerálást, textúragenerálást és base mesh készítést ZBrush for iPad-en.",
+   "first_seen": "2026-11-23T17:04:11+00:00",
+   "yt": "1Ixek3Kb-H8"
+  },
+  {
+   "id": "yt-Jb-yQIhD6rA",
+   "cat": "3d",
+   "title": "Maxon Plus Adds AI to Generate 3D Models + Blender 5.3 IS HERE! | Motion Mondays",
+   "date": "2026-11-23",
+   "src": "YouTube · School of Motion",
+   "url": "https://www.youtube.com/watch?v=Jb-yQIhD6rA",
+   "tags": [
+    "blender",
+    "3d",
+    "motion"
+   ],
+   "lead": "A Maxon Plus szövegből és referenciaképekből AI-val generál 3D base meshet, a Blender 5.3 natívan rendereli a Gaussian splatokat, a Figma pedig béta 3D transzformációt kap.",
+   "first_seen": "2026-11-23T17:04:11+00:00",
+   "yt": "Jb-yQIhD6rA"
+  },
+  {
+   "id": "yt-oYRpAddkki8",
+   "cat": "comfy",
+   "title": "Minimax H3 ReDiverse Bring Back H3 Turbo Model like Full Steps! And I Create REA Video for ComfyUI!",
+   "date": "2026-11-23",
+   "src": "YouTube · Benji’s AI Playground",
+   "url": "https://www.youtube.com/watch?v=oYRpAddkki8",
+   "tags": [
+    "h3",
+    "comfyui",
+    "video"
+   ],
+   "lead": "A ReDiverse rank-32 LoRA a 4 lépéses, desztillált MiniMax H3 videómodell seed-diverzitását állítja vissza, ComfyUI-ban a meglévő Turbo LoRA mellett futtatva.",
+   "first_seen": "2026-11-23T17:04:11+00:00",
+   "yt": "oYRpAddkki8"
+  },
+  {
+   "id": "rss-www-blendernation-com-2026-11-23-this-object-cutout-effect-is-made-with-geometry-nodes",
+   "cat": "3d",
+   "title": "This Object Cutout Effect is Made with Geometry Nodes!",
+   "date": "2026-11-23",
+   "src": "BlenderNation",
+   "url": "https://www.blendernation.com/2026/11/23/this-object-cutout-effect-is-made-with-geometry-nodes/",
+   "tags": [
+    "blender",
+    "vfx"
+   ],
+   "lead": "Procedurális, rétegzett objektumkivágási effekt készítése Blender Geometry Nodes segítségével, kontúrokkal, mélységgel és megvilágítással.",
+   "first_seen": "2026-11-23T17:04:11+00:00",
+   "img": "https://www.blendernation.com/wp-content/uploads/2026/10/Object_Cutout_Intro_HD00086519e_BN.png"
+  },
+  {
+   "id": "yt-uYwE5e8LiN8",
+   "cat": "claude",
+   "title": "How to Use Claude Artifacts Step by Step (It's Not Just Chat Now)",
+   "date": "2026-11-23",
+   "src": "YouTube · Teacher's Tech",
+   "url": "https://www.youtube.com/watch?v=uYwE5e8LiN8",
+   "tags": [
+    "claude",
+    "workflow"
+   ],
+   "lead": "Lépésről lépésre bemutatja a Claude artifact típusait, köztük a dizájnokat és prezentációkat, egy kávépörkölő termékbevezetőjének példáján keresztül.",
+   "first_seen": "2026-11-23T17:04:11+00:00",
+   "yt": "uYwE5e8LiN8"
+  },
+  {
+   "id": "rss-www-blendernation-com-2026-11-23-modperf-your-blender-modifier-stack-right-at-your-cursor",
+   "cat": "3d",
+   "title": "ModPerf: your Blender modifier stack, right at your cursor",
+   "date": "2026-11-23",
+   "src": "BlenderNation",
+   "url": "https://www.blendernation.com/2026/11/23/modperf-your-blender-modifier-stack-right-at-your-cursor/",
+   "tags": [
+    "blender"
+   ],
+   "lead": "A ModPerf Blender-bővítmény az aktív objektum modifier stackjét az egérkurzor alatt lebegő panelben nyitja meg Blender 5.2-től, a Lite verzió ingyenes, a Pro 12,99 dollár.",
+   "first_seen": "2026-11-23T17:04:11+00:00",
+   "img": "https://www.blendernation.com/wp-content/uploads/2026/10/BlenderNation_featured_E_1456x672-800x450.png.webp"
+  },
   {
    "id": "yt-7WATxkqe7Bk",
    "cat": "comfy",
@@ -18,6 +138,20 @@
    "lead": "Oktatóvideó egy arcfotóból és egy ruhaképből felismerhető karaktert épít MiniMax H3 videóhoz, moduláris ComfyUI képpipeline-ban, nyílt forrású portré-, ruha- és pózgyűjtemény felhasználásával.",
    "first_seen": "2026-11-23T05:04:11+00:00",
    "yt": "7WATxkqe7Bk"
+  },
+  {
+   "id": "rss-www-cgchannel-com-2026-11-boris-fx-releases-silhouette-2027",
+   "cat": "3d",
+   "title": "Boris FX releases Silhouette 2027",
+   "date": "2026-11-22",
+   "src": "CG Channel",
+   "url": "https://www.cgchannel.com/2026/11/boris-fx-releases-silhouette-2027/",
+   "tags": [
+    "vfx",
+    "3d"
+   ],
+   "lead": "A Boris FX bejelentette a Silhouette 2027 kiadását. Az új roto- és festőszoftver AI-alapú objektumeltávolítást és szerkeszthető roto-alakzatok generálását kínálja.",
+   "first_seen": "2026-11-23T17:04:11+00:00"
   },
   {
    "id": "rss-www-blendernation-com-2026-11-22-the-modellers-journey-a-new-modeling-course-from-cg-cooki",
