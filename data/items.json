@@ -1,8 +1,68 @@
 {
- "updated": "2026-11-23T17:04:11+00:00",
- "last_morning": "2026-11-23",
+ "updated": "2026-11-24T05:03:51+00:00",
+ "last_morning": "2026-11-24",
  "last_evening": "2026-11-23",
  "items": [
+  {
+   "id": "yt-O9ZEGIJ_6ug",
+   "cat": "comfy",
+   "title": "ComfyUI Desktop Update: New Look, Apps & Cloud in One App",
+   "date": "2026-11-24",
+   "src": "YouTube · ComfyUI",
+   "url": "https://www.youtube.com/watch?v=O9ZEGIJ_6ug",
+   "tags": [
+    "comfyui",
+    "workflow"
+   ],
+   "lead": "A ComfyUI Desktop megújult: új megjelenés, natív alkalmazások node-gráf nélküli képi és videógenerálásra, valamint helyi és Comfy Cloud build egy helyen.",
+   "first_seen": "2026-11-24T05:03:51+00:00",
+   "yt": "O9ZEGIJ_6ug"
+  },
+  {
+   "id": "rss-blog-comfy-org-p-comfy-desktop-becomes-your-front",
+   "cat": "comfy",
+   "title": "Comfy Desktop becomes your front door to everything ComfyUI",
+   "date": "2026-11-23",
+   "src": "ComfyUI blog",
+   "url": "https://blog.comfy.org/p/comfy-desktop-becomes-your-front",
+   "tags": [
+    "comfyui",
+    "workflow"
+   ],
+   "lead": "A Comfy Desktop 1.2 frissítéssel a ComfyUI-ra épülő eszközök központjává válik: új felület, buildek kezelése és kész alkalmazások gráf megnyitása nélkül.",
+   "first_seen": "2026-11-24T05:03:51+00:00",
+   "img": "https://substackcdn.com/image/fetch/$s_!Z1tq!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd5c4e5a7-3851-4a17-80f9-36be558911f1_1920x1400.png"
+  },
+  {
+   "id": "rss-www-blendernation-com-2026-11-23-blockd-block-out-game-levels-on-a-grid-in-blender",
+   "cat": "3d",
+   "title": "Blockd: block out game levels on a grid in Blender",
+   "date": "2026-11-23",
+   "src": "BlenderNation",
+   "url": "https://www.blendernation.com/2026/11/23/blockd-block-out-game-levels-on-a-grid-in-blender/",
+   "tags": [
+    "blender",
+    "3d"
+   ],
+   "lead": "A Blockd Blender-bővítmény pályák blokkolásához: falak, padlók, lépcsők és ajtónyílások rácson, exportálás ütközéssel Unreal, Unity vagy Godot számára.",
+   "first_seen": "2026-11-24T05:03:51+00:00",
+   "img": "https://www.blendernation.com/wp-content/uploads/2026/11/blockd_blendernation_1456x672-800x450.jpg.webp"
+  },
+  {
+   "id": "yt-utsd_fJE5Xo",
+   "cat": "3d",
+   "title": "What is Maxon Plus?",
+   "date": "2026-11-23",
+   "src": "YouTube · Maxon",
+   "url": "https://www.youtube.com/watch?v=utsd_fJE5Xo",
+   "tags": [
+    "cinema4d",
+    "3d"
+   ],
+   "lead": "A Maxon Plus böngészőalapú eszközcsomag: 3D-s véleményezőfelület, egyedi alapmodell szobrászathoz, háttérkellékek és részletes textúrák modellekhez.",
+   "first_seen": "2026-11-24T05:03:51+00:00",
+   "yt": "utsd_fJE5Xo"
+  },
   {
    "id": "rss-www-blendernation-com-2026-11-23-pay-it-forward-help-the-blender-foundation-reach-its-fund",
    "cat": "3d",
