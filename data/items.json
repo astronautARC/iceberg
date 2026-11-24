@@ -1,8 +1,113 @@
 {
- "updated": "2026-11-24T05:03:51+00:00",
+ "updated": "2026-11-24T17:04:04+00:00",
  "last_morning": "2026-11-24",
- "last_evening": "2026-11-23",
+ "last_evening": "2026-11-24",
  "items": [
+  {
+   "id": "yt-k9j9nZoD-ck",
+   "cat": "comfy",
+   "title": "How to Make Seamless Patterns in ComfyUI | Fabric, Wallpaper & Games (Ep44)",
+   "date": "2026-11-24",
+   "src": "YouTube · pixaroma",
+   "url": "https://www.youtube.com/watch?v=k9j9nZoD-ck",
+   "tags": [
+    "comfyui",
+    "workflow"
+   ],
+   "lead": "Két új Pixaroma node-dal ComfyUI-ban ismétlődő, látható varrat nélküli mintákat lehet készíteni. A Seamless Preview ismételt mintát mutat, és ellenőrzi az éleket. Nyolc ingyenes workflow négy modellel.",
+   "first_seen": "2026-11-24T17:04:04+00:00",
+   "yt": "k9j9nZoD-ck"
+  },
+  {
+   "id": "yt-mu_8D93Dkik",
+   "cat": "claude",
+   "title": "How To Make AI Animation That Doesn't Look Generic (Full Breakdown)",
+   "date": "2026-11-24",
+   "src": "YouTube · Higgsfield AI",
+   "url": "https://www.youtube.com/watch?v=mu_8D93Dkik",
+   "tags": [
+    "ai-film",
+    "motion"
+   ],
+   "lead": "Hibrid animációs munkafolyamat: SOUL 2.0 karakterek kézzel átfestve, a jelenet Seedance 2.5-ben készül, a hangszínészetet ElevenLabs segíti. Egy készülő rövidfilm jelenetén mutatják be.",
+   "first_seen": "2026-11-24T17:04:04+00:00",
+   "yt": "mu_8D93Dkik"
+  },
+  {
+   "id": "yt-b_26a6SvZKA",
+   "cat": "3d",
+   "title": "What is Maxon Plus?",
+   "date": "2026-11-24",
+   "src": "YouTube · Maxon",
+   "url": "https://www.youtube.com/watch?v=b_26a6SvZKA",
+   "tags": [
+    "cinema4d",
+    "3d"
+   ],
+   "lead": "A Maxon Plus böngészőalapú eszközcsomag, a Maxon One-tól külön. Tartalmaz 3D-s felülvizsgálati eszközt ügyfeleknek, egyedi alapmesh-t, háttérelemeket és textúrákat.",
+   "first_seen": "2026-11-24T17:04:04+00:00",
+   "yt": "b_26a6SvZKA"
+  },
+  {
+   "id": "rss-www-blendernation-com-2026-11-24-sculptforge-0-9-3-a-free-open-source-sculpting-app-with-a",
+   "cat": "3d",
+   "title": "SculptForge 0.9.3: a free, open-source sculpting app with a two-way Blender bridge",
+   "date": "2026-11-24",
+   "src": "BlenderNation",
+   "url": "https://www.blendernation.com/2026/11/24/sculptforge-0-9-3-a-free-open-source-sculpting-app-with-a-two-way-blender-bridge/",
+   "tags": [
+    "blender",
+    "3d"
+   ],
+   "lead": "A SculptForge 0.9.3 ingyenes, nyílt forráskódú szobrászó alkalmazás Windows, macOS és Linux alatt. Egykattintásos, kétirányú híd tartozik hozzá Blenderrel.",
+   "first_seen": "2026-11-24T17:04:04+00:00",
+   "img": "https://www.blendernation.com/wp-content/uploads/2026/10/sculptforge-blendernation-728x336-1.jpg"
+  },
+  {
+   "id": "yt-KqS_vNY26vQ",
+   "cat": "comfy",
+   "title": "MiniMax H3 Just Got Faster: Pi-H3 Turbo Setup, Kijai LoRAs & Optimal Settings",
+   "date": "2026-11-24",
+   "src": "YouTube · AI Ninja",
+   "url": "https://www.youtube.com/watch?v=KqS_vNY26vQ",
+   "tags": [
+    "h3",
+    "comfyui",
+    "video"
+   ],
+   "lead": "A MiniMax H3 videómodell új, desztillált Pi-H3 Turbo változatával 2–4 lépésben renderelhetők a videók. A leírás Kijai pruned LoRA-it és ComfyUI-beállítást mutat be.",
+   "first_seen": "2026-11-24T17:04:04+00:00",
+   "yt": "KqS_vNY26vQ"
+  },
+  {
+   "id": "rss-www-blendernation-com-2026-11-24-warbird-p47-thunderbolt-from-model-to-render",
+   "cat": "3d",
+   "title": "Warbird P47 Thunderbolt – From Model to Render",
+   "date": "2026-11-24",
+   "src": "BlenderNation",
+   "url": "https://www.blendernation.com/2026/11/24/warbird-p47-thunderbolt-from-model-to-render/",
+   "tags": [
+    "blender",
+    "3d"
+   ],
+   "lead": "Richard Yot 5,5 órás Blender-kurzusa egy teljes projektet dolgoz végig: egy P-47 Thunderbolt modellezésétől a volumetrikus felhőkkel készült fotorealisztikus renderig.",
+   "first_seen": "2026-11-24T17:04:04+00:00",
+   "img": "https://www.blendernation.com/wp-content/uploads/2026/10/warbird-cover-image-blender-nation-800x450.jpg.webp"
+  },
+  {
+   "id": "yt-tvFn0h_luuU",
+   "cat": "claude",
+   "title": "NEW COURSE | Figma Design for Motion with Bekki Leahy",
+   "date": "2026-11-24",
+   "src": "YouTube · School of Motion",
+   "url": "https://www.youtube.com/watch?v=tvFn0h_luuU",
+   "tags": [
+    "motion"
+   ],
+   "lead": "Bekki Leahy 10+ órás kezdő Figma-kurzusa a motion design előkészítését mutatja be: hangulattábla, storyboard és moduláris kampánystílus készítése animáció előtt.",
+   "first_seen": "2026-11-24T17:04:04+00:00",
+   "yt": "tvFn0h_luuU"
+  },
   {
    "id": "yt-O9ZEGIJ_6ug",
    "cat": "comfy",
