@@ -1,8 +1,95 @@
 {
- "updated": "2026-11-25T05:03:49+00:00",
+ "updated": "2026-11-25T17:04:10+00:00",
  "last_morning": "2026-11-25",
- "last_evening": "2026-11-24",
+ "last_evening": "2026-11-25",
  "items": [
+  {
+   "id": "rss-www-blendernation-com-2026-11-25-creating-armour-in-blender",
+   "cat": "3d",
+   "title": "Creating Armour in Blender",
+   "date": "2026-11-25",
+   "src": "BlenderNation",
+   "url": "https://www.blendernation.com/2026/11/25/creating-armour-in-blender/",
+   "tags": [
+    "blender",
+    "3d"
+   ],
+   "lead": "Jan van den Hemel bemutatja, hogyan készíthető Maximilian-ihletésű páncél fluting-ekkel (bordázattal) Blenderben, egyszerű, alkotóbarát technikákkal.",
+   "first_seen": "2026-11-25T17:04:10+00:00",
+   "img": "https://www.blendernation.com/wp-content/uploads/2026/10/Maximilian-Long-Thumbnail-BN-800x450.jpg.webp"
+  },
+  {
+   "id": "yt-Yj6nE2P07uo",
+   "cat": "comfy",
+   "title": "This Tiny MOSS Image Model Renders (Almost) PERFECT Text and Runs LOCALLY",
+   "date": "2026-11-25",
+   "src": "YouTube · AsapGuide",
+   "url": "https://www.youtube.com/watch?v=Yj6nE2P07uo",
+   "tags": [
+    "moss"
+   ],
+   "lead": "Bemutatja a MOSS Image nevű, kis méretű nyílt forráskódú szöveg-kép modellt, amely angol és kínai szöveget jelenít meg a képeken. Helyi futtatását Unsloth Desktop alkalmazással mutatja be.",
+   "first_seen": "2026-11-25T17:04:10+00:00",
+   "yt": "Yj6nE2P07uo"
+  },
+  {
+   "id": "yt-h7oIQqSuqjc",
+   "cat": "claude",
+   "title": "Claude Is So Different Now (Every Update That Matters)",
+   "date": "2026-11-25",
+   "src": "YouTube · Paul J Lipsky",
+   "url": "https://www.youtube.com/watch?v=h7oIQqSuqjc",
+   "tags": [
+    "claude"
+   ],
+   "lead": "Összefoglalja a Claude legutóbbi, Anthropic által bevezetett hét fontosabb frissítését, köztük a táblákat, a csatlakoztatott alkalmazásokat és a tervezési funkciókat.",
+   "first_seen": "2026-11-25T17:04:10+00:00",
+   "yt": "h7oIQqSuqjc"
+  },
+  {
+   "id": "rss-www-blendernation-com-2026-11-25-outfit-refit-2-0-and-drapefix-fit-outfits-to-any-avatar-t",
+   "cat": "3d",
+   "title": "Outfit Refit 2.0 and DrapeFix: fit outfits to any avatar, then give them a real cloth drape",
+   "date": "2026-11-25",
+   "src": "BlenderNation",
+   "url": "https://www.blendernation.com/2026/11/25/outfit-refit-2-0-and-drapefix-fit-outfits-to-any-avatar-then-give-them-a-real-cloth-drape/",
+   "tags": [
+    "blender",
+    "3d"
+   ],
+   "lead": "A Meshwright két Blender-bővítményt adott ki: a DrapeFix Blender saját szövetszimulátorával ráigazítja az öltözéket az avatárra, az Outfit Refit 2.0 pedig más avatarokra illeszti át az öltözékeket.",
+   "first_seen": "2026-11-25T17:04:10+00:00",
+   "img": "https://www.blendernation.com/wp-content/uploads/2026/11/2_before_after_en_2400x1200-800x450.jpg.webp"
+  },
+  {
+   "id": "rss-www-blendernation-com-2026-11-25-lepoly-a-3d-asset-manager-from-the-founders-of-sketchfab",
+   "cat": "3d",
+   "title": "lepoly: a 3D asset manager from the founders of Sketchfab",
+   "date": "2026-11-25",
+   "src": "BlenderNation",
+   "url": "https://www.blendernation.com/2026/11/25/lepoly-a-3d-asset-manager-from-the-founders-of-sketchfab/",
+   "tags": [
+    "3d"
+   ],
+   "lead": "A Sketchfab alapítói böngészőalapú 3D-s eszközkezelő platformot indítottak lepoly néven.",
+   "first_seen": "2026-11-25T17:04:10+00:00",
+   "img": "https://www.blendernation.com/wp-content/uploads/2026/11/public.png"
+  },
+  {
+   "id": "rss-www-blendernation-com-2026-11-25-blender-studio-is-looking-for-a-heavy-metal-track-for-cow",
+   "cat": "3d",
+   "title": "Blender Studio is looking for a heavy metal track for Cowboi",
+   "date": "2026-11-25",
+   "src": "BlenderNation",
+   "url": "https://www.blendernation.com/2026/11/25/blender-studio-is-looking-for-a-heavy-metal-track-for-cowboi/",
+   "tags": [
+    "blender",
+    "3d"
+   ],
+   "lead": "A Blender Studio hard rock vagy heavy metal zenekart, illetve zeneszerzőt keres a Cowboi című nyílt filmjéhez készülő instrumentális zenei számhoz.",
+   "first_seen": "2026-11-25T17:04:10+00:00",
+   "img": "https://www.blendernation.com/wp-content/uploads/2026/11/cowboi-test-shot-800x450.jpg.webp"
+  },
   {
    "id": "yt-lDd_O3wP_qc",
    "cat": "3d",
@@ -31,6 +118,21 @@
    "lead": "Felhasználók szerint az Anthropic következő modelljei csendben tesztelhetők a Claude-ban. A videó azonos promptokon összeveti őket az Opus 5.5-tel, és bemutat egy tudásvágó-tesztet. Az Anthropic ezt nem erősítette meg.",
    "first_seen": "2026-11-25T05:03:49+00:00",
    "yt": "xC_TV3yuoSE"
+  },
+  {
+   "id": "rss-www-blendernation-com-2026-11-24-bcon-shenzhen-the-blender-conference-in-asia-takes-place",
+   "cat": "3d",
+   "title": "BCON Shenzhen: the Blender Conference in Asia takes place November 28-29",
+   "date": "2026-11-24",
+   "src": "BlenderNation",
+   "url": "https://www.blendernation.com/2026/11/24/bcon-shenzhen-the-blender-conference-in-asia-takes-place-november-28-29/",
+   "tags": [
+    "blender",
+    "3d"
+   ],
+   "lead": "A BCON Shenzhen, Ázsia Blender-konferenciája november 28-29. között zajlik Shenzhenben, Kínában.",
+   "first_seen": "2026-11-25T17:04:10+00:00",
+   "img": "https://www.blendernation.com/wp-content/uploads/2026/11/bcon-shenzhen-2026-800x450.jpg.webp"
   },
   {
    "id": "yt-jrXoCIkLgrc",
