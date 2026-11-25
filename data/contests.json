@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-24T17:04:04+00:00",
- "last_research": "2026-11-23",
+ "updated": "2026-11-25T05:03:49+00:00",
+ "last_research": "2026-11-25",
  "items": [
   {
    "id": "c-higgsfield-ai-contests-talent-contest",
@@ -558,6 +558,24 @@
    ],
    "lead": "Rövid vagy hosszú film, amelyben az AI érdemben szerepet kap, 2023 utáni munka; a nevezéshez rövid AI-használat-leírás kell. Kilenc díjkategória van, készpénzes díj nincs közölve.",
    "first_seen": "2026-11-23T05:04:11+00:00"
+  },
+  {
+   "id": "c-faif-it-com",
+   "cat": "palyazat",
+   "title": "Florence AI Festival (FAIF) – 1. kiadás",
+   "date": "2026-11-25",
+   "src": "VIA (Visual Innovation Awards)",
+   "url": "https://www.faif.it.com/",
+   "deadline": "2026-12-15",
+   "elig": "ok",
+   "fee": "15 USD",
+   "tags": [
+    "ai-film",
+    "fesztivál",
+    "animáció"
+   ],
+   "lead": "Max. 20 perces, generatív AI-t használó film, AI-nyilatkozattal. Díj: nincs pénzdíj, kategóriadíjak és trófeák. A határidő forrásonként eltér: a FilmFreeway-oldal november 4-et ír, több aggregátor december 15-öt, ezért nevezés előtt ellenőrizd.",
+   "first_seen": "2026-11-25T05:03:49+00:00"
   }
  ]
 }

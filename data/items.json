@@ -1,8 +1,111 @@
 {
- "updated": "2026-11-24T17:04:04+00:00",
- "last_morning": "2026-11-24",
+ "updated": "2026-11-25T05:03:49+00:00",
+ "last_morning": "2026-11-25",
  "last_evening": "2026-11-24",
  "items": [
+  {
+   "id": "yt-lDd_O3wP_qc",
+   "cat": "3d",
+   "title": "AI Isn't Killing Archviz. Here's What People Are Missing | RIC",
+   "date": "2026-11-25",
+   "src": "YouTube · CGconnect",
+   "url": "https://www.youtube.com/watch?v=lDd_O3wP_qc",
+   "tags": [
+    "3d",
+    "vfx"
+   ],
+   "lead": "Az archviz körüli AI-vita a kézi illusztrációról a számítógépes grafikára való átmenetre emlékeztet. Az epizód azt vizsgálja, mi változik új eszközökkel, és mi marad továbbra is az alkotó feladata.",
+   "first_seen": "2026-11-25T05:03:49+00:00",
+   "yt": "lDd_O3wP_qc"
+  },
+  {
+   "id": "yt-xC_TV3yuoSE",
+   "cat": "claude",
+   "title": "Is Claude Opus 5.6 Already Live in Stealth?",
+   "date": "2026-11-25",
+   "src": "YouTube · MattVidPro",
+   "url": "https://www.youtube.com/watch?v=xC_TV3yuoSE",
+   "tags": [
+    "claude"
+   ],
+   "lead": "Felhasználók szerint az Anthropic következő modelljei csendben tesztelhetők a Claude-ban. A videó azonos promptokon összeveti őket az Opus 5.5-tel, és bemutat egy tudásvágó-tesztet. Az Anthropic ezt nem erősítette meg.",
+   "first_seen": "2026-11-25T05:03:49+00:00",
+   "yt": "xC_TV3yuoSE"
+  },
+  {
+   "id": "yt-jrXoCIkLgrc",
+   "cat": "claude",
+   "title": "Here’s How to Cut Your Seedance 2.5 Costs in Half",
+   "date": "2026-11-24",
+   "src": "YouTube · Curious Refuge",
+   "url": "https://www.youtube.com/watch?v=jrXoCIkLgrc",
+   "tags": [
+    "video",
+    "ai-film"
+   ],
+   "lead": "A Seedance 2.5 költséges, ezért sok AI-filmes a Draft Mode-ot használná, de tart attól, hogy pontatlan képet ad. A videó két modellt hasonlít össze, és azt vizsgálja, mennyit romlik a minőség vázlatmódban.",
+   "first_seen": "2026-11-25T05:03:49+00:00",
+   "yt": "jrXoCIkLgrc"
+  },
+  {
+   "id": "rss-www-blendernation-com-2026-11-24-blender-on-tablet-the-plan-for-a-first-release",
+   "cat": "3d",
+   "title": "Blender on Tablet: the plan for a first release",
+   "date": "2026-11-24",
+   "src": "BlenderNation",
+   "url": "https://www.blendernation.com/2026/11/24/blender-on-tablet-the-plan-for-a-first-release/",
+   "tags": [
+    "blender"
+   ],
+   "lead": "A Blender HQ amszterdami workshopján megtervezte a tablet-támogatás első kiadását. A terv napi tablet-buildeket, áruházi teszteléseket, érintés- és tollbarát finomítást, asztali átadást és kompakt felületet tartalmaz.",
+   "first_seen": "2026-11-25T05:03:49+00:00",
+   "img": "https://www.blendernation.com/wp-content/uploads/2026/11/image-12.png"
+  },
+  {
+   "id": "yt-4gmEzsXOO6Q",
+   "cat": "comfy",
+   "title": "MOSS TURBO - 4 Steps ONLY! Fast & Uncensored - EASY Install Guide",
+   "date": "2026-11-24",
+   "src": "YouTube · Olivio Sarikas",
+   "url": "https://www.youtube.com/watch?v=4gmEzsXOO6Q",
+   "tags": [
+    "comfyui",
+    "moss",
+    "workflow"
+   ],
+   "lead": "Telepítési útmutató a MOSS-Image 4 lépéses turbo LoRA-hoz ComfyUI-ban: LoRA Manager csomópont, Civitai-letöltés és a workflow átalakítása. A videó CFG-, sampler- és scheduler-beállításokat is ajánl, és képeket hasonlít össze.",
+   "first_seen": "2026-11-25T05:03:49+00:00",
+   "yt": "4gmEzsXOO6Q"
+  },
+  {
+   "id": "rss-www-cgchannel-com-2026-11-discover-bot-vfxs-hybrid-ai-vfx-pipeline-for-young-washington",
+   "cat": "3d",
+   "title": "Discover BOT VFX’s hybrid AI VFX pipeline for Young Washington",
+   "date": "2026-11-24",
+   "src": "CG Channel",
+   "url": "https://www.cgchannel.com/2026/11/discover-bot-vfxs-hybrid-ai-vfx-pipeline-for-young-washington/",
+   "tags": [
+    "vfx",
+    "ai-film"
+   ],
+   "lead": "A BOT VFX a Young Washington történelmi drámához hibrid pipeline-t épített: a FLUX.2 Klein és a Wan AI-modelleket hagyományos Maya-Nuke munkafolyamattal kombinálta.",
+   "first_seen": "2026-11-25T05:03:49+00:00"
+  },
+  {
+   "id": "yt-JTfLKHp_tH4",
+   "cat": "claude",
+   "title": "Kuehne+Nagel x Artlist",
+   "date": "2026-11-24",
+   "src": "YouTube · Artlist",
+   "url": "https://www.youtube.com/watch?v=JTfLKHp_tH4",
+   "tags": [
+    "ai-film",
+    "motion"
+   ],
+   "lead": "A Kuehne+Nagel logisztikai márka Artlist-tel készült „Where Next” dokumentumsorozata négy cannes-i díjat nyert. A produkció valós felvételeket és AI-generált jeleneteket kombinál.",
+   "first_seen": "2026-11-25T05:03:49+00:00",
+   "yt": "JTfLKHp_tH4"
+  },
   {
    "id": "yt-k9j9nZoD-ck",
    "cat": "comfy",
