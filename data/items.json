@@ -1,8 +1,39 @@
 {
- "updated": "2026-11-25T17:04:10+00:00",
- "last_morning": "2026-11-25",
+ "updated": "2026-11-26T05:03:38+00:00",
+ "last_morning": "2026-11-26",
  "last_evening": "2026-11-25",
  "items": [
+  {
+   "id": "yt-PBrfQy7W6fI",
+   "cat": "claude",
+   "title": "PI-H3，No VAE! 2 Steps! 10s 768p Video in Just 50 Seconds!",
+   "date": "2026-11-26",
+   "src": "YouTube · Veteran AI",
+   "url": "https://www.youtube.com/watch?v=PBrfQy7W6fI",
+   "tags": [
+    "h3",
+    "video",
+    "ai-film"
+   ],
+   "lead": "A pi-H3 gyorsító LoRA a MiniMax H3 videómodellhez, 2 mintavételi lépéssel is generál videót. A DWD változat VAE-dekódolás nélkül működik. A leírás szerint 5 másodperces 768p klip 25 másodperc alatt készül.",
+   "first_seen": "2026-11-26T05:03:38+00:00",
+   "yt": "PBrfQy7W6fI"
+  },
+  {
+   "id": "yt-S5fMIf3RQ2U",
+   "cat": "claude",
+   "title": "This Is The Cheapest AI Video Model I've Ever Tested ($0.08/Second)",
+   "date": "2026-11-25",
+   "src": "YouTube · Higgsfield AI",
+   "url": "https://www.youtube.com/watch?v=S5fMIf3RQ2U",
+   "tags": [
+    "video",
+    "ai-film"
+   ],
+   "lead": "A MAGI-2 videómodell a Higgsfield platformon érhető el, legfeljebb 30 másodperc 1080p videót generál natív hanggal, másodpercenként 0,08 dollárért. A leírás animációs és motion design példákat mutat be.",
+   "first_seen": "2026-11-26T05:03:38+00:00",
+   "yt": "S5fMIf3RQ2U"
+  },
   {
    "id": "rss-www-blendernation-com-2026-11-25-creating-armour-in-blender",
    "cat": "3d",
@@ -118,6 +149,20 @@
    "lead": "Felhasználók szerint az Anthropic következő modelljei csendben tesztelhetők a Claude-ban. A videó azonos promptokon összeveti őket az Opus 5.5-tel, és bemutat egy tudásvágó-tesztet. Az Anthropic ezt nem erősítette meg.",
    "first_seen": "2026-11-25T05:03:49+00:00",
    "yt": "xC_TV3yuoSE"
+  },
+  {
+   "id": "rss-www-fxguide-com-fxpodcasts-odyssey",
+   "cat": "3d",
+   "title": "The Odyssey: monsters, miniatures and original negative",
+   "date": "2026-11-24",
+   "src": "fxguide",
+   "url": "https://www.fxguide.com/fxpodcasts/odyssey/",
+   "tags": [
+    "vfx"
+   ],
+   "lead": "A The Odyssey VFX-munkáját ismerteti Christopher Nolan filmjében: 10 méteres küklopsz, kicsinyített hajómodellek és Trója égése. Andrew Jackson VFX-szupervizor és Scott Fisher speciális effektes vezető beszél a munkáról.",
+   "first_seen": "2026-11-26T05:03:38+00:00",
+   "img": "https://www.fxguide.com/wp-content/uploads/2026/11/fxg-featured-OdysseyA.jpg"
   },
   {
    "id": "rss-www-blendernation-com-2026-11-24-bcon-shenzhen-the-blender-conference-in-asia-takes-place",
@@ -327,6 +372,20 @@
    "lead": "A ComfyUI Desktop megújult: új megjelenés, natív alkalmazások node-gráf nélküli képi és videógenerálásra, valamint helyi és Comfy Cloud build egy helyen.",
    "first_seen": "2026-11-24T05:03:51+00:00",
    "yt": "O9ZEGIJ_6ug"
+  },
+  {
+   "id": "yt-_Q4inzSIZN0",
+   "cat": "claude",
+   "title": "Claude Duet Review: Features, Pricing & Hands-On Demo",
+   "date": "2026-11-23",
+   "src": "YouTube · The Tech Girl",
+   "url": "https://www.youtube.com/watch?v=_Q4inzSIZN0",
+   "tags": [
+    "claude"
+   ],
+   "lead": "Az Anthropic Claude Duet nevű proaktív asszisztensét mutatja be asztali és mobilalkalmazással, közös memóriával, Tasks és Make fülekkel. Összeveti a Meta Muse, ChatGPT Dots és GrokBot megoldásaival.",
+   "first_seen": "2026-11-26T05:03:38+00:00",
+   "yt": "_Q4inzSIZN0"
   },
   {
    "id": "rss-blog-comfy-org-p-comfy-desktop-becomes-your-front",
