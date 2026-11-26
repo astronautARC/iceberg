@@ -1,8 +1,84 @@
 {
- "updated": "2026-11-26T05:03:38+00:00",
+ "updated": "2026-11-26T17:03:40+00:00",
  "last_morning": "2026-11-26",
- "last_evening": "2026-11-25",
+ "last_evening": "2026-11-26",
  "items": [
+  {
+   "id": "yt-Q6axanbs-Q4",
+   "cat": "comfy",
+   "title": "ComfyUI VAE Explained: Load VAE, VAE Decode and VAE Encode",
+   "date": "2026-11-26",
+   "src": "YouTube · pixaroma",
+   "url": "https://www.youtube.com/watch?v=Q6axanbs-Q4",
+   "tags": [
+    "comfyui",
+    "workflow"
+   ],
+   "lead": "A ComfyUI VAE-csomópontjait mutatja be: VAE Decode, Load VAE, VAE Encode és tiled VAE Decode. Kitér a modellhez illő VAE kiválasztására, a saját fotóról indított generálásra és a nagy képek kezelésére.",
+   "first_seen": "2026-11-26T17:03:40+00:00",
+   "yt": "Q6axanbs-Q4"
+  },
+  {
+   "id": "yt-VHEWQVyA1f0",
+   "cat": "claude",
+   "title": "How to Make AI Video Look Real With Seedance 2.5 in 4K:",
+   "date": "2026-11-26",
+   "src": "YouTube · Artlist",
+   "url": "https://www.youtube.com/watch?v=VHEWQVyA1f0",
+   "tags": [
+    "video",
+    "ai-film",
+    "skill"
+   ],
+   "lead": "A Seedance 2.5 4K-s felbontásban érhető el az Artlist-en, a videó pedig tippeket ad arra, hogyan lesz az AI-videó valósághűbb. Ingyenes Claude-skilleket is megosztanak a bemutatóhoz.",
+   "first_seen": "2026-11-26T17:03:40+00:00",
+   "yt": "VHEWQVyA1f0"
+  },
+  {
+   "id": "yt-Zi9caGLoxsQ",
+   "cat": "claude",
+   "title": "How to Generate a GIF Animation with Gemini AI",
+   "date": "2026-11-26",
+   "src": "YouTube · AsapGuide",
+   "url": "https://www.youtube.com/watch?v=Zi9caGLoxsQ",
+   "tags": [
+    "video",
+    "ai-film"
+   ],
+   "lead": "Rövid GIF-animáció készíthető a Gemini AI-val szövegből, fotóból vagy logóból a Gemini Omni 1.2 Flash videómodellel. A videó a korlátokat is bemutatja, például a körülbelül három másodperces hosszt.",
+   "first_seen": "2026-11-26T17:03:40+00:00",
+   "yt": "Zi9caGLoxsQ"
+  },
+  {
+   "id": "rss-www-blendernation-com-2026-11-26-unrealizex-made-40-models-with-one-command-and-no-generat",
+   "cat": "3d",
+   "title": "UnrealizeX made 40 models with one command and no generative AI",
+   "date": "2026-11-26",
+   "src": "BlenderNation",
+   "url": "https://www.blendernation.com/2026/11/26/unrealizex-made-40-models-with-one-command-and-no-generative-ai/",
+   "tags": [
+    "blender",
+    "3d"
+   ],
+   "lead": "A UnrealizeX mostantól Blender-bővítményként érhető el, amely akár egyetlen képből is rekonstruál 3D-modelleket. A fejlesztők szerint a folyamat nem használ generatív AI-t, hacsak nem kap ilyen képet bemenetként.",
+   "first_seen": "2026-11-26T17:03:40+00:00",
+   "img": "https://www.blendernation.com/wp-content/uploads/2026/10/06_the_command-800x450.png.webp"
+  },
+  {
+   "id": "rss-www-blendernation-com-2026-11-26-enso-engine-1-1-a-free-blender-build-for-anime-and-npr",
+   "cat": "3d",
+   "title": "Ensō Engine 1.1: a free Blender build for anime and NPR",
+   "date": "2026-11-26",
+   "src": "BlenderNation",
+   "url": "https://www.blendernation.com/2026/11/26/enso-engine-1-1-a-free-blender-build-for-anime-and-npr/",
+   "tags": [
+    "blender",
+    "3d"
+   ],
+   "lead": "A Mix 3D Design ingyenes, nyílt forráskódú Blender-változatot adott ki animéhez és nem fotorealisztikus munkához, Ensō Engine 1.1 néven.",
+   "first_seen": "2026-11-26T17:03:40+00:00",
+   "img": "https://www.blendernation.com/wp-content/uploads/2026/11/r_class-800x450.jpg.webp"
+  },
   {
    "id": "yt-PBrfQy7W6fI",
    "cat": "claude",
@@ -18,6 +94,21 @@
    "lead": "A pi-H3 gyorsító LoRA a MiniMax H3 videómodellhez, 2 mintavételi lépéssel is generál videót. A DWD változat VAE-dekódolás nélkül működik. A leírás szerint 5 másodperces 768p klip 25 másodperc alatt készül.",
    "first_seen": "2026-11-26T05:03:38+00:00",
    "yt": "PBrfQy7W6fI"
+  },
+  {
+   "id": "yt-J-3RVFnNsLE",
+   "cat": "claude",
+   "title": "EASIEST Animation Transfer In The world - (Higgsfield)",
+   "date": "2026-11-25",
+   "src": "YouTube · Royal Skies",
+   "url": "https://www.youtube.com/watch?v=J-3RVFnNsLE",
+   "tags": [
+    "video",
+    "ai-film"
+   ],
+   "lead": "A Higgsfield animációátvitel (animation transfer) funkcióját mutatja be AI-videókhoz. A leírás főleg a szolgáltatást népszerűsíti, technikai részletek nélkül.",
+   "first_seen": "2026-11-26T17:03:40+00:00",
+   "yt": "J-3RVFnNsLE"
   },
   {
    "id": "yt-S5fMIf3RQ2U",
