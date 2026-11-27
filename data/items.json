@@ -1,8 +1,161 @@
 {
- "updated": "2026-11-27T05:04:16+00:00",
+ "updated": "2026-11-27T17:03:57+00:00",
  "last_morning": "2026-11-27",
- "last_evening": "2026-11-26",
+ "last_evening": "2026-11-27",
  "items": [
+  {
+   "id": "yt-txSGP9ElUfs",
+   "cat": "comfy",
+   "title": "I just upgraded my free AI VFX PIPELINE",
+   "date": "2026-11-27",
+   "src": "YouTube · Mickmumpitz",
+   "url": "https://www.youtube.com/watch?v=txSGP9ElUfs",
+   "tags": [
+    "comfyui",
+    "workflow",
+    "vfx"
+   ],
+   "lead": "Mickmumpitz hét technikát mutat be a VFX-jelenetek vezérlésére ComfyUI-ban: a promptszerkesztéstől a referenciaképeken, ControlNeten és referenciavideón át a 3D-jelenetekig.",
+   "first_seen": "2026-11-27T17:03:57+00:00",
+   "yt": "txSGP9ElUfs"
+  },
+  {
+   "id": "rss-www-blendernation-com-2026-11-27-blender-advent-calendar-25-days-of-add-on-reviews-deals-a",
+   "cat": "3d",
+   "title": "Blender Advent Calendar: 25 Days of Add-on Reviews, Deals and Giveaways",
+   "date": "2026-11-27",
+   "src": "BlenderNation",
+   "url": "https://www.blendernation.com/2026/11/27/blender-advent-calendar-25-days-of-add-on-reviews-deals-and-giveaways/",
+   "tags": [
+    "blender",
+    "3d"
+   ],
+   "lead": "Benjamin van der Starre decemberi naptárában minden nap egy Blender-bővítményt, eszközt vagy kurzust mutat be gyakorlati tesztben, a készítők kiegészítő akcióival.",
+   "first_seen": "2026-11-27T17:03:57+00:00",
+   "img": "https://www.blendernation.com/wp-content/uploads/2026/11/Without-Text-800x450.png.webp"
+  },
+  {
+   "id": "yt-93sD2l9LJeQ",
+   "cat": "claude",
+   "title": "CONSISTENT AI Anime Weapons - (Higgsfield)",
+   "date": "2026-11-27",
+   "src": "YouTube · Royal Skies",
+   "url": "https://www.youtube.com/watch?v=93sD2l9LJeQ",
+   "tags": [
+    "video",
+    "ai-film"
+   ],
+   "lead": "Eljárás a fegyverek következetességének megőrzésére AI-animált jelenetekben a Higgsfield platformon. A videó ajánlókódos linket is tartalmaz.",
+   "first_seen": "2026-11-27T17:03:57+00:00",
+   "yt": "93sD2l9LJeQ"
+  },
+  {
+   "id": "yt-a7tSbvBtBio",
+   "cat": "comfy",
+   "title": "Minimax H3 pi-H3 in ComfyUI Gen Without a VAE Decoder - Speed vs Quality, Honest Verdict",
+   "date": "2026-11-27",
+   "src": "YouTube · Benji’s AI Playground",
+   "url": "https://www.youtube.com/watch?v=a7tSbvBtBio",
+   "tags": [
+    "comfyui",
+    "h3",
+    "video"
+   ],
+   "lead": "A pi-H3 dekóder nélküli, nyílt forráskódú videómodell ComfyUI-ban, összevetve a sima MiniMax H3-mal sebesség és minőség szempontjából, 2 vagy 4 mintavételi lépéssel.",
+   "first_seen": "2026-11-27T17:03:57+00:00",
+   "yt": "a7tSbvBtBio"
+  },
+  {
+   "id": "rss-www-blendernation-com-2026-11-27-render-bender-brings-colour-grading-and-camera-effects-to",
+   "cat": "3d",
+   "title": "Render Bender brings colour grading and camera effects to Blender",
+   "date": "2026-11-27",
+   "src": "BlenderNation",
+   "url": "https://www.blendernation.com/2026/11/27/render-bender-brings-colour-grading-and-camera-effects-to-blender/",
+   "tags": [
+    "blender",
+    "vfx",
+    "3d"
+   ],
+   "lead": "A Render Bender Blender-bővítmény renderek utómunkájához kínál színkorrekciót, atmoszférát, render-passek igazítását és kamera-effekteket, 74 presettel és animált VFX-ekkel.",
+   "first_seen": "2026-11-27T17:03:57+00:00",
+   "img": "https://www.blendernation.com/wp-content/uploads/2026/11/Render_Bender_1920x1080_No3DTudor-800x450.png.webp"
+  },
+  {
+   "id": "yt-GrFez9F0TF4",
+   "cat": "claude",
+   "title": "How To Make VIRAL Animated Shorts Using Claude Code (Full Workflow)",
+   "date": "2026-11-27",
+   "src": "YouTube · Higgsfield AI",
+   "url": "https://www.youtube.com/watch?v=GrFez9F0TF4",
+   "tags": [
+    "claude",
+    "skill",
+    "mcp",
+    "ai-film"
+   ],
+   "lead": "Bemutató, hogyan készíthetők animált rövid videók Claude Code-dal, Claude Skillekkel és Higgsfield MCP-vel. A videó promóciós elemeket is tartalmaz.",
+   "first_seen": "2026-11-27T17:03:57+00:00",
+   "yt": "GrFez9F0TF4"
+  },
+  {
+   "id": "rss-www-blendernation-com-2026-11-27-procity-a-procedural-city-generator-for-blender",
+   "cat": "3d",
+   "title": "ProCity – A Procedural City Generator for Blender",
+   "date": "2026-11-27",
+   "src": "BlenderNation",
+   "url": "https://www.blendernation.com/2026/11/27/procity-a-procedural-city-generator-for-blender/",
+   "tags": [
+    "blender",
+    "3d"
+   ],
+   "lead": "A ProCity egy Blender-bővítmény procedurális 3D-városok generálására, az egyedi épülettől a teljes metropoliszig. Az utakat, háztömböket és épületeket közvetlenül Blenderben hozza létre, kiterjedt testreszabási lehetőségekkel.",
+   "first_seen": "2026-11-27T17:03:57+00:00",
+   "img": "https://www.blendernation.com/wp-content/uploads/2026/11/blendernation_thumbnail-800x450.png.webp"
+  },
+  {
+   "id": "rss-www-blendernation-com-2026-11-27-blender-5-2-5-lts-and-4-5-17-lts-released",
+   "cat": "3d",
+   "title": "Blender 5.2.5 LTS and 4.5.17 LTS released",
+   "date": "2026-11-27",
+   "src": "BlenderNation",
+   "url": "https://www.blendernation.com/2026/11/27/blender-5-2-5-lts-and-4-5-17-lts-released/",
+   "tags": [
+    "blender"
+   ],
+   "lead": "A Blender Foundation kiadta a 5.2.5 LTS és a 4.5.17 LTS verziót. Mindkettő karbantartó frissítés, kizárólag hibajavításokkal.",
+   "first_seen": "2026-11-27T17:03:57+00:00",
+   "img": "https://www.blendernation.com/wp-content/uploads/2017/08/BlenderDesktopLogo-728x336-702x336.png"
+  },
+  {
+   "id": "yt-UGMhGAlIk3U",
+   "cat": "claude",
+   "title": "My Plan to Print $10k+/mo with GTA 6 + AI (low competition)",
+   "date": "2026-11-26",
+   "src": "YouTube · Sanji Nai-Chien",
+   "url": "https://www.youtube.com/watch?v=UGMhGAlIk3U",
+   "tags": [
+    "claude",
+    "mcp"
+   ],
+   "lead": "A videó a Claude és a Higgsfield AI összekapcsolását mutatja be MCP-összekötővel, ahol a Claude irányítja a munkát, a Higgsfield pedig a képi és hangi tartalmakat építi. A példák lépésenként készülő munkafolyamatok.",
+   "first_seen": "2026-11-27T17:03:57+00:00",
+   "yt": "UGMhGAlIk3U"
+  },
+  {
+   "id": "rss-www-cgchannel-com-2026-11-tutorial-introduction-to-marvelous-designer-2",
+   "cat": "3d",
+   "title": "Tutorial: Introduction to Marvelous Designer",
+   "date": "2026-11-26",
+   "src": "CG Channel",
+   "url": "https://www.cgchannel.com/2026/11/tutorial-introduction-to-marvelous-designer-2/",
+   "tags": [
+    "3d",
+    "vfx"
+   ],
+   "lead": "Bevezető oktatóanyag a Marvelous Designerhez, a játék- és VFX-iparban szabványnak számító 3D ruhatervező szoftverhez. A Gnomon Workshop kezdőknek szóló anyaga.",
+   "first_seen": "2026-11-27T17:03:57+00:00"
+  },
   {
    "id": "yt-ZWKNe-zZqaI",
    "cat": "comfy",
