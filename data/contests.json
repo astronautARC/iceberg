@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-26T17:03:40+00:00",
- "last_research": "2026-11-25",
+ "updated": "2026-11-27T05:04:16+00:00",
+ "last_research": "2026-11-27",
  "items": [
   {
    "id": "c-higgsfield-ai-contests-talent-contest",
@@ -576,6 +576,23 @@
    ],
    "lead": "Max. 20 perces, generatív AI-t használó film, AI-nyilatkozattal. Díj: nincs pénzdíj, kategóriadíjak és trófeák. A határidő forrásonként eltér: a FilmFreeway-oldal november 4-et ír, több aggregátor december 15-öt, ezért nevezés előtt ellenőrizd.",
    "first_seen": "2026-11-25T05:03:49+00:00"
+  },
+  {
+   "id": "c-fantasiafestival-com-en-submissions-submissions-faq",
+   "cat": "palyazat",
+   "title": "Fantasia International Film Festival (AI-disclosure film submissions)",
+   "date": "2026-11-27",
+   "src": "Fantasia International Film Festival",
+   "url": "https://fantasiafestival.com/en/submissions/submissions-faq",
+   "deadline": "2026-12-01",
+   "elig": "ok",
+   "fee": "nincs megadva",
+   "tags": [
+    "ai-film",
+    "fesztivál"
+   ],
+   "lead": "Egész- és rövidfilm nevezése (AI-használat bejelentése kötelező, a generatív AI is). Korai határidő dec. 1., rendes határidő 2027. jan. 1.; pénzdíj nincs megadva.",
+   "first_seen": "2026-11-27T05:04:16+00:00"
   }
  ]
 }

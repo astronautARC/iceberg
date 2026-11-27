@@ -1,8 +1,25 @@
 {
- "updated": "2026-11-26T17:03:40+00:00",
- "last_morning": "2026-11-26",
+ "updated": "2026-11-27T05:04:16+00:00",
+ "last_morning": "2026-11-27",
  "last_evening": "2026-11-26",
  "items": [
+  {
+   "id": "yt-ZWKNe-zZqaI",
+   "cat": "comfy",
+   "title": "Minimax Lip Sync Updated: Generate Long Videos Using Context Windows",
+   "date": "2026-11-26",
+   "src": "YouTube · AI Ninja",
+   "url": "https://www.youtube.com/watch?v=ZWKNe-zZqaI",
+   "tags": [
+    "comfyui",
+    "h3",
+    "video",
+    "workflow"
+   ],
+   "lead": "A Minimax H3 lip sync modell hosszú videók generálása context window-k segítségével. Szó esik a két lépcsős draft és upscale architektúráról, a 17*n+5 képletről és a ComfyUI PR #17884-ről, amely a nagy felbontású VRAM-túlcsordulást kezeli.",
+   "first_seen": "2026-11-27T05:04:16+00:00",
+   "yt": "ZWKNe-zZqaI"
+  },
   {
    "id": "yt-Q6axanbs-Q4",
    "cat": "comfy",
