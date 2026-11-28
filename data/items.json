@@ -1,8 +1,39 @@
 {
- "updated": "2026-11-27T17:03:57+00:00",
- "last_morning": "2026-11-27",
+ "updated": "2026-11-28T05:03:51+00:00",
+ "last_morning": "2026-11-28",
  "last_evening": "2026-11-27",
  "items": [
+  {
+   "id": "rss-www-blendernation-com-2026-11-27-autonomode-procedural-car-animation-for-blender-free-lite",
+   "cat": "3d",
+   "title": "AutonoMode, procedural car animation for Blender (free Lite version)",
+   "date": "2026-11-27",
+   "src": "BlenderNation",
+   "url": "https://www.blendernation.com/2026/11/27/autonomode-procedural-car-animation-for-blender-free-lite-version/",
+   "tags": [
+    "blender",
+    "3d",
+    "motion"
+   ],
+   "lead": "Ingyenes Lite verziós Blender-bővítmény, amely a feltöltött autómodellt a megadott küldetés szerint önállóan vezeti. Az animáció szerkeszthető kulcskockákként rögzül, utólag kézzel is módosítható.",
+   "first_seen": "2026-11-28T05:03:51+00:00",
+   "img": "https://www.blendernation.com/wp-content/uploads/2026/11/autonomode_clean_1456x672-800x450.jpg.webp"
+  },
+  {
+   "id": "yt-dRDU8HXVzi8",
+   "cat": "claude",
+   "title": "How to Make Pro-Level AI Animation (Complete Guide)",
+   "date": "2026-11-27",
+   "src": "YouTube · Curious Refuge",
+   "url": "https://www.youtube.com/watch?v=dRDU8HXVzi8",
+   "tags": [
+    "ai-film",
+    "motion"
+   ],
+   "lead": "Albert Bozesan a Tarmac animált sitcom munkafolyamatát mutatja be: újrafelhasználható karakterekkel, Photoshopos rétegelt kulcskockákkal és Seedance 2.0 modellel készült párbeszédjelenet.",
+   "first_seen": "2026-11-28T05:03:51+00:00",
+   "yt": "dRDU8HXVzi8"
+  },
   {
    "id": "yt-txSGP9ElUfs",
    "cat": "comfy",
